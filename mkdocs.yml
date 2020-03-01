@@ -6,5 +6,4 @@ nav:
     - Learn Docs: learndocs.md
     - 'Trinity Of Terror':
         - 'Goghand': './chars/goghand.md':
-        - 'Enemies': './chars/goghanden.md':
 theme: readthedocs
