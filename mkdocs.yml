@@ -4,4 +4,5 @@ nav:
     - About: about.md
     - French: french.md
     - Learn Docs: learndocs.md
+    - Goghand: ./chars/goghand.md
 theme: readthedocs
