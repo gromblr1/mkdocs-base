@@ -5,6 +5,6 @@ nav:
     - French: french.md
     - Learn Docs: learndocs.md
     - Goghand: ./chars/goghand.md
-    - 'tesgog': ./chars/goghand.md
+    - 'tesgog': 
         - 'gogs enemz': 'goghanden.md'
 theme: readthedocs
