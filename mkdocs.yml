@@ -2,9 +2,7 @@ site_name: GOGHAND
 nav:
     - Home: index.md
     - About: about.md
-    - French: french.md	    
+    - French: french.md
     - Learn Docs: learndocs.md
-    - 'Goghand':
-       'tesgog': './chars/goghand.md'
-        
-theme: readthedocs	theme: readthedocs
+    - Goghand: ./chars/goghand.md
+theme: readthedocs
