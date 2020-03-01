@@ -4,4 +4,4 @@ nav:
     - About: about.md
     - French: french.md
     - Learn Docs: learndocs.md
-theme: Alabaster
+theme: readthedocs
