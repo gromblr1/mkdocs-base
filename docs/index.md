@@ -28,7 +28,7 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
 
 <code>html code tag</code>
 
-Cette vs ce
-* This is an ex.
-* This is also an EXXX.
-* And this ladies and gents, is an EXEMPLAR.
+Cette vs ce  
+* This is an ex.  
+* This is also an EXXX.  
+* And this ladies and gents, is an EXEMPLAR.  
