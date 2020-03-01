@@ -39,6 +39,13 @@ Quand **vas-tu** a New York ? = When **are you going** to New York ?
 **Tu vas** aux États-Unis ? = Are you going to the United States.  
 <div class="note">*Note*: Instead of au, use **aux** when the place you are going to is plural. </div>
 
+## ARE YOU GOING2
+* Quand **vas-tu** a New York ? = When **are you going** to New York ?  
+* **Tu vas** aux États-Unis ? = Are you going to the United States.  
+<code>*Note*: Instead of au, use **aux** when the place you are going to is plural. </code>  
+  A test note thtat can be deleted. 4 spaces.
+
+
 ## THEY ARE GOING
 **Ils vont** aux toilettes. = They are going tot he restroom.  
 Les Français **vont** à la boulangerie tous les jours. = The French **go** to the bakery every day.  
