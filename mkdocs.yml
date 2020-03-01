@@ -4,7 +4,6 @@ nav:
     - About: about.md
     - French: french.md
     - Learn Docs: learndocs.md
-    - Goghand: ./chars/goghand.md
-       - 'User Guide':
-        - 'Writing your docs': 'writing-your-docs.md'
+    - 'Goghand':
+        - 'tesgog': './chars/goghand.md'
 theme: readthedocs
