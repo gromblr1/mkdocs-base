@@ -4,7 +4,5 @@ nav:
     - About: about.md
     - French: french.md
     - Learn Docs: learndocs.md
-    - Goghand: ./chars/goghand.md
-    - 'tesgog': 
-        - 'gogs enemz': 'goghanden.md'
+    - Trinity Of Terror: /tot/index.md
 theme: readthedocs
