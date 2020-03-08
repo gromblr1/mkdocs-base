@@ -2,7 +2,8 @@ site_name: GOGNAUTS
 nav:
     - Home: index.md
     - About: about.md
+    - Trinity Of Terror: ./tot/
     - French: french.md
     - Learn Docs: learndocs.md
-    - Trinity Of Terror: ./tot/
+    - Javascript: ./js/
 theme: readthedocs
