@@ -35,3 +35,6 @@
 
 *Note: "**const**" is like **var** or **let** except it cannot be changed.*  
 *Note 2: Reusable code blocks are called "**functions**".*  
+
+*Properties use dot operator (like .length)
+*Methods also use dot operator but with paranthesis like .trim() or .toUpperCase
