@@ -27,4 +27,7 @@
         para.textContent = 'Player 1: ' + name;
       }
     </script>
-  
+    
+<font color="blue">**query.Selector**</blue> is called a METHOD that you can use on the *document object* ('p').  
+*Note: "**const**" is like **var** or **let** except it cannot be changed.*  
+*Note 2: Reusable code blocks are called "**functions**".*  
