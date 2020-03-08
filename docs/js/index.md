@@ -28,6 +28,10 @@
       }
     </script>
     
-<font color="blue">**query.Selector**</blue> is called a METHOD that you can use on the *document object* ('p').  
+* <font color="blue">**querySelector**</blue> is called a METHOD that you can use on the *document object* ('p').  
+> objectName.methodName()  
+* <font color="red">**addEventlistener**</font> is a called a method.  
+* **click** is an event handler.  
+
 *Note: "**const**" is like **var** or **let** except it cannot be changed.*  
 *Note 2: Reusable code blocks are called "**functions**".*  
