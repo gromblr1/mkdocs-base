@@ -1,9 +1,9 @@
 <head>
 <style>
-blue {color:blue;}
+em { color: orange }
 </style>
 </head>
-<blue>test blue</blue>
+__test orange
 # 1st tutorial follow along > https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
 
 > <style>
