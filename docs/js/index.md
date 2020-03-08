@@ -1,10 +1,3 @@
-<head>
-<style>
-em { color: orange }
-</style>
-</head>
-__test orange
-# 1st tutorial follow along > https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
 
 > <style>
 p {
@@ -24,7 +17,6 @@ p {
 </style>
 
     <p>Player 1: Chris</p> 
-```javascript
 
     <script>
       const para = document.querySelector('p');
