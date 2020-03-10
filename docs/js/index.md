@@ -41,3 +41,17 @@
 *Built-in objects, including Math, are collections of methods and properties that JavaScript provides.
 
 [Cheat Sheet Javascript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+
+
+    let isEric = true;
+    if (true) {
+    console.log('im ericson');
+        }
+    else {
+    console.log('i aint ericson');
+        }
+
+
+    let isEric2 = true;
+    let name = "Ericsonnnn"
+    isEric ? console.log('im ericson') : console.log(`i aint ${name}`);
