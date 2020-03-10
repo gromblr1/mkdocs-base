@@ -42,7 +42,7 @@
 
 [Cheat Sheet Javascript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 
-$ If/Else Statements
+# If/Else Statements
     let isEric = true;
     if (true) {
     console.log('im ericson');
