@@ -42,7 +42,7 @@
 
 [Cheat Sheet Javascript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 
-
+$ If/Else Statements
     let isEric = true;
     if (true) {
     console.log('im ericson');
@@ -55,3 +55,13 @@
     let isEric2 = true;
     let name = "Ericsonnnn"
     isEric ? console.log('im ericson') : console.log(`i aint ${name}`);
+
+# Logical Operators
+    let mood = 'sleepster';
+    let trdLevel = 2;
+    if (mood === 'sleepster' && trdLevel > 5){
+        console.log('IM FUCKING TIRED');
+        }
+        else {
+        console.log('im not sleepy hehe');  
+        }
