@@ -42,6 +42,8 @@
 
 [Cheat Sheet Javascript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 
+[Javascript W3 Tutorials/Exercises](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
+
 # If/Else Statements
     let isEric = true;
     if (true) {
