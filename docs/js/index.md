@@ -56,6 +56,26 @@
     let name = "Ericsonnnn"
     isEric ? console.log('im ericson') : console.log(`i aint ${name}`);
 
+# ELSE IFs
+
+    let season = 'spring';
+
+    if (season === 'spring') {
+    console.log('It\'s spring! The trees are budding!');
+    } else {
+    console.log('Invalid season.');
+    }
+
+    let stopLight ='others';
+
+    if (stopLight === 'red') {
+    console.log('STOP.');
+    } else if (stopLight === 'yellow') { console.log(`Slow down, itz ${stopLight}`);}
+    else if (stopLight === 'green') {
+    console.log(`slow tf down, itz ${stopLight}`);
+         }
+    else { console.log('i dunno tbh');}
+
 # Logical Operators
     let mood = 'sleepster';
     let trdLevel = 2;
