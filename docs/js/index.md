@@ -36,9 +36,10 @@
 *Note: "**const**" is like **var** or **let** except it cannot be changed.*  
 *Note 2: Reusable code blocks are called "**functions**".*  
 
-*Properties use dot operator (like .length)
-*Methods also use dot operator but with paranthesis like .trim() or .toUpperCase()
-*Built-in objects, including Math, are collections of methods and properties that JavaScript provides.
+* Properties use dot operator (like .length)
+* Methods also use dot operator but with paranthesis like .trim() or .toUpperCase()
+* Built-in objects, including Math, are collections of methods and properties that JavaScript provides.
+* Code not inside a function is GLOBAL.
 
 [Cheat Sheet Javascript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 
