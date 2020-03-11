@@ -50,7 +50,14 @@
 
 # Parameters
 <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/function+parameters.svg">
-<img src="">
+
+# Arguments
+    function sayThanks(name) {
+    console.log('Thank you for your purchase ' + name + '! We appreciate your business.');
+    }
+    sayThanks('Cole');      
+<img src="https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/by_variable.svg">
+* Outside of the curly braces, the function sayThanks is **called** and an **argument** (value) is put in there.
 
 # If/Else Statements
     let isEric = true;
