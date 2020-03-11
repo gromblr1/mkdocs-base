@@ -45,32 +45,61 @@
 
 [Javascript W3 Tutorials/Exercises](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
 
-(Conditionals cheat sheet)(https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/cheatsheet)
-* Control Flow
-* Logical Operator OR **||**
-* Ternary Operator
-* Else Statement
-* AND **&&** Operator
-* Switch Statement
-* If Statement
-* Strict Comparisons
-* NOT **!** Operator
-* Comparison Operators
-* **if else, else if** Statement
-* Truthy and Falsy
+[Introduction cheat sheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+* Console.log()  
+* Javascript  
+* Methods  
+* Libraries  
+* Numbers  
+* Strong.length  
+* Data Instances  
+* Booleans  
+* Math.random()  
+* Math.floor()  
+* Single Line Comments  
+* Null  
+* Strings  
+* Arithmetic Operators  
+* Multi-line Comments  
+* Assignment Operators  
+* String Interpolation  
+* Variables  
+* Undefined  
+* Declaring Variables  
+* Template Literals  
+* **let** keyword  
+* **const** keyword  
+* String Concatenation  
+
+[Scope](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-scope/cheatsheet)
+* Scope  
+* Block Scoped Variables  
+* Global Variables  
+
+[Conditionals cheat sheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/cheatsheet)
+* Control Flow  
+* Logical Operator OR **||**  
+* Ternary Operator  
+* Else Statement  
+* AND **&&** Operator  
+* Switch Statement  
+* If Statement  
+* Strict Comparisons  
+* NOT **!** Operator  
+* Comparison Operators  
+* **if else, else if** Statement  
+* Truthy and Falsy  
 
 
 [Function cheat sheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions/cheatsheet)
-* Arrow Functions (ES6)
-* Functions
-* Anonymous Functions
-* Function Expressions
-* Function Parameters
-* **return** Keyword
-* Function Declaration
-* Calling Functions
-*
-
+* Arrow Functions (ES6)  
+* Functions  
+* Anonymous Functions  
+* Function Expressions  
+* Function Parameters  
+* **return** Keyword  
+* Function Declaration  
+* Calling Functions  
 
 
 
