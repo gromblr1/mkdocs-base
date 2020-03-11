@@ -97,6 +97,15 @@
     return rows * columns;
     };
     console.log(numOfMonitors);
+    
+  const plantNeedsWater = (day) => {
+  return day === 'Wednesday' ? true : false;
+};
+
+VS
+
+const plantNeedsWater = day => day === 'Wednesday' ? true : false;
+
 
 # If/Else Statements
     let isEric = true;
