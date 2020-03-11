@@ -49,6 +49,17 @@
 * getGreeting is the function identifier and calling the code involves () parantheses.  
 <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/function+execution.svg">
 
+# Function Expressions
+    const plantNeedsWater = function(day)
+    {
+    if (day === 'Wednesday') {
+    return true;
+    }
+    else {
+        return false
+        }
+    }
+    
 # Parameters
 <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/function+parameters.svg">
 
