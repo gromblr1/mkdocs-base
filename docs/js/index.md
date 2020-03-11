@@ -78,6 +78,13 @@
     function funtionName(parameter = 'Default Value', parameter2 = 100, parameter3  = true) {
     // Function body here
     }
+    
+# *return* keyword
+    const numOfMonitors = monitorCount(5,4);
+    function monitorCount(rows, columns) {
+    return rows * columns;
+    };
+    console.log(numOfMonitors);
 
 # If/Else Statements
     let isEric = true;
