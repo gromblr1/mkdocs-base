@@ -45,6 +45,21 @@
 
 [Javascript W3 Tutorials/Exercises](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
 
+[Function cheat sheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions/cheatsheet)
+* Arrow Functions (ES6)
+* Functions
+* Anonymous Functions
+* Function Expressions
+* Function Parameters
+* **return** Keyword
+* Function Declaration
+* Calling Functions
+*
+
+
+
+
+
 > function **getGreeting**()  
 * getGreeting is the function identifier and calling the code involves () parantheses.  
 <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/function+execution.svg">
@@ -70,6 +85,9 @@
     sayThanks('Cole');      
 <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/by_variable.svg">
 * Outside of the curly braces, the function sayThanks is **called** and an **argument** (value) is put in there.
+
+# Parameters
+<img src="https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/parameters.svg
 
 # Default Parameters (interpolation in a function)
     function greeting (name = 'stranger') {
