@@ -45,6 +45,21 @@
 
 [Javascript W3 Tutorials/Exercises](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
 
+(Conditionals cheat sheet)(https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/cheatsheet)
+* Control Flow
+* Logical Operator OR **||**
+* Ternary Operator
+* Else Statement
+* AND **&&** Operator
+* Switch Statement
+* If Statement
+* Strict Comparisons
+* NOT **!** Operator
+* Comparison Operators
+* **if else, else if** Statement
+* Truthy and Falsy
+
+
 [Function cheat sheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions/cheatsheet)
 * Arrow Functions (ES6)
 * Functions
