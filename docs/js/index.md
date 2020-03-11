@@ -59,6 +59,26 @@
 <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/by_variable.svg">
 * Outside of the curly braces, the function sayThanks is **called** and an **argument** (value) is put in there.
 
+# Default Parameters (interpolation in a function)
+    function greeting (name = 'stranger') {
+    console.log(`Yello, ${name}!`);
+    }
+    greeting ('Nike');
+    greeting();
+    
+## Default Parameters example 2
+    function makeShoppingList(item1 = 'milk', item2 = 'bread', item3 = 'eggs'){
+    console.log(`Remember to buy ${item1}`);
+    console.log(`Remember to buy ${item2}`);
+    console.log(`Remember to buy ${item3}`);
+    }
+    makeShoppingList()
+    
+### Default Parameters principles
+    function funtionName(parameter = 'Default Value', parameter2 = 100, parameter3  = true) {
+    // Function body here
+    }
+
 # If/Else Statements
     let isEric = true;
     if (true) {
