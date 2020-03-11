@@ -44,8 +44,13 @@
 
 [Javascript W3 Tutorials/Exercises](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
 
-> function **greetMyWorld**()
-* greetMyWorld is the function identifier and calling the code involves () parantheses.
+> function **getGreeting**()  
+* getGreeting is the function identifier and calling the code involves () parantheses.  
+<img src="https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/function+execution.svg">
+
+# Parameters
+<img src="https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/function+parameters.svg">
+<img src="">
 
 # If/Else Statements
     let isEric = true;
