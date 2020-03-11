@@ -44,6 +44,9 @@
 
 [Javascript W3 Tutorials/Exercises](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
 
+> function **greetMyWorld**()
+* greetMyWorld is the function identifier and calling the code involves () parantheses.
+
 # If/Else Statements
     let isEric = true;
     if (true) {
