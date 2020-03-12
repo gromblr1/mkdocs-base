@@ -230,3 +230,64 @@ const plantNeedsWater = day => day === 'Wednesday' ? true : false;
         else {
         console.log('im not sleepy hehe');  
         }
+
+# Other examples
+    const logVisibleLightWaves = () => {
+      let lightWaves = 'Moonlight';
+        let region = 'The Arctic';
+      // Add if statement here:
+      if (region === 'The Arctic'){
+        let lightWaves ='Northern Lights';
+        console.log(lightWaves);
+      }
+      console.log(lightWaves);
+    };
+
+    logVisibleLightWaves();
+
+# 1
+    const famousSayings = ['Fortune favors the brave.', 'A joke is a very serious thing.', 'Where there is love there is life.'];
+
+    let listItem = famousSayings[0];
+    console.log(listItem);
+    console.log(famousSayings[2]);
+# 2
+    let condiments = ['Ketchup', 'Mustard', 'Soy Sauce', 'Sriracha'];
+
+    const utensils = ['Fork', 'Knife', 'Chopsticks', 'Spork'];
+
+    condiments[0] = 'Mayo';
+    console.log(condiments);
+
+    condiments = ['Mayo'];
+    console.log(condiments);
+
+    utensils[3] = 'Spoon';
+    console.log(utensils);
+# 3
+    const concept = ['arrays', 'can', 'be', 'mutated'];
+
+    function changeArrt(arrt){
+      arrt[3] = 'MUTATED';
+
+    }
+
+
+    changeArrt(concept);
+    console.log(concept);
+
+    function removeElement(newArr) {
+      newArr.pop();
+    }
+    removeElement(concept);
+    console.log(concept);
+# 4
+    let numberClusters = [[1,2],[3,4],[5,6]]
+
+    const target = numberClusters[2][1];
+    console.log(target)
+
+
+
+
+
