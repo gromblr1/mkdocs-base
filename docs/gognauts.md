@@ -11,6 +11,17 @@ I was apart of a triad of gods called the Trinity of Terror.
 One of those eldritch monsters almost ripped my face off as I escaped my fate.  
 The monstrously decrepit hand hugging my face is a testament to that.  
 
+# Gognauts music
+[J. Brahms](https://www.youtube.com/watch?v=aRV9UP4kSQo)
+[Prokofiev](https://www.youtube.com/watch?v=bBsKplb2E6Q)
+[Dracula intro](https://www.youtube.com/watch?v=Zl_x-CgJMug)
+[Salsoul](https://www.youtube.com/watch?v=H1lbw0L4aiI)
+[GUstav Mars](https://www.youtube.com/watch?v=Jmk5frp6-3Q)
+[Danse Macabre](https://www.youtube.com/watch?v=YyknBTm_YyM)
+[Vivaldi Summer](https://www.youtube.com/watch?v=O6NRLYUThrY&t=1115s)
+[Vivaldi Winter](https://www.youtube.com/watch?v=O6NRLYUThrY&t=1939s)
+[Tchaikovsky](https://www.youtube.com/watch?v=5poSw7tFLB4)
+
 ## D'Vazzio Brothers
 
 <img src="https://66.media.tumblr.com/be97fde1d815a8dc0977d13e28e6b5f8/tumblr_mnpxatHCnj1qbhgiho1_r2_500.png" height=300>
