@@ -41,7 +41,8 @@ The monstrously decrepit hand hugging my face is a testament to that.
 <img src="" height=300>
 
 ## Other Chars
-<img src="https://66.media.tumblr.com/8ac213c7df800daaf62e1fb48cc92299/tumblr_mwg5l4KsEE1sv5fpro1_1280.jpg" height=300><img src="https://66.media.tumblr.com/149c0e15ed19f7434f36a579a4bb008d/tumblr_mved7qUbPs1sv5fpro1_500.jpg" height=300><img src="https://66.media.tumblr.com/47ba658afee76066b9a414544798d0ac/tumblr_oe38k7up6T1t0u2coo1_1280.jpg" height=300><img src="https://66.media.tumblr.com/c7b2036dbc89facb41c7eafc8e9590da/172417ea8dc2a690-e0/s1280x1920/97ea8fc58fd3df74bc230a84fecbccd9336f397f.jpg" height=300>
+<img src="https://66.media.tumblr.com/2a5bec3130d917189605b3e67da1e70f/tumblr_mvsuxwaaHO1s5u2cno1_500.jpg" height=300>
+<img src="https://66.media.tumblr.com/8ac213c7df800daaf62e1fb48cc92299/tumblr_mwg5l4KsEE1sv5fpro1_1280.jpg" height=300><img src="https://66.media.tumblr.com/149c0e15ed19f7434f36a579a4bb008d/tumblr_mved7qUbPs1sv5fpro1_500.jpg" height=300><img src="https://66.media.tumblr.com/47ba658afee76066b9a414544798d0ac/tumblr_oe38k7up6T1t0u2coo1_1280.jpg" height=300><img src="https://66.media.tumblr.com/c7b2036dbc89facb41c7eafc8e9590da/172417ea8dc2a690-e0/s1280x1920/97ea8fc58fd3df74bc230a84fecbccd9336f397f.jpg" height=300><img src="https://66.media.tumblr.com/e72afc5db6d859a657cd6eeb01ff5b39/tumblr_nixsydSSrb1sj8nquo2_640.jpg" height=300>
 
 ## Beasts
 <img src="https://66.media.tumblr.com/147a1831cbab829ea146cfb8fc66fe9a/tumblr_mt2mfiPDPo1rfyiu4o1_500.jpg" height=300><img src="https://66.media.tumblr.com/tumblr_maisr9dM4d1r6q94do3_640.jpg" height=300>
