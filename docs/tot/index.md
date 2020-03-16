@@ -10,3 +10,7 @@ I was apart of a triad of gods called the Trinity of Terror.
 
 One of those eldritch monsters almost ripped my face off as I escaped my fate.  
 The monstrously decrepit hand hugging my face is a testament to that.  
+
+
+Necroscripters
+[n](https://66.media.tumblr.com/5969a81b6327c93c06ae6db425cae7e2/tumblr_n9bm9dliUy1qhrr12o1_500.jpg "test")
