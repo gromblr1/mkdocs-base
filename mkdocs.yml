@@ -3,6 +3,7 @@ nav:
     - Home: index.md
     - About: about.md
     - Trinity Of Terror: ./tot/
+    - Gognauts: gognauts.md
     - French: french.md
     - Learn Docs: learndocs.md
     - Javascript: ./js/
