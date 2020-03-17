@@ -295,3 +295,38 @@ Think of eating like a while loop: when you start taking bites, you don’t know
 
 In situations when we want a loop to execute an undetermined number of times, while loops are the best choice.
 
+[forEach loop](https://www.youtube.com/watch?v=upP06o5ZPls)  
+# forEach loop
+    const fruits = ['mango', 'papaya', 'pineapple', 'apple'];  
+    // Iterate over fruits below
+    fruits.forEach(function (fruit, index) {
+    console.log(`I want to eat a ${index}`);
+    })
+    
+# .map method
+    const animals = ['Hen', 'elephant', 'llama', 'leopard', 'ostrich', 'Whale', 'octopus', 'rabbit', 'lion', 'dog'];
+
+    const secretMessage = animals.map(function (animal) {
+      return animal[0];
+    })
+
+    console.log(secretMessage.join(''));
+    
+# 2nd .map method example
+    
+    const bigNumbers = [100,200,300,400,500];
+
+    const smallNumbers = bigNumbers.map(function (numbo) {
+      return numbo * 100;
+      
+    })
+    console.log(smallNumbers);
+    
+# Concise body arrow Function vs Function Expression
+    // CONCISE BODY ARROW FUNCTION
+    const bigNumbers = [10,20,30].map(numbo => numbo * 200);
+
+    // FUNCTION EXPRESSION
+    const bigNumbers = [10,20,30].map(function(number) {
+        return numbo * 200;
+    });
