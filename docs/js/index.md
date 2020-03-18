@@ -367,5 +367,20 @@ In situations when we want a loop to execute an undetermined number of times, wh
 
     day === "Monday" ? price += 1.5 : price -= 1.5;
     console.log(price);
-> *Output* 9
+> *Output* 9  
 If the condition is met, the FIRST condition (in this case price += 1.5) is executed. OTHERWISE the last condition is executed.
+
+# .findIndex() method
+    const animals = ['hippo', 'tiger', 'lion', 'seal', 'cheetah', 'monkey', 'salamander', 'elephant'];
+    ---------------------------------------
+    const foundAnimal = animals.findIndex(animal => {
+      return animal === 'elephant';
+    });
+    console.log(foundAnimal);
+    ---------------------------------------
+    const startsWithS = animals.findIndex(animal => {
+      return animal[0] === 's' ? true : false;
+    });
+    console.log(startsWithS);
+> *Output for foundAnimal:* 7
+> *Output for startsWithS:* 3
