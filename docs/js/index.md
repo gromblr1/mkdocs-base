@@ -349,3 +349,14 @@ In situations when we want a loop to execute an undetermined number of times, wh
     const smallGumbers = randomNumbers.filter(gumbo =>
     gumbo < 250);
     console.log(smallGumbers);
+
+# more .filter examples
+        const favoriteWords = ['nostalgia', 'hyperbole', 'fervent', 'esoteric', 'serene'];
+
+    const longFavoriteWords = favoriteWords.filter(skumbo =>        skumbo.length > 7);
+    console.log(longFavoriteWords);
+    --------------------------------------------
+    const bongFavoriteWords = favoriteWords.filter(function(bungo) {
+      return bungo.length > 7;
+    });
+    console.log(bongFavoriteWords);
