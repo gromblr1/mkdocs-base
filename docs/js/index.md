@@ -330,3 +330,22 @@ In situations when we want a loop to execute an undetermined number of times, wh
     const bigNumbers = [10,20,30].map(function(number) {
         return numbo * 200;
     });
+# 3 different ways to .filter method
+    const randomNumbers = [375, 200, 3.14, 7, 13, 852];
+
+    // Call .filter() on randomNumbers below
+    const smallNumbers = randomNumbers.filter(function(numbo) {
+     if (numbo < 250) {
+      return true;
+     }
+    }) ;
+    console.log(smallNumbers)
+    ----------------------------------
+    const smallDumbers = randomNumbers.filter (function(dumbo) {
+      return dumbo < 250;
+    });
+    console.log(smallDumbers);
+    ----------------------------------
+    const smallGumbers = randomNumbers.filter(gumbo =>
+    gumbo < 250);
+    console.log(smallGumbers);
