@@ -436,3 +436,36 @@ If the condition is met, the FIRST condition (in this case price += 1.5) is exec
 
     // Choose a method that will return a boolean value
     nums.some(num => num < 0);
+    
+# Nested Objects
+    let spaceship = {
+      passengers: [{name: 'Shit man'}],
+      telescope: {
+        yearBuilt: 2018,
+        model: "91031-XLT",
+        focalLength: 2032 
+      },
+      crew: {
+        captain: { 
+          name: 'Sandra', 
+          degree: 'Computer Engineering', 
+          encourageTeam() { console.log('We got this!') },
+         'favorite foods': ['cookies', 'cakes', 'candy', 'spinach'] }
+      },
+      engine: {
+        model: "Nimbus2000"
+      },
+      nanoelectronics: {
+        computer: {
+          terabytes: 100,
+          monitors: "HD"
+        },
+        'back-up': {
+          battery: "Lithium",
+          terabytes: 50
+        }
+      }
+    }; 
+    let capFave = spaceship.crew.captain['favorite foods'][0]
+
+    let firstPassenger = spaceship.passengers[0]
