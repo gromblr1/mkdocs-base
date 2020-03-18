@@ -360,3 +360,12 @@ In situations when we want a loop to execute an undetermined number of times, wh
       return bungo.length > 7;
     });
     console.log(bongFavoriteWords);
+    
+# Ternary Operator
+    let price = 10.5;
+    let day = "Monday";
+
+    day === "Monday" ? price += 1.5 : price -= 1.5;
+    console.log(price);
+> *Output* 9
+If the condition is met, the FIRST condition (in this case price += 1.5) is executed. OTHERWISE the last condition is executed.
