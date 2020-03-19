@@ -471,9 +471,47 @@ If the condition is met, the FIRST condition (in this case price += 1.5) is exec
     let firstPassenger = spaceship.passengers[0]
 
 # Notes
-.forEach() is used to execute the same code on every element in an array but does not change the array and returns undefined.  
-.map() executes the same code on every element in an array and returns a new array with the updated elements.
-.filter() checks every element in an array to see if it meets certain criteria and returns a new array with the elements that return truthy for the criteria.  
-.findIndex() returns the index of the first element of an array which satisfies a condition in the callback function. It returns -1 if none of the elements in the array satisfies the condition.  
-.reduce() iterates through an array and takes the values of the elements and returns a single value.  
-All iterator methods takes a callback function that can be pre-defined, or a function expression, or an arrow function.
+* .forEach() is used to execute the same code on every element in an array but does not change the array and returns undefined.  
+* .map() executes the same code on every element in an array and returns a new array with the updated elements.
+* .filter() checks every element in an array to see if it meets certain criteria and returns a new array with the elements that return truthy for the criteria.  
+* .findIndex() returns the index of the first element of an array which satisfies a condition in the callback function. It returns -1 if none of the elements in the array satisfies the condition.  
+* .reduce() iterates through an array and takes the values of the elements and returns a single value.  
+* All iterator methods takes a callback function that can be pre-defined, or a function expression, or an arrow function.
+
+# Pass by reference
+    let spaceship = {
+      'Fuel Type' : 'Turbo Fuel',
+      homePlanet : 'Earth'
+    };
+
+    // Write your code below
+    let greenEnergy = objParam => {
+      objParam['Fuel Type'] = 'avocado oil';
+    };
+
+    let remotelyDisable = objParam => {
+      objParam.disabled = true;
+    }; 
+
+    greenEnergy(spaceship);
+    remotelyDisable(spaceship);
+    console.log(spaceship);
+
+    console.log('-----------------------------');
+
+    const spaceshipp = {
+      homePlanet : 'Earth',
+      color : 'silver'
+    };
+    let paintIt = obj => {
+      obj.color = 'glorious gold'
+    };
+
+    paintIt(spaceshipp);
+
+    console.log(spaceshipp) // Returns 'glorious gold'
+> *Output:* { 'Fuel Type': 'avocado oil',  
+  homePlanet: 'Earth',  
+  disabled: true }  
+-----------------------------  
+{ homePlanet: 'Earth', color: 'glorious gold' }  
