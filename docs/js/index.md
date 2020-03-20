@@ -119,6 +119,47 @@
         }
     }
     
+# Functions as Parameters (higher-order functions)
+    const checkThatTwoPlusTwoEqualsFourAMillionTimes = () => {
+      for(let i = 1; i <= 1000000; i++) {
+        if ( (2 + 2) != 4) {
+          console.log('Something has gone very wrong :( ');
+        }
+      }
+    };
+
+    const addTwo = num => num + 2;
+
+    const timeFuncRuntime = funcParameter => {
+      let t1 = Date.now();
+      funcParameter();
+      let t2 = Date.now();
+      return t2 - t1;
+    };
+
+    // Write your code below
+
+    let time2p2 = timeFuncRuntime(checkThatTwoPlusTwoEqualsFourAMillionTimes);
+
+    const checkConsistentOutput = (func, val) => {
+        let firstTry = func(val);
+        let secondTry = func(val);
+        if (firstTry === secondTry) {
+            return firstTry;
+        } else {
+            return 'This function returned inconsistent results';
+        }
+    };
+    console.log(checkConsistentOutput(addTwo,-2));
+
+
+# Notes about high-order functions
+* Abstraction allows us to write complicated code in a way that’s easy to reuse, debug, and understand for human readers
+* We can work with functions the same way we would any other type of data including reassigning them to new variables
+* JavaScript functions are first-class objects, so they have properties and methods like any object
+* Functions can be passed into other functions as parameters
+* A higher-order function is a function that either accepts functions as parameters, returns a function, or both
+
 # Parameters
 <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/function+parameters.svg">
 
