@@ -550,7 +550,8 @@ If the condition is met, the FIRST condition (in this case price += 1.5) is exec
     for (let crewMember in spaceship.crew) {
       console.log(`${spaceship.crew[crewMember].name}: ${spaceship.crew[crewMember].degree}`)
     };
-> *Output:* captain: Lily  
+> *Output:*  
+captain: Lily  
 chief officer: Dan  
 medic: Clementine  
 translator: Shauna  
@@ -570,3 +571,18 @@ Shauna: Conservation Science
 * Objects are passed by reference— when we make changes to an object passed into a function, those changes are permanent.
 * We can iterate through objects using the For...in syntax.
 
+# Getters
+    const robot = {
+      _model: '1E78V2',
+      _energyLevel: 100,
+      get energyLevel() {
+        if (typeof this._energyLevel === 'number') {
+          return 'My current energy level is ' + this._energyLevel
+        } else {
+          return 'System malfunction: cannot retrieve energy level';
+        }
+      }
+    };
+    console.log(robot.energyLevel);
+> *Output:*  
+My current energy level is 100
