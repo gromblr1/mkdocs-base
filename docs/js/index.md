@@ -611,3 +611,20 @@ My current energy level is 100
     console.log(robot.numOfSensors);
 > *Output:*  
 100
+
+
+
+# Factory Functions
+    const robotFactory = (model, mobile) => {
+      return {
+        model: model,
+        mobile: mobile,
+        beep() {
+          console.log('Beep Boop');
+        }
+      }
+    };
+    const tinCan = robotFactory('P-500', true);
+    tinCan.beep();
+> *Output:*  
+Beep Boop
