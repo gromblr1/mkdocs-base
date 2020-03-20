@@ -395,7 +395,8 @@ In situations when we want a loop to execute an undetermined number of times, wh
 
     day === "Monday" ? price += 1.5 : price -= 1.5;
     console.log(price);
-> *Output* 9  
+> *Output*
+9   
 If the condition is met, the FIRST condition (in this case price += 1.5) is executed. OTHERWISE the last condition is executed.
 
 # .findIndex() method
@@ -410,8 +411,8 @@ If the condition is met, the FIRST condition (in this case price += 1.5) is exec
       return animal[0] === 's' ? true : false;
     });
     console.log(startsWithS);
-> *Output for foundAnimal:* 7
-> *Output for startsWithS:* 3
+> *Output for foundAnimal:* 7  
+> *Output for startsWithS:* 3  
 
 # Iterators, .forEach, .filter, .reduce, .map, .some
     const cities = ['Orlando', 'Dubai', 'Edinburgh', 'Chennai', 'Accra', 'Denver', 'Eskisehir', 'Medellin', 'Yokohama'];
@@ -510,7 +511,8 @@ If the condition is met, the FIRST condition (in this case price += 1.5) is exec
     paintIt(spaceshipp);
 
     console.log(spaceshipp) // Returns 'glorious gold'
-> *Output:* { 'Fuel Type': 'avocado oil',  
+> *Output:*  
+{ 'Fuel Type': 'avocado oil',  
   homePlanet: 'Earth',  
   disabled: true }  
 -----------------------------  
@@ -585,7 +587,7 @@ Shauna: Conservation Science
     };
     console.log(robot.energyLevel);
 > *Output:*  
-My current energy level is 100
+My current energy level is 100  
 
 # Setters
     const robot = {
@@ -610,7 +612,7 @@ My current energy level is 100
     robot.numOfSensors = 100;
     console.log(robot.numOfSensors);
 > *Output:*  
-100
+100  
 
 
 
@@ -627,7 +629,7 @@ My current energy level is 100
     const tinCan = robotFactory('P-500', true);
     tinCan.beep();
 > *Output:*  
-Beep Boop
+Beep Boop  
 
 # Destructured Assignments
     const robot = {
@@ -658,4 +660,42 @@ Beep Boop
     console.log(`I want to ${day}`)
 > *Output:*  
 Beep Boop  
-I want to stay inside
+I want to stay inside  
+
+# 
+    const robot = {
+        model: 'SAL-1000',
+      mobile: true,
+      sentient: false,
+      armor: 'Steel-plated',
+      energyLevel: 75
+    };
+
+    // What is missing in the following method call?
+    const robotKeys = Object.keys(robot);
+
+    console.log(robotKeys);
+
+    // Declare robotEntries below this line:
+    const robotEntries = Object.entries(robot)
+    console.log(robotEntries);
+
+    // Declare newRobot below this line:
+    const newRobot = Object.assign({laserBlaster: true, voiceRecognition: true, fack: 'ferk'},robot);
+
+    console.log(newRobot);
+> *Output:*  
+[ 'model', 'mobile', 'sentient', 'armor', 'energyLevel' ]  
+[ [ 'model', 'SAL-1000' ],  
+  [ 'mobile', true ],  
+  [ 'sentient', false ],  
+  [ 'armor', 'Steel-plated' ],  
+  [ 'energyLevel', 75 ] ]  
+{ laserBlaster: true,  
+  voiceRecognition: true,  
+  fack: 'ferk',  
+  model: 'SAL-1000',  
+  mobile: true,  
+  sentient: false,  
+  armor: 'Steel-plated',  
+  energyLevel: 75 }  
