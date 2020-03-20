@@ -628,3 +628,34 @@ My current energy level is 100
     tinCan.beep();
 > *Output:*  
 Beep Boop
+
+# Destructured Assignments
+    const robot = {
+      model: '1E78V2',
+      energyLevel: 100,
+      functionality: {
+        beep() {
+          console.log('Beep Boop');
+        },
+        fireLaser() {
+          console.log('Pew Pew');
+        },
+      }
+    };
+    const {functionality} = robot;
+    functionality.beep();
+
+    const vampire = {
+      name: 'Dracula',
+      residence: 'Transylvania',
+      preferences: {
+        day: 'stay inside',
+        night: 'satisfy appetite'
+      }
+    };
+
+    let { day } = vampire.preferences;
+    console.log(`I want to ${day}`)
+> *Output:*  
+Beep Boop  
+I want to stay inside
