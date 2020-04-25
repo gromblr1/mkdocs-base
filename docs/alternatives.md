@@ -1,14 +1,24 @@
 # ALTERNATIVE TO AMAZON
 Ebay  
-OVerstock  
+Overstock  
 Offer up  
 Craigslist  
 
 # ALTERNATIVE TO GMAIL
 Yandex  
-Protonmail
-Mailfence
-Tutanota
+Protonmail  
+Mailfence  
+Tutanota  
+
+# ALTERNATIVE to Netflix
+https://www.techpout.com/putlocker-alternatives/  
+https://www.bestsevenreviews.com/top-10-sites-like-123movies/  
+
+# ALTERNATIVE to Google
+Duckduckgo  
+Qwant  
+Startpage  
+
 
 # ALTERNATIVE TO FACEBOOK
 
