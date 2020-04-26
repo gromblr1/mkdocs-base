@@ -8,4 +8,5 @@ nav:
     - Learn Docs: learndocs.md
     - Javascript: ./js/
     - Alternatives: alternatives.md
+    - Blood Realm: bloodrealm.md
 theme: readthedocs
