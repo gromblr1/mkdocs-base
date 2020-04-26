@@ -9,4 +9,5 @@ nav:
     - Javascript: ./js/
     - Alternatives: alternatives.md
     - Blood Realm: bloodrealm.md
+    - Darkness: darkness.md
 theme: readthedocs
