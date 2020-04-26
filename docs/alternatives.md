@@ -1,3 +1,4 @@
+[No more google](https://nomoregoogle.com/)
 # ALTERNATIVE TO AMAZON
 [Ebay](https://ebay.com)  
 [Overstock](https://overstock.com)  
@@ -18,6 +19,7 @@ https://www.bestsevenreviews.com/top-10-sites-like-123movies/
 [Duckduckgo](https://duckduckgo.com)  
 [Qwant](https://qwant.com)  
 [Startpage](https://startpage.com)  
+[Cliqz](https://cliqz.com/)  
 
 
 # ALTERNATIVE TO FACEBOOK
