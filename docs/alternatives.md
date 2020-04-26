@@ -1,27 +1,27 @@
 # ALTERNATIVE TO AMAZON
-Ebay  
-Overstock  
-Offer up  
-Craigslist  
+[Ebay](https://ebay.com)  
+[Overstock](https://overstock.com)  
+[Offer Up](https://offerup.com)  
+[Craigslist](https://craigslist.org)  
 
 # ALTERNATIVE TO GMAIL
-Yandex  
-Protonmail  
-Mailfence  
-Tutanota  
+[Yandex](https://yandex.com)  
+[Protonmail](https://protonmail.com)  
+[Mailfence](https://mailfence.com)  
+[Tutanota](https://tutanota.com)  
 
 # ALTERNATIVE to Netflix
 https://www.techpout.com/putlocker-alternatives/  
 https://www.bestsevenreviews.com/top-10-sites-like-123movies/  
 
 # ALTERNATIVE to Google
-Duckduckgo  
-Qwant  
-Startpage  
+[Duckduckgo](https://duckduckgo.com)  
+[Qwant](https://qwant.com)  
+[Startpage](https://startpage.com)  
 
 
 # ALTERNATIVE TO FACEBOOK
-
+[Gab.com](https://gab.com/) - a Mastadon instance
 
 
 Tutorials | How-To Guides | Reference | Explanation
