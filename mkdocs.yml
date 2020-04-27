@@ -12,4 +12,5 @@ nav:
     - Darkness: darkness.md
     - Architecture: architecture.md
     - Dance: dance.md
+    - Misc: misc.md
 theme: readthedocs
