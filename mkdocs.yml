@@ -10,4 +10,6 @@ nav:
     - Alternatives: alternatives.md
     - Blood Realm: bloodrealm.md
     - Darkness: darkness.md
+    - Architecture: architecture.md
+    - Dance: dance.md
 theme: readthedocs
