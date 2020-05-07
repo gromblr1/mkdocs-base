@@ -7,8 +7,19 @@
 # ALTERNATIVE TO GMAIL
 [Yandex](https://yandex.com)  
 [Protonmail](https://protonmail.com)  
-[Mailfence](https://mailfence.com)  
 [Tutanota](https://tutanota.com)  
+
+[GMX](https://gmx.com)  
+[Mailfence](https://mailfence.com)  
+[Mailbox.org](https://mailbox.org)  
+
+
+.. | GMX | Mailfence | Mailbox.org | Protonmail,Tutanota,Msgsafe.io
+--- | --- | --- | --- | ---
+Country | 🇩🇪 | 🇧🇪 | 🇩🇪 | 🇨🇭,🇩🇪,🇳🇱 
+Free Storage | 65 GB | 500MB  | 100 MB | 500 MB, 1 GB, 1 GB
+Paid Storage  | .. | 5 GB ($36 yr) | 5 GB ($36 yr) |  ..
+ Notes | .. | 12 GB docs | .. | .. 
 
 # ALTERNATIVE to Netflix
 https://www.techpout.com/putlocker-alternatives/  
