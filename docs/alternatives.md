@@ -5,16 +5,10 @@
 [Craigslist](https://craigslist.org)  
 
 # ALTERNATIVE TO GMAIL
-[Yandex](https://yandex.com)  
-[Protonmail](https://protonmail.com)  
-[Tutanota](https://tutanota.com)  
-
-[GMX](https://gmx.com)  
-[Mailfence](https://mailfence.com)  
-[Mailbox.org](https://mailbox.org)  
+[Yandex](https://yandex.com)   
 
 
-.. | GMX | Mailfence | Mailbox.org | Protonmail,Tutanota,Msgsafe.io
+.. | [GMX](https://gmx.com) | [Mailfence](https://mailfence.com) | [Mailbox.org](https://mailbox.org) | [Protonmail](https://protonmail.com),[Tutanota](https://tutanota.com),[Msgsafe.io](https://msgsafe.io)
 --- | --- | --- | --- | ---
 Country | 🇩🇪 | 🇧🇪 | 🇩🇪 | 🇨🇭,🇩🇪,🇳🇱 
 Free Storage | 65 GB | 500MB  | 100 MB | 500 MB, 1 GB, 1 GB
@@ -31,8 +25,8 @@ https://www.bestsevenreviews.com/top-10-sites-like-123movies/
 [Startpage](https://startpage.com)  
 [Cliqz](https://cliqz.com/)  
 
-[No more google](https://nomoregoogle.com/)
-[Alternatives to Google Products](https://restoreprivacy.com/google-alternatives/)
+[No more google](https://nomoregoogle.com/)  
+[Alternatives to Google Products](https://restoreprivacy.com/google-alternatives/)  
 
 
 # ALTERNATIVE TO FACEBOOK
