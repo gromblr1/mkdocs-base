@@ -13,12 +13,12 @@
 [Yandex](https://yandex.com)   
 
 
-.. | [GMX](https://gmx.com) | [Mailfence](https://mailfence.com) | [Mailbox.org](https://mailbox.org) | [Protonmail](https://protonmail.com),[Tutanota](https://tutanota.com),[Msgsafe.io](https://msgsafe.io)
---- | --- | --- | --- | ---
-Country | 🇩🇪 | 🇧🇪 | 🇩🇪 | 🇨🇭,🇩🇪,🇳🇱 
-Free Storage | 65 GB | 500MB  | 100 MB | 500 MB, 1 GB, 1 GB
-Paid Storage  | .. | 5 GB ($36 yr) | 5 GB ($36 yr) |  ..
- Notes | .. | 12 GB docs | .. | .. 
+.. | [GMX](https://gmx.com) | [Mailfence](https://mailfence.com) | [Mailbox.org](https://mailbox.org) | [Protonmail](https://protonmail.com),[Tutanota](https://tutanota.com),[Msgsafe.io](https://msgsafe.io) | [Disroot](https://disroot.org)
+--- | --- | --- | --- | --- | ---
+Country | 🇩🇪 | 🇧🇪 | 🇩🇪 | 🇨🇭,🇩🇪,🇳🇱 | n
+Free Storage | 65 GB | 500MB  | 100 MB | 500 MB, 1 GB, 1 GB | 1GB
+Paid Storage  | .. | 5 GB ($36 yr) | 5 GB ($36 yr) |  .. | ..
+ Notes | .. | 12 GB docs | .. | ..  | 50 MB attachments
 
 # ALTERNATIVE to Google      
 [Cliqz](https://cliqz.com/)  
