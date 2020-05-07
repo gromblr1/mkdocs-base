@@ -1,21 +1,27 @@
+
+<hr>
+# Five Eyes  🇺🇸 🇬🇧 🇳🇿 🇦🇺 🇨🇦 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liveenhanced.com%2Fwp-content%2Fuploads%2F2019%2F09%2FFive-eyes-alliance-spying.jpg&f=1&nofb=1">
+[Five Eyes](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)  
+
+<hr>
+
 # ALTERNATIVE TO AMAZON
 [Ebay](https://ebay.com)  
 [Overstock](https://overstock.com)  
 [Offer Up](https://offerup.com)  
 [Craigslist](https://craigslist.org)  
 
-<hr>
-# Five Eyes
-[Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)  
+# ALTERNATIVE TO REDDIT
+[Voat.co](https://voat.co/)
 
-<hr>
 # ALTERNATIVE TO GMAIL
 [Yandex](https://yandex.com)   
 
 
 .. | [GMX](https://gmx.com) | [Mailfence](https://mailfence.com) | [Mailbox.org](https://mailbox.org) | [Protonmail](https://protonmail.com),[Tutanota](https://tutanota.com),[Msgsafe.io](https://msgsafe.io) | [Disroot](https://disroot.org)
 --- | --- | --- | --- | --- | ---
-Country | 🇩🇪 | 🇧🇪 | 🇩🇪 | 🇨🇭,🇩🇪,🇳🇱 | n
+Country | 🇩🇪 | 🇧🇪 | 🇩🇪 | 🇨🇭,🇩🇪,🇳🇱 | 🇳🇱
 Free Storage | 65 GB | 500MB  | 100 MB | 500 MB, 1 GB, 1 GB | 1GB
 Paid Storage  | .. | 5 GB ($36 yr) | 5 GB ($36 yr) |  .. | ..
  Notes | .. | 12 GB docs | .. | ..  | 50 MB attachments
