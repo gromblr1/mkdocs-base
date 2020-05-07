@@ -14,6 +14,8 @@
 
 # ALTERNATIVE TO REDDIT
 [Voat.co](https://voat.co/)
+[Ycombinator](https://news.ycombinator.com/)
+[Tildes.net](https://tildes.net/)
 
 # ALTERNATIVE TO GMAIL
 [Yandex](https://yandex.com)   
