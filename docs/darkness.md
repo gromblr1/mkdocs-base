@@ -12,6 +12,17 @@ Transhumanism: To live forever without God.
 
 📷[Silicon Chips with demonic sigils](https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/95561772_10223274096346673_3245115707892957184_n.jpg?_nc_cat=109&_nc_sid=ca434c&_nc_ohc=MeeePcYhofQAX-2ykNA&_nc_ht=scontent.fphx1-1.fna&oh=49e758f411ff3a8c7cd7aecd6de90104&oe=5ED4AF87) ((fb cdn))  
 
+## Black Cube, Saturn, Moloch
+[The Elite Rulers & Saturn Worship](https://truth-zone.net/forum/twilight-zone/71335-the-elite-rulers-saturn-worship.html) ((truth-zone.net))  
+[(SATURN WORSHIP)THE BLACK CUBE](https://www.nicholson1968.com/nicholson1968s-post/saturn-worshipthe-black-cube) ((nicholson1968.com))  
+[Saturn--Satan worship, Black Cube, Freemasons, Jews and the 4th dimension](https://www.reddit.com/r/conspiracy/comments/8ix0s8/saturnsatan_worship_black_cube_freemasons_jews/) ((reddit.com))  
+[Moloch and the Sacred Cow Portal](http://www.mostholyplace.com/book-02_chapter-k03.html) ((mostholyplace.com))  
+[Saturn, Black Cube and Judgement Day](https://wonderinspirit.wordpress.com/2011/02/28/saturn-black-cube-and-judgement-day/) ((wonderinspirit.wordpress.com))  
+[Saturn And The Occult](http://yahuahreigns.com/saturn%20and%20the%20occult.html) ((yahuahreigns.com))  
+[Saturn Worship – The Black Cube of Cronus](https://zeteticzen.wordpress.com/2016/12/10/saturn-worship-the-black-cube-of-cronus/) ((zeteticzen.wordpress.com))  
+
+
+
 ## Vaccines
 📹[LISTEN TO WHAT THIS MAN WAS SAYING IN 2014!](https://www.youtube.com/watch?v=nk33GlYxY14) ((youtube.com))  <-- Anthony Patch on the coronavirus and nanotech inside vaccines  
 
