@@ -21,7 +21,9 @@
 [Saidit.net](https://saidit.net/)  
 [Memo.cash](https://memo.cash/)  
 [Thedonald.win](https://thedonald.win)  
+[MetaFilter](https://www.metafilter.com/)  
 [Reddit list](https://www.reddit.com/r/RedditAlternatives/comments/fas4on/list_of_active_reddit_alternatives_50/)  
+[Reddit,Ycombinator and TIldes aggregator](https://news.t0.vc/)
 
 4chan & 8kun are too extreme and full of debauchery.
 
@@ -84,3 +86,6 @@ https://www.bestsevenreviews.com/top-10-sites-like-123movies/
 
 # ALTERNATIVE to News ?
 [News voice](https://newsvoice.com/)  
+[popurls](http://popurls.com/)  
+[Hubpages](https://hubpages.com/)  
+
