@@ -1,12 +1,30 @@
-[The Truly Evil Side Of Quantum Computer Blockchain Artificial Intelligence
-](https://steemit.com/quantum/@bitcoindoubler/the-truly-evil-side-of-quantum-computer-blockchain-artificial-intelligence) ((steemit.com))  
+# Illuminati, Global Elite, NWO
+
+Transhumanism: To live forever without God.
+
 [What is the Illuminati?](https://www.henrymakow.com/001260.html) ((henrymakow.com))  
 
+## AI, DWAVE, CERN
+[The Truly Evil Side Of Quantum Computer Blockchain Artificial Intelligence
+](https://steemit.com/quantum/@bitcoindoubler/the-truly-evil-side-of-quantum-computer-blockchain-artificial-intelligence) ((steemit.com))  
+
+📹[Geordie Rose in his own words Tsunami of Demons is coming](https://www.youtube.com/watch?v=iJQkwnkNSPc) ((youtube.com)) <-- Summoning demonic entities via quantum tech  
+
+📷[Silicon Chips with demonic sigils](https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/95561772_10223274096346673_3245115707892957184_n.jpg?_nc_cat=109&_nc_sid=ca434c&_nc_ohc=MeeePcYhofQAX-2ykNA&_nc_ht=scontent.fphx1-1.fna&oh=49e758f411ff3a8c7cd7aecd6de90104&oe=5ED4AF87) ((fb cdn))  
+
+## Vaccines
+📹[LISTEN TO WHAT THIS MAN WAS SAYING IN 2014!](https://www.youtube.com/watch?v=nk33GlYxY14) ((youtube.com))  <-- Anthony Patch on the coronavirus and nanotech inside vaccines  
+
+## P3d0 Elites
+📹[Hollywood P3d0phile Ring Is Going Down](https://www.youtube.com/watch?v=M3rAzIAw5KE&feature=youtu.be) ((youtube.com))  
+
+# Skinwalkers
 [Native American Southwest Witchcraft](http://nativeamericansouthwest.blogspot.com/) ((nativeamericansouthwest.blogspot.com))  
 [Skinwalker Ranch & the 1878 Navajo Witch Purge](https://historicalparanormal.home.blog/2019/05/05/skinwalker-ranch-the-1878-navajo-witch-purge/) ((historicalparanormal.home.blog))  
 [Navajo Skinwalkers – Witches of the Southwest](https://www.legendsofamerica.com/navajo-skinwalkers/2/) ((legendsofamerica.com))  
 [Skinwalkers](http://www.weirdus.com/states/arizona/fabled_people_and_places/skinwalkers/index.php) ((weirdus.com))  
 
+# Gargoyles
 [The Christian history of the Gargoyle](http://www.daimonologia.org/2017/11/the-christian-history-of-gargoyle.html) ((daimonologia.org))  
 [The Origin of French Gargoyles](https://www.thegoodlifefrance.com/the-origin-of-french-gargoyles/) ((thegoodlifefrance.com))  
 [Gargoyle](https://mythicalrealm.com/creatures/gargoyle.html) ((mythicalrealm.com))  
