@@ -6,6 +6,8 @@
 
 <hr>
 
+[Fediverse Network List (MASSIVE)](https://fediverse.network/mastodon)  
+
 # ALTERNATIVE TO AMAZON
 [Ebay](https://ebay.com)  
 [Overstock](https://overstock.com)  
