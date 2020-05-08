@@ -16,6 +16,12 @@
 [Voat.co](https://voat.co/)
 [Ycombinator](https://news.ycombinator.com/)
 [Tildes.net](https://tildes.net/)
+[Saidit.net](https://saidit.net/)  
+[Memo.cash](https://memo.cash/)  
+[Thedonald.win](https://thedonald.win)  
+[Reddit list](https://www.reddit.com/r/RedditAlternatives/comments/fas4on/list_of_active_reddit_alternatives_50/)  
+
+4chan & 8kun are too extreme and full of debauchery.
 
 # ALTERNATIVE TO GMAIL
 [Yandex](https://yandex.com)   
@@ -41,6 +47,7 @@ Paid Storage  | .. | 5 GB ($36 yr) | 5 GB ($36 yr) |  .. | ..
  Notes | [Bang feature](https://duckduckgo.com/bang) | [Anon. view](https://www.startpage.com/en/search/proxy-help.html) | [Search shortcuts](https://help.qwant.com/help/qwant-search/searching/how-use-qwick/#help_details) |  |
 
 [Swisscows](https://swisscows.com)  
+[Metager](https://metager.org)  
 [Search Encrypt](https://www.searchencrypt.com/)  
 [Gibiru](https://gibiru.com/)  
 [One search](https://www.onesearch.com/)  ((powered by Verizon))
@@ -53,6 +60,8 @@ Paid Storage  | .. | 5 GB ($36 yr) | 5 GB ($36 yr) |  .. | ..
 # ALTERNATIVE TO FACEBOOK
 [Gab.com](https://gab.com/) - a Mastadon instance
 
+# ALTERNATIVE to News ?
+[News voice](https://newsvoice.com/)  
 
 # ALTERNATIVE to Netflix
 https://www.techpout.com/putlocker-alternatives/  
