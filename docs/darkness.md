@@ -5,11 +5,14 @@ Transhumanism: To live forever without God.
 [What is the Illuminati?](https://www.henrymakow.com/001260.html) ((henrymakow.com))  
 
 ## AI, DWAVE, CERN
-[The Truly Evil Side Of Quantum Computer Blockchain Artificial Intelligence
-](https://steemit.com/quantum/@bitcoindoubler/the-truly-evil-side-of-quantum-computer-blockchain-artificial-intelligence) ((steemit.com))  
+[The Truly Evil Side Of Quantum Computer Blockchain Artificial Intelligence](https://steemit.com/quantum/@bitcoindoubler/the-truly-evil-side-of-quantum-computer-blockchain-artificial-intelligence) ((steemit.com))  
+[CERN ‘666’ Goal: Open New Dimension Doorway with Anthony Patch](https://steemit.com/lhc-cern/@socioecohistory/cern-666-goal-open-new-dimension-doorway-with-anthony-patch) ((steemit.com))  
+[Quantum Geomancy](https://sublunar.space/2019-05-quantum-geomancy.html) ((sublunar.space))  <-- quantum black magick  
+[Quantum Geomancy and Cryptic Mystic Math](http://herescope.blogspot.com/2012/05/quantum-geomancy-and-cryptic-mystic.html) ((herescope.blogspot.com))  
 
 📹[Geordie Rose in his own words Tsunami of Demons is coming](https://www.youtube.com/watch?v=iJQkwnkNSPc) ((youtube.com)) <-- Summoning demonic entities via quantum tech  
-📹[WOW! D-Wave Quantum CHIP design HOLY TEMPLE + Aliester CROWLEY Divination Board](https://www.youtube.com/watch?v=M_9VY0_LbFM) ((youtube.com))  <-- computer chips use black magick sigils
+📹[WOW! D-Wave Quantum CHIP design HOLY TEMPLE + Aliester CROWLEY Divination Board](https://www.youtube.com/watch?v=M_9VY0_LbFM) ((youtube.com))  <-- computer chips use black magick sigils  
+📹[Strange Ritual at CERN](https://www.youtube.com/watch?v=rxN-VjrHDfU) ((youtube.com))  
 
 📷[Silicon Chips with demonic sigils](https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/95561772_10223274096346673_3245115707892957184_n.jpg?_nc_cat=109&_nc_sid=ca434c&_nc_ohc=MeeePcYhofQAX-2ykNA&_nc_ht=scontent.fphx1-1.fna&oh=49e758f411ff3a8c7cd7aecd6de90104&oe=5ED4AF87) ((fb cdn))  
 
@@ -32,11 +35,16 @@ Transhumanism: To live forever without God.
 ## P3d0 Elites
 📹[Hollywood P3d0phile Ring Is Going Down](https://www.youtube.com/watch?v=M3rAzIAw5KE&feature=youtu.be) ((youtube.com))  
 📹[ISAAC KAPPY - TITANIC MARDAN PALACE (TOM HANKS & GEORGE CLOONEY)](https://www.bitchute.com/video/fv8bXNM13kH9/) ((bitchute.com))  
+[ANOTHER P3D0GATE RESEARCHER DEAD](https://archive.4plebs.org/pol/thread/219192491/) ((archive.4plebs.org))  <-- long Tracy Tyman discussion  
+📹[Tracy Twyman, Isaac Kappy and the Creepy Campground](https://www.youtube.com/watch?v=EMS0uuQVbBs) ((youtube.com)) < Twymans last video 
+📷[Twymans FB msgs to the FBI](https://wikispooks.com/w/images/0/05/Tracy_Twyman%27s_chat_which_mentions_her_dead_man%27s_switch_video_and_the_creepy_campground.png) ((wikispooks.com))  
+
 
 📷[Celebrity p3dos](https://uploads.disquscdn.com/images/579be7e251f8644843bd5819462bf6403fe73888a7ed4f095961608f5be22f80.jpg) ((disqus cdn))
 
 ### CIA
 [The Finders- deep child abuse group/cult](https://www.reddit.com/r/UnresolvedMysteries/comments/27lqws/the_finders_deep_child_abuse_groupcult/) ((reddit.com))  
+📷[The finders](https://pbs.twimg.com/media/EH7qAXqWwAAsBJa.jpg) ((pbs.twimg.com))  
 
 # Skinwalkers
 [Native American Southwest Witchcraft](http://nativeamericansouthwest.blogspot.com/) ((nativeamericansouthwest.blogspot.com))  
@@ -55,4 +63,5 @@ Transhumanism: To live forever without God.
 [The Symbolism of Gargoyles](http://gargoylestore.blogspot.com/p/symbolism-of-gargoyles.html?m=1) ((gargoylestore.blogspot.com))  
 # Other
 [Tepaphone – The Magickal Death Ray](https://josephmax.wordpress.com/2010/09/05/tepaphone-the-magickal-death-ray/) ((josephmax.wordpress.com))  
+[Ordo Lapsit Exillis](https://www.bibliotecapleyades.net/merovingians/merovingios_11.htm) ((bibliotecapleyades.net))  <-- secret society dedicated to guarding an alleged jewel that fell from Lucifer's crown during the war in heaven
 
