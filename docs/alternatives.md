@@ -1,7 +1,7 @@
 
 <hr>
 # Five Eyes  🇺🇸 🇬🇧 🇳🇿 🇦🇺 🇨🇦 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liveenhanced.com%2Fwp-content%2Fuploads%2F2019%2F09%2FFive-eyes-alliance-spying.jpg&f=1&nofb=1">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liveenhanced.com%2Fwp-content%2Fuploads%2F2019%2F09%2FFive-eyes-alliance-spying.jpg&f=1&nofb=1" height=200>
 [Five Eyes](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)  
 
 <hr>
@@ -76,18 +76,11 @@ notes |  |  |  |
 
 [Free file hosting services list](https://www.hostingadvice.com/how-to/free-file-hosting-services/)
 
-# ALTERNATIVE to News ?
-[News voice](https://newsvoice.com/)  
 
 # ALTERNATIVE to Netflix
 https://www.techpout.com/putlocker-alternatives/  
 https://www.bestsevenreviews.com/top-10-sites-like-123movies/  
 
 
-Tutorials | How-To Guides | Reference | Explanation
---- | --- | --- | ---
-Learning-oriented | goal-oriented | info-oriented | understanding-orienteed
-Allows newbie to get started | how to solve specific problems | describes machinery | provides background/context 
-is a lesson | a series of steps | is accurate and complete | 
-
-[linking to french theezz](french.md#these)
+# ALTERNATIVE to News ?
+[News voice](https://newsvoice.com/)  
