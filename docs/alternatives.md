@@ -65,6 +65,17 @@ Paid Storage  | .. | 5 GB ($36 yr) | 5 GB ($36 yr) |  .. | ..
 # ALTERNATIVE TO FACEBOOK
 [Gab.com](https://gab.com/) - a Mastadon instance
 
+# ALTERNATIVE HOSTING
+
+.. | [Mega.nz](https://mega.nz/) | [Mediafire](https://www.mediafire.com/) | [4shared](https://4shared.com/) | [Sabercat](https://sabercathost.com/) 
+--- | --- | --- | --- | ---
+storage | 50 GB | 10-50 GB | 15 GB | 5 GB
+Max. file size | none | 4 GB | 2 GB | 50 MB
+File exp. | never | 8+ months after last login | 180 days after last login | never
+notes |  |  |  | 
+
+[Free file hosting services list](https://www.hostingadvice.com/how-to/free-file-hosting-services/)
+
 # ALTERNATIVE to News ?
 [News voice](https://newsvoice.com/)  
 
