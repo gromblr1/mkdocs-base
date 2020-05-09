@@ -40,6 +40,7 @@ Paid Storage  | .. | 5 GB ($36 yr) | 5 GB ($36 yr) |  .. | ..
 
 # ALTERNATIVE to Google     
 *Note: Definitely would recommmend using DDG by default and use DDG's [**!bang**](https://duckduckgo.com/bang)([full list](https://duckduckgo.com/bang_lite.html)) feature.*  
+
   .. | [Duckduckgo](https://duckduckgo.com) | [Startpage](https://startpage.com) | [Qwant](https://qwant.com) |  |  |
   --- | --- | --- | --- | --- | --- |
  Country | 🇺🇸 | 🇳🇱 | 🇫🇷 |  |  |
