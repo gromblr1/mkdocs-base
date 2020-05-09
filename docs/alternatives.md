@@ -7,6 +7,15 @@
 <hr>
 
 [Fediverse Network List (MASSIVE)](https://fediverse.network/mastodon)  
+[Fediverse.party](https://fediverse.party/)  
+[WeDistribute](https://wedistribute.org)  <-- Fediverse news  
+[IndieWeb](https://indieweb.org/)  
+📖[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)  
+📖[Comparison of software and protocols for distributed social networking](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)  
+📖[Distributed social network](https://en.wikipedia.org/wiki/Distributed_social_network)  
+
+
+
 
 # ALTERNATIVE TO AMAZON
 [Ebay](https://ebay.com)  
