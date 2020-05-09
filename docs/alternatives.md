@@ -79,6 +79,9 @@ notes |  |  |  |
 
 [Free file hosting services list](https://www.hostingadvice.com/how-to/free-file-hosting-services/)
 
+# ALTERNATIVE to Youtube
+[Bitchute](https://www.bitchute.com)  
+[Drop.space](https://drop.space)  
 
 # ALTERNATIVE to Netflix
 https://www.techpout.com/putlocker-alternatives/  
