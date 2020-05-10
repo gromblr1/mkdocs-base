@@ -49,6 +49,7 @@ Paid Storage  | .. | 5 GB ($36 yr) | 5 GB ($36 yr) |  .. | ..
 
 # ALTERNATIVE to Google     
 *Note: Definitely would recommmend using DDG by default and use DDG's [**!bang**](https://duckduckgo.com/bang)([full list](https://duckduckgo.com/bang_lite.html)) feature.*  
+[(Or maybe not ?)](https://dev.lemmy.ml/post/31321)  
 
   .. | [Duckduckgo](https://duckduckgo.com) | [Startpage](https://startpage.com) | [Qwant](https://qwant.com) |  |  |
   --- | --- | --- | --- | --- | --- |
@@ -59,16 +60,20 @@ Paid Storage  | .. | 5 GB ($36 yr) | 5 GB ($36 yr) |  .. | ..
 🇨🇭[Swisscows](https://swisscows.com)  
 🇩🇪[Metager](https://metager.org)  
 [Gibiru](https://gibiru.com/)  ((powered by Google))  
-[Boardreader](https://boardreader.com/) ((searches forums))  
 
-[Search Encrypt](https://www.searchencrypt.com/)  
-[One search](https://www.onesearch.com/)  ((powered by Verizon))  
+[Boardreader](https://boardreader.com/) ((searches forums))  
+[Hubpages](https://hubpages.com/)  <-- not really a search engine but a wealth of content by users  
+
+[One search](https://www.onesearch.com/)  ((powered by Bing & Owned by Verizon))  
 
 [Gigablast](https://www.gigablast.com)  
-[Lukol](https://www.lukol.com)  
+
 [Yippy](https://www.yippy.com/)  
 [Lookseek](https://lookseek.com/)  
 
+
+[Search Encrypt](https://www.searchencrypt.com/)  
+[Lukol](https://www.lukol.com)  
 
 [Cliqz](https://cliqz.com/)  
 
@@ -101,5 +106,4 @@ https://www.bestsevenreviews.com/top-10-sites-like-123movies/
 # ALTERNATIVE to News ?
 [News voice](https://newsvoice.com/)  
 [popurls](http://popurls.com/)  
-[Hubpages](https://hubpages.com/)  
 
