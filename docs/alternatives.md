@@ -97,6 +97,10 @@ notes |  |  |  |
 # ALTERNATIVE to Youtube
 [Bitchute](https://www.bitchute.com)  
 [Drop.space](https://drop.space)  
+[Bittube](https://bittube.tv)  
+[HookTube](https://hooktube.com)  
+[invidious](https://invidio.us)  
+
 
 # ALTERNATIVE to Netflix
 https://www.techpout.com/putlocker-alternatives/  
