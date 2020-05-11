@@ -13,4 +13,5 @@ nav:
     - Architecture: architecture.md
     - Dance: dance.md
     - Misc: misc.md
+    - IRC: irc.html
 theme: readthedocs
