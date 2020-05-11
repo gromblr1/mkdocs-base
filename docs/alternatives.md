@@ -101,6 +101,24 @@ notes |  |  |  |
 [HookTube](https://hooktube.com)  
 [invidious](https://invidio.us)  
 
+# ALTERNATIVE to Amazon
+[Ethical Alternatives to Amazon](https://threshold.us/c/cancelprime/amazon-alternatives)  
+[Cancel Prime](https://threshold.us/c/cancelprime)  
+
+### Electronics
+[Monoprice](https://www.monoprice.com)  
+[Backmarket](https://www.backmarket.com/)  
+[Swappa](https://swappa.com/)  
+[B&H Photo Video](https://www.bhphotovideo.com/)  
+[Adorama](https://www.adorama.com)  
+
+
+# ALTERNATIVE TO BARNES & NOBLE
+[Better WOrld Books](https://www.betterworldbooks.com/): Better World Books is a socially conscious used book store that's allied with the Internet Archive. It's got great selection, but the item quality can vary (lots of ex-library books with covers, stickers, or damage).  
+[Book Outlet](https://bookoutlet.com/): Book Outlet sells remaindered books for cheap. Selection is more limited than BWB (and a lot of their stock isn't great), but the books are new (with only a remainder mark).  
+[InStockTrades](https://instocktrades.com): InStockTrades is good for comics and graphic novels, with prices that often beat Amazon.  
+[Powells Books](https://www.powells.com/)  
+
 
 # ALTERNATIVE to Netflix
 https://www.techpout.com/putlocker-alternatives/  
