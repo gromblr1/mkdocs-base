@@ -14,7 +14,7 @@
 📖[Comparison of software and protocols for distributed social networking](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)  
 📖[Distributed social network](https://en.wikipedia.org/wiki/Distributed_social_network)  
 
-
+[Ethical.net](https://ethical.net/resources/)  <-- Ethical alternatives to mainstream services  
 
 
 # ALTERNATIVE TO AMAZON
@@ -80,6 +80,8 @@ Paid Storage  | .. | 5 GB ($36 yr) | 5 GB ($36 yr) |  .. | ..
 [No more google](https://nomoregoogle.com/)  
 [Alternatives to Google Products](https://restoreprivacy.com/google-alternatives/)    
 
+[DeepL](https://deepl.com)  
+
 # ALTERNATIVE TO FACEBOOK
 [Gab.com](https://gab.com/) - a Mastadon instance
 
@@ -124,6 +126,10 @@ notes |  |  |  |
 https://www.techpout.com/putlocker-alternatives/  
 https://www.bestsevenreviews.com/top-10-sites-like-123movies/  
 
+# ALTERNATIVES to CHAT APPS (Snapchat, Line, WhatsApp)
+
+## IRC
+[Basic IRC Commands](https://www.mirc.com/help/html/index.html?basic_irc_commands.html)  
 
 # ALTERNATIVE to News ?
 [News voice](https://newsvoice.com/)  
