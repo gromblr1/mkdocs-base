@@ -1,17 +1,17 @@
 site_name: GOGNAUTS
 nav:
     - Home: index.md
-    - About: about.md
+     About: about.md
     - Trinity Of Terror: ./tot/
     - Gognauts: gognauts.md
-    - French: french.md
-    - Learn Docs: learndocs.md
-    - Javascript: ./js/
+     French: french.md
+     Learn Docs: learndocs.md
+     Javascript: ./js/
     - Alternatives: alternatives.md
     - Blood Realm: bloodrealm.md
     - Darkness: darkness.md
-    - Architecture: architecture.md
-    - Dance: dance.md
-    - Misc: misc.md
-    - IRC: irc.html
+     Architecture: architecture.md
+     Dance: dance.md
+     Misc: misc.md
+     - IRC: irc.html
 theme: readthedocs
