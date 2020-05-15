@@ -1,10 +1,10 @@
 site_name: GOGNAUTS
 nav:
     - Home: index.md
-    - Trinity Of Terror: ./tot/
-    - Gognauts: gognauts.md
+    - Halo: halo.md
+    - IRC: irc.html
     - Alternatives: alternatives.md
+    - Gognauts: gognauts.md
     - Blood Realm: bloodrealm.md
     - Darkness: darkness.md
-    - IRC: irc.html
 theme: readthedocs
