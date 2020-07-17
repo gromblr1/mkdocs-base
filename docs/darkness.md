@@ -26,6 +26,9 @@ Transhumanism: To live forever without God.
 [Saturn Worship – The Black Cube of Cronus](https://zeteticzen.wordpress.com/2016/12/10/saturn-worship-the-black-cube-of-cronus/) ((zeteticzen.wordpress.com))  
 [A Nightmare on Elm Street: The Occult and Illuminati Analysis](https://illuminatiwatcher.com/nightmare-on-elm-street-the-occult-and-illuminati-analysis/) ((illuminatiwatcher.com))  
 
+[The Truth About Satanic Cults] (https://www.goodfight.org/articles/cults-occult/truth-satanic-cults/) ((goodfight.org))  
+[Michael Aquino’s Last Desperate Attempt to Silence his Victims](https://fionabarnett.org/2018/09/04/michael-aquinos-last-desperate-attempt-to-silence-his-victims/) ((fionabarnett.org))  < -- high-level CIA satanist  
+
 ### Z10nizm
 [The Influence of Sabbatean Frankism on the World](https://www.winterwatch.net/2017/07/the-influence-of-sabbatian-frankism-on-the-world/) ((winterwatch.net))  
 
