@@ -44,7 +44,6 @@ Free Storage | 65 GB | 500MB  | 100 MB | 500 MB, 1 GB, 1 GB | 1GB
 Paid Storage  | .. | 5 GB ($36 yr) | 5 GB ($36 yr) |  .. | ..
  Notes | .. | 12 GB docs | .. | ..  | 50 MB attachments
 
-[Yandex](https://yandex.com)   
 
 
 # ALTERNATIVE to Google     
@@ -94,7 +93,10 @@ Max. file size | none | 4 GB | 2 GB | 50 MB
 File exp. | never | 8+ months after last login | 180 days after last login | never
 notes |  |  |  | 
 
-[Free file hosting services list](https://www.hostingadvice.com/how-to/free-file-hosting-services/)
+[Free file hosting services list](https://www.hostingadvice.com/how-to/free-file-hosting-services/)  
+[catbox.moe](https://catbox.moe/)  
+[Nyah.moe](https://nyah.moe/)  
+[Pomf.cat](https://Pomf.cat)  
 
 # ALTERNATIVE to Youtube
 [Bitchute](https://www.bitchute.com)  
