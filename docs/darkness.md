@@ -26,12 +26,13 @@ Transhumanism: To live forever without God.
 [Saturn Worship – The Black Cube of Cronus](https://zeteticzen.wordpress.com/2016/12/10/saturn-worship-the-black-cube-of-cronus/) ((zeteticzen.wordpress.com))  
 [A Nightmare on Elm Street: The Occult and Illuminati Analysis](https://illuminatiwatcher.com/nightmare-on-elm-street-the-occult-and-illuminati-analysis/) ((illuminatiwatcher.com))  
 
-
-
+### Z10nizm
+[The Influence of Sabbatean Frankism on the World](https://www.winterwatch.net/2017/07/the-influence-of-sabbatian-frankism-on-the-world/) ((winterwatch.net))  
 
 ## Vaccines
 📹[LISTEN TO WHAT THIS MAN WAS SAYING IN 2014!](https://www.youtube.com/watch?v=nk33GlYxY14) ((youtube.com))  <-- Anthony Patch on the coronavirus and nanotech inside vaccines  
 📹[Former FEMA Officer Explains Wave II Hard Lockdown](https://www.youtube.com/watch?v=jt9ExjwOeik) ((youtube.com))  
+📹[Urgent information on Covid Vacc!ne](https://www.youtube.com/watch?v=PbJq2KfgOEs) ((youtube.com))  
 
 ## P3d0 Elites
 📹[Hollywood P3d0phile Ring Is Going Down](https://www.youtube.com/watch?v=M3rAzIAw5KE&feature=youtu.be) ((youtube.com))  
