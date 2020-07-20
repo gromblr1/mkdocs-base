@@ -1,6 +1,1 @@
-[A Visual Glossary of Classical Architecture](https://www.ancient.eu/article/486/a-visual-glossary-of-classical-architecture/) ((ancient.eu))  
-[]() (())  
-[]() (())  
-[]() (())  
-[]() (())  
-[]() (())  
+# Composition breakdown
