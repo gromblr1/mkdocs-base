@@ -6,5 +6,6 @@ nav:
     - Alternatives: alternatives.md
     - Gognauts: gognauts.md
     - Blood Realm: bloodrealm.md
+    - Architecture: architecture.md
     - Darkness: darkness.md
 theme: readthedocs
