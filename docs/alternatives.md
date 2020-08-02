@@ -19,8 +19,9 @@
 # ALTERNATIVE SOFTWARES
 [Awesome Self Hosted](https://selfhosted.libhunt.com/) <-- Tons of freespeech platform softwares  
 [PRISM ⚡ BREAK](https://prism-break.org/en/)  
-[Privacy Tools](https://www.privacytools.io/)
-[Switching.software(swiso)](https://swiso.org/)
+[Privacy Tools](https://www.privacytools.io/)  
+[Switching.software(swiso)](https://swiso.org/)  
+[Tutanota's reccomendations](https://tutanota.com/blog/posts/how-to-leave-google-gmail/)  
 
 # ALTERNATIVE TO AMAZON
 [Ebay](https://ebay.com)  
