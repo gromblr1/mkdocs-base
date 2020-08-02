@@ -18,6 +18,7 @@
 
 # ALTERNATIVE SOFTWARES
 [Awesome Self Hosted](https://selfhosted.libhunt.com/) <-- Tons of freespeech platform softwares
+[PRISM ⚡ BREAK](https://prism-break.org/en/)
 
 # ALTERNATIVE TO AMAZON
 [Ebay](https://ebay.com)  
