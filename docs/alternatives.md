@@ -16,6 +16,8 @@
 
 [Ethical.net](https://ethical.net/resources/)  <-- Ethical alternatives to mainstream services  
 
+# ALTERNATIVE SOFTWARES
+[Awesome Self Hosted](https://selfhosted.libhunt.com/) <-- Tons of freespeech platform softwares
 
 # ALTERNATIVE TO AMAZON
 [Ebay](https://ebay.com)  
