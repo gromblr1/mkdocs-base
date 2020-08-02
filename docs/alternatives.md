@@ -20,6 +20,7 @@
 [Awesome Self Hosted](https://selfhosted.libhunt.com/) <-- Tons of freespeech platform softwares  
 [PRISM ⚡ BREAK](https://prism-break.org/en/)  
 [Privacy Tools](https://www.privacytools.io/)  
+[How to live without GOOLAG](https://write.privacytools.io/paulakreuzer/how-to-live-without-google-and-other-evil-tech-giants) ((privacytools.io))  
 [Switching.software(swiso)](https://swiso.org/)  
 [Tutanota's reccomendations](https://tutanota.com/blog/posts/how-to-leave-google-gmail/)  
 
