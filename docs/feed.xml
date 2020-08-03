@@ -10,6 +10,13 @@
     <webMaster> capdaflag@gmx.com</webMaster>
     <copyright>2020</copyright>
     <item>
+      <title>What about self-hosting aggregators ?</title>
+      <pubDate>Mon, 3 Aug 2020 05:23:12 -0700</pubDate>
+      <link>https://www.duckduckgo.com</link>
+      <category>Vulgar</category>
+      <description><![CDATA[This might not be the answer you want, but maybe you or someone else might find it helpful. I used to use feedly. Never used Inoreader. I switched to self-hosting Miniflux (FreshRSS is a similar alternative if you don't like minimalist UIs). The reason I prefer these options more than feedly is that, first, they're free (you might have to incur some very small cost for hosting, depending on what route you take), they don't sell your data, show you ads, or limit your features to make you pay. And most importantly, they fetch original content of the articles, so that you don't just get the short summaries the feed sends you, then have to visit the website itself to actually read it.]]></description>
+    </item>
+    <item>
       <title>boutta be lit bois, alright now </title>
       <pubDate>Mon, 3 Aug 2020 03:35:07 -0700</pubDate>
       <author>lopanAUTHOR@gmail.com</author>
