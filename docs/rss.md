@@ -7,3 +7,6 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLISTID
 
 #OPML Generator
 [OPMLGEN](https://opml-gen.ovh/)  
+
+#RSS Tools
+[RSS Tools](http://www.rss-tools.com/)  
