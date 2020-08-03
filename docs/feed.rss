@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Gromblr RZZ Feed</title>
+    <link>gromblr.netlify.app</link>
+    <description>Insanely deep perspectives on humanity.</description>
+    <language>en-us</language>
+    <managingEditor> capdaflag@gmx.com</managingEditor>
+    <webMaster> capdaflag@gmx.com</webMaster>
+    <copyright>2020</copyright>
+    <item>
+      <title>TOPIC TITLE: vaccines</title>
+      <pubDate>Sun, 2 Aug 2020 19:52:51 -0700</pubDate>
+      <link>https://gromblr.netlify.app/alternatives/</link>
+      <description><![CDATA[this is the desctiprion prescriotion inceptions]]></description>
+    </item>
+  </channel>
+</rss>
