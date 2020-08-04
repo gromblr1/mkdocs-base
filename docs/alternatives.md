@@ -51,7 +51,12 @@ Free Storage | 65 GB | 500MB  | 100 MB | 500 MB, 1 GB, 1 GB | 1GB
 Paid Storage  | .. | 5 GB ($36 yr) | 5 GB ($36 yr) |  .. | ..
  Notes | .. | 12 GB docs | .. | ..  | 50 MB attachments
 
+Tutanota does not allow past searches.
+Tutanota does not have an image viewer.
 
+Disroot.org has an excellent search.
+Disroot.org is a lil bit slow (but tolerable).
+Disroot.org allegedly has up to 4GB instead of 1GB.
 
 # ALTERNATIVE to Google     
 *Note: Definitely would recommmend using DDG by default and use DDG's [**!bang**](https://duckduckgo.com/bang)([full list](https://duckduckgo.com/bang_lite.html)) feature.*  
