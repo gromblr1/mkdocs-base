@@ -150,6 +150,6 @@ https://www.bestsevenreviews.com/top-10-sites-like-123movies/
 [Basic IRC Commands](https://www.mirc.com/help/html/index.html?basic_irc_commands.html)  
 
 # ALTERNATIVE to News ?
+[Alternative RSS reader list](https://alternativeto.net/browse/search?q=rss)
 [News voice](https://newsvoice.com/)  
 [popurls](http://popurls.com/)  
-
