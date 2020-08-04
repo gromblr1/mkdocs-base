@@ -39,7 +39,9 @@
 [Thedonald.win](https://thedonald.win)  
 [MetaFilter](https://www.metafilter.com/)  
 [Reddit list](https://www.reddit.com/r/RedditAlternatives/comments/fas4on/list_of_active_reddit_alternatives_50/)  
-[Reddit,Ycombinator and TIldes aggregator](https://news.t0.vc/)
+[Reddit,Ycombinator and TIldes aggregator](https://news.t0.vc/)  
+[Lemmy](https://dev.lemmy.ml/)
+[Ruqqus](https://www.ruqqus.com/)
 
 4chan & 8kun are too extreme and full of debauchery.
 
