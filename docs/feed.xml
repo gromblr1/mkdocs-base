@@ -1,19 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-  <channel>
-    <generator>RSS Builder by B!Soft</generator>
-    <title>Gromblr RZZ Feed</title>
-    <link>gromblr.netlify.app</link>
-    <description>Insanely deep perspectives on humanity.</description>
-    <language>en-us</language>
-    <managingEditor> capdaflag@gmx.com</managingEditor>
-    <webMaster> capdaflag@gmx.com</webMaster>
-    <copyright>2020</copyright>
-    <item>
-      <title>I've got so many questies !!! OKAY so0o0o0 lol</title>
-      <pubDate>Mon, 4 Aug 2020 18:26:13 -0700</pubDate>
-      <link>https://www.bidensadumbass.com</link>
-      <description><![CDATA[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.quotemaster.org%2Fimages%2F3d%2F3dfb9d7e27e4f650fae1efadf1d7fa00.jpg&f=1&nofb=1" height=100>]]></description>
-    </item>	
-  </channel>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>capdaflaktest another title</title>
+	<atom:link href="https://gromblr.netlify.app/feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://capdaflaktest.000webhostapp.com</link>
+	<description>Juzz another fadavaaa</description>
+	<lastBuildDate>Tues, 04 Aug 2020 18:54:15 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<item>
+		<title>The title... or should I say TITALIA.</title>
+		<link>https://www.goolaggoolag.com</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tues, 04 Aug 2020 18:54:15 +0000</pubDate>
+				<category><![CDATA[SLAVIC]]></category>
+		<guid isPermaLink="false">https://www.duckduckgo.com</guid>
+
+					<description><![CDATA[They all became pussified. The Daily Stormer&#160;is an American&#160;far-right&#160;neo-Nazi,&#160;white supremacist, and&#160;Holocaust denial&#160;commentary and message board website that advocates for the&#160;genocide&#160;of&#160;Jews.[1][2][3][4]&#160;It considers itself a part of the&#160;alt-right&#160;movement.[5]&#160;Its editor, Andrew Anglin, founded it on July 4, 2013, as a faster-paced replacement for his previous website&#160;Total Fascism. The website also publishes its content in&#160;Spain&#160;and&#160;Latin America,&#160;Italy&#160;and&#160;Greece. The site is<div><a class="btn-filled btn" href="https://capdaflaktest.000webhostapp.com/2020/08/what-happened-to-bboying" title="What happened to bboying ?">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>They all became pussified. </p>
+
+
+
+<p><em><strong>Chidaka caca</strong></em></p>
+
+<p></p>
+]]></content:encoded>
+			</item>
+	</channel>
 </rss>
