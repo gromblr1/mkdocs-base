@@ -1,24 +1,251 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>GROMBLR REVISTED</title>
-        <link>https://gromblr.netlify.app/feed.xml</link>
-        <description />
-        <language />
-        <managingEditor />
-        <webMaster />
-        <category>vulgar2</category>
-        <copyright />
-        <docs />
-        <pubDate>05 Aug 2020 09:04:44 GMT</pubDate>
-        <generator>RSS MEHZ</generator>
-        <item>
-            <title>This one has to work cuz that shit dont make no damn saynse.</title>
-            <description>Clouds. Trees. Birds. Ahhh, nice.</description>
-            <pubDate>05 Aug 2020 09:42:33 GMT</pubDate>
-            <link>https://gromblr.netlify.app/feed.xml</link>
-            <author>CAP_DA_FLAG</author>
-            <guid>https://gromblr.netlify.app/feed.xml?8/5/2020_2:12:33_AM</guid>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>capdaflaktest</title>
+	<atom:link href="https://capdaflaktest.000webhostapp.com/feed" rel="self" type="application/rss+xml" />
+	<link>https://capdaflaktest.000webhostapp.com</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 05 Aug 2020 08:10:56 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>https://capdaflaktest.000webhostapp.com/wp-content/uploads/2020/08/wpfavicon-150x150.png</url>
+	<title>capdaflaktest</title>
+	<link>https://capdaflaktest.000webhostapp.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SON OF A BITCH</title>
+		<link>https://capdaflaktest.000webhostapp.com/2020/08/son-of-a-bitch?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=son-of-a-bitch</link>
+					<comments>https://capdaflaktest.000webhostapp.com/2020/08/son-of-a-bitch#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2020 08:10:56 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">https://capdaflaktest.000webhostapp.com/?p=25</guid>
+
+					<description><![CDATA[That&#8217;s right.]]></description>
+										<content:encoded><![CDATA[
+<p>That&#8217;s right.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://capdaflaktest.000webhostapp.com/2020/08/son-of-a-bitch/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>suit yourselggg</title>
+		<link>https://capdaflaktest.000webhostapp.com/2020/08/suit-yourselggg?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=suit-yourselggg</link>
+					<comments>https://capdaflaktest.000webhostapp.com/2020/08/suit-yourselggg#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2020 03:17:20 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">https://capdaflaktest.000webhostapp.com/?p=22</guid>
+
+					<description><![CDATA[assmunch]]></description>
+										<content:encoded><![CDATA[
+<p>assmunch</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://capdaflaktest.000webhostapp.com/2020/08/suit-yourselggg/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Protected: pwd protected</title>
+		<link>https://capdaflaktest.000webhostapp.com/2020/08/pwd-protected?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pwd-protected</link>
+					<comments>https://capdaflaktest.000webhostapp.com/2020/08/pwd-protected#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2020 03:03:46 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">https://capdaflaktest.000webhostapp.com/?p=18</guid>
+
+					<description><![CDATA[a pwd protect thing lol]]></description>
+										<content:encoded><![CDATA[
+<p>a pwd protect thing lol</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://capdaflaktest.000webhostapp.com/2020/08/pwd-protected/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Private: Testing a private thing</title>
+		<link>https://capdaflaktest.000webhostapp.com/2020/08/testing-a-private-thing?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=testing-a-private-thing</link>
+					<comments>https://capdaflaktest.000webhostapp.com/2020/08/testing-a-private-thing#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2020 03:00:34 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">https://capdaflaktest.000webhostapp.com/?p=16</guid>
+
+					<description><![CDATA[Privvy privacyh ?? Another block or what ?]]></description>
+										<content:encoded><![CDATA[
+<p>Privvy privacyh ?? </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://d2.alternativeto.net/dist/icons/rssowlnix_133654.png?width=64&amp;height=64&amp;mode=crop&amp;upscale=false" alt=""/></figure>
+
+
+
+<p>Another block or what ? </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://d2.alternativeto.net/dist/icons/feeder-rss-feed-reader_125473.png?width=64&amp;height=64&amp;mode=crop&amp;upscale=false" alt=""/><figcaption>A captio for this gree image<br></figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://capdaflaktest.000webhostapp.com/2020/08/testing-a-private-thing/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>When are we going to protest these stupid fucking mask madates in Arizona ?</title>
+		<link>https://capdaflaktest.000webhostapp.com/2020/08/when-are-we-going-to-protest-these-stupid-fucking-mask-madates-in-arizona?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=when-are-we-going-to-protest-these-stupid-fucking-mask-madates-in-arizona</link>
+					<comments>https://capdaflaktest.000webhostapp.com/2020/08/when-are-we-going-to-protest-these-stupid-fucking-mask-madates-in-arizona#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2020 02:44:47 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">https://capdaflaktest.000webhostapp.com/?p=14</guid>
+
+					<description><![CDATA[Seriously !! The time has come to rise up and stand against tyranny. The global cabal is trying to ENSLAVE ALL OF US.]]></description>
+										<content:encoded><![CDATA[
+<p>Seriously !! The time has come to rise up and stand against tyranny. The global cabal is trying to<a href="https://www.azcentral.com/story/news/local/arizona-health/2020/06/17/gov-doug-ducey-gives-cities-authority-mandate-face-masks-public/3210588001/"> ENSLAVE ALL OF US</a>. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://capdaflaktest.000webhostapp.com/2020/08/when-are-we-going-to-protest-these-stupid-fucking-mask-madates-in-arizona/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>When are we going to protests these stupid fucking masks in Arizona ?</title>
+		<link>https://capdaflaktest.000webhostapp.com/2020/08/when-are-we-going-to-protests-these-stupid-fucking-masks-in-arizona?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=when-are-we-going-to-protests-these-stupid-fucking-masks-in-arizona</link>
+					<comments>https://capdaflaktest.000webhostapp.com/2020/08/when-are-we-going-to-protests-these-stupid-fucking-masks-in-arizona#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2020 01:32:15 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">https://capdaflaktest.000webhostapp.com/?p=11</guid>
+
+					<description><![CDATA[The time has come to rise up and stand against tyranny. The global cabal is trying to ENSLAVE ALL OF US.]]></description>
+										<content:encoded><![CDATA[
+<p>The time has come to rise up and stand against tyranny. The global cabal is trying to<a href="https://www.azcentral.com/story/news/local/arizona-health/2020/06/17/gov-doug-ducey-gives-cities-authority-mandate-face-masks-public/3210588001/"> ENSLAVE ALL OF US</a>. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://capdaflaktest.000webhostapp.com/2020/08/when-are-we-going-to-protests-these-stupid-fucking-masks-in-arizona/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Noahhide+Sharia LAWS ARE COMING. PREPARE YOURSELVES.</title>
+		<link>https://capdaflaktest.000webhostapp.com/2020/08/the-noahhidesharia-laws-are-coming-prepare-yourselves?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-noahhidesharia-laws-are-coming-prepare-yourselves</link>
+					<comments>https://capdaflaktest.000webhostapp.com/2020/08/the-noahhidesharia-laws-are-coming-prepare-yourselves#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2020 01:24:18 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">https://capdaflaktest.000webhostapp.com/?p=9</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fexpatlogue.files.wordpress.com%2F2012%2F03%2Fhqdefault.jpg%3Fw%3D300%26h%3D225&amp;f=1&amp;nofb=1" alt=""/><figcaption>Moslems are terrible citizens.</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://capdaflaktest.000webhostapp.com/2020/08/the-noahhidesharia-laws-are-coming-prepare-yourselves/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>hello fatty lol</title>
+		<link>https://capdaflaktest.000webhostapp.com/2020/08/hello-fatty-lol?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-fatty-lol</link>
+					<comments>https://capdaflaktest.000webhostapp.com/2020/08/hello-fatty-lol#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2020 01:10:32 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">https://capdaflaktest.000webhostapp.com/?p=7</guid>
+
+					<description><![CDATA[lets see hammsters lolz]]></description>
+										<content:encoded><![CDATA[
+<p>lets see hammsters lolz</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F_fFS_mMCQPZY%2FS9HTXmrv4BI%2FAAAAAAAAAA4%2FnkEZ6BfjKPE%2Fs1600%2F3647114965_b25670e9a8_o.jpg&amp;f=1&amp;nofb=1" alt=""/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://capdaflaktest.000webhostapp.com/2020/08/hello-fatty-lol/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>This is from wordpress muthafcks</title>
+		<link>https://capdaflaktest.000webhostapp.com/2020/08/this-is-from-wordpress-muthafcks?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=this-is-from-wordpress-muthafcks</link>
+					<comments>https://capdaflaktest.000webhostapp.com/2020/08/this-is-from-wordpress-muthafcks#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2020 01:02:44 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">https://capdaflaktest.000webhostapp.com/?p=5</guid>
+
+					<description><![CDATA[Shit is intenseeeeeeee]]></description>
+										<content:encoded><![CDATA[
+<p>Shit is intenseeeeeeee</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftrofire.com%2Fwp-content%2Fuploads%2F2018%2F01%2F2018-01-02-Trump-Insane.jpg&amp;f=1&amp;nofb=1" alt=""/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://capdaflaktest.000webhostapp.com/2020/08/this-is-from-wordpress-muthafcks/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://capdaflaktest.000webhostapp.com/2020/08/hello-world?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
+					<comments>https://capdaflaktest.000webhostapp.com/2020/08/hello-world#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2020 00:59:14 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">https://capdaflaktest.000webhostapp.com/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://capdaflaktest.000webhostapp.com/2020/08/hello-world/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
