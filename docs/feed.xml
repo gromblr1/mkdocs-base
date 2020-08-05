@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Gromblr RZZ Feed</title>
-    <link>gromblr.netlify.app</link>
+    <link>https://gromblr.netlify.app</link>
     <description>Insanely deep perspectives on humanity.</description>
     <language>en-us</language>
     <managingEditor> capdaflag@gmx.com</managingEditor>
@@ -11,15 +11,15 @@
     <copyright>2020</copyright>
     <item>
       <title>Anthony Patch speaks tha truth ! WATCH HIS VID</title>
-      <pubDate>Tues, 4 Aug 2020 19:19:13 -0700</pubDate>
+      <pubDate>Tue, 4 Aug 2020 19:19:13 -0700</pubDate>
       <link>https://www.balcog.net</link>
       <description><![CDATA[This is deliberate.]]></description>
     </item>		
     <item>
       <title>1 title at a time i guess boaz.</title>
-      <pubDate>Tues, 4 Aug 2020 19:14:13 -0700</pubDate>
+      <pubDate>Tue, 4 Aug 2020 19:14:13 -0700</pubDate>
       <link>https://www.balcog.net</link>
       <description><![CDATA[I think i can only have 1 at a time]]></description>
     </item>	
-  </channel>
+  <atom:link href="https://gromblr.netlify.app/feed.xml" rel="self" type="application/rss+xml" /></channel>
 </rss>
