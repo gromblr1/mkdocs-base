@@ -1,31 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <generator>RSS Builder by B!Soft</generator>
-    <title>Gromblr RZZ Feed</title>
-    <link>https://gromblr.netlify.app</link>
-    <description>Insanely deep perspectives on humanity.</description>
-    <language>en-us</language>
-    <managingEditor> capdaflag@gmx.com</managingEditor>
-    <webMaster> capdaflag@gmx.com</webMaster>
-    <copyright>2020</copyright>
-    <item>
-      <title>Ioo.Do DO0oo00o0o0o !</title>
-      <pubDate>Tue, 4 Aug 2020 23:35:13 -0700</pubDate>
-      <link>https://www.youtube.com/watch?v=Hc6pbG4wICA</link>
-      <description><![CDATA[Dddddddddd]]></description>
-    </item>		
-    <item>
-      <title>IREALM OD THA DOOSKIES</title>
-      <pubDate>Tue, 4 Aug 2020 23:35:13 -0700</pubDate>
-      <link>https://www.yfghghj.com</link>
-      <description><![CDATA[DGALAGA AARCADEdddd]]></description>
-    </item>
-    <item>
-      <title>When Linux sucks ....</title>
-      <pubDate>Tue, 4 Aug 2020 23:35:13 -0700</pubDate>
-      <link>https://www.yfghghj.com</link>
-      <description><![CDATA[Limunx DINUX]]></description>
-    </item>	
-  <atom:link href="https://gromblr.netlify.app/feed.xml" rel="self" type="application/rss+xml" /></channel>
+    <channel>
+        <title>GROMBLR REVISTED</title>
+        <link>https://gromblr.netlify.app/feed.xml</link>
+        <description />
+        <language />
+        <managingEditor />
+        <webMaster />
+        <category>vulgar2</category>
+        <copyright />
+        <docs />
+        <pubDate>05 Aug 2020 09:04:44 GMT</pubDate>
+        <generator>RSS MEHZ</generator>
+        <item>
+            <title>VERY FIRST MUTHER SUCKER</title>
+            <description>Yowza !</description>
+            <pubDate>05 Aug 2020 09:12:33 GMT</pubDate>
+            <link>https://gromblr.netlify.app/feed.xml</link>
+            <author>CAP_DA_FLAG</author>
+            <guid>https://gromblr.netlify.app/feed.xml?8/5/2020_2:12:33_AM</guid>
+        </item>
+    </channel>
 </rss>
