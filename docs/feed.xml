@@ -14,7 +14,7 @@
         <generator>RSS MEHZ</generator>
         <item>
             <title>THE SECOND MUTHER SUCKER</title>
-            <description>Ouch ! <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.tapawaypain.com%2Fwp-content%2Fuploads%2F2013%2F07%2FOuch1.jpg&f=1&nofb=1"></description>
+            <description>Ouch ! <![CDATA[<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.tapawaypain.com%2Fwp-content%2Fuploads%2F2013%2F07%2FOuch1.jpg&f=1&nofb=1">]]></description>
             <pubDate>05 Aug 2020 09:12:33 GMT</pubDate>
             <link>https://gromblr.netlify.app/feed.xml</link>
             <author>CAP_DA_FLAG</author>
