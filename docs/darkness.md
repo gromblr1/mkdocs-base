@@ -33,15 +33,15 @@ Transhumanism: To live forever without God.
 [The Influence of Sabbatean Frankism on the World](https://www.winterwatch.net/2017/07/the-influence-of-sabbatian-frankism-on-the-world/) ((winterwatch.net))  
 
 ## Vaccines
-📹[LISTEN TO WHAT THIS MAN WAS SAYING IN 2014!](https://www.youtube.com/watch?v=nk33GlYxY14) ((youtube.com))  <-- Anthony Patch on the coronavirus and nanotech inside vaccines  
-📹[Former FEMA Officer Explains Wave II Hard Lockdown](https://www.youtube.com/watch?v=jt9ExjwOeik) ((youtube.com))  
-📹[Urgent information on Covid Vacc!ne](https://www.youtube.com/watch?v=PbJq2KfgOEs) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[LISTEN TO WHAT THIS MAN WAS SAYING IN 2014!](https://www.youtube.com/watch?v=nk33GlYxY14) ((youtube.com))  <-- Anthony Patch on the coronavirus and nanotech inside vaccines  
+<img src="https://youtube.com/favicon.ico">[Former FEMA Officer Explains Wave II Hard Lockdown](https://www.youtube.com/watch?v=jt9ExjwOeik) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Urgent information on Covid Vacc!ne](https://www.youtube.com/watch?v=PbJq2KfgOEs) ((youtube.com))  
 
 ## P3d0 Elites
-📹[Hollywood P3d0phile Ring Is Going Down](https://www.youtube.com/watch?v=M3rAzIAw5KE&feature=youtu.be) ((youtube.com))  
-📹[ISAAC KAPPY - TITANIC MARDAN PALACE (TOM HANKS & GEORGE CLOONEY)](https://www.bitchute.com/video/fv8bXNM13kH9/) ((bitchute.com))  
+<img src="https://youtube.com/favicon.ico">[Hollywood P3d0phile Ring Is Going Down](https://www.youtube.com/watch?v=M3rAzIAw5KE&feature=youtu.be) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[ISAAC KAPPY - TITANIC MARDAN PALACE (TOM HANKS & GEORGE CLOONEY)](https://www.bitchute.com/video/fv8bXNM13kH9/) ((bitchute.com))  
 [ANOTHER P3D0GATE RESEARCHER DEAD](https://archive.4plebs.org/pol/thread/219192491/) ((archive.4plebs.org))  <-- long Tracy Tyman discussion  
-📹[Tracy Twyman, Isaac Kappy and the Creepy Campground](https://www.youtube.com/watch?v=EMS0uuQVbBs) ((youtube.com)) < Twymans last video 
+<img src="https://youtube.com/favicon.ico">[Tracy Twyman, Isaac Kappy and the Creepy Campground](https://www.youtube.com/watch?v=EMS0uuQVbBs) ((youtube.com)) < Twymans last video 
 📷[Twymans FB msgs to the FBI](https://wikispooks.com/w/images/0/05/Tracy_Twyman%27s_chat_which_mentions_her_dead_man%27s_switch_video_and_the_creepy_campground.png) ((wikispooks.com))  
 
 
