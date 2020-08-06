@@ -1,7 +1,7 @@
 site_name: GOGNAUTS
 nav:
     - Home: index.md
-    - Halo: halo.md
+    - Halo/Elite Dangerous: halo.md
     - IRC: irc.html
     - Alternatives: alternatives.md
     - RSS It will change your life: rss.md
