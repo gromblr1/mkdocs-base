@@ -1,4 +1,4 @@
-# Streams
+# Halo
 [ll Super S ll][1], [Halo 2 Stats][bung]  
 [xSAKMANx][2]  
 [p0gz][3], [Halo 2 Stats][bung2]  
@@ -14,3 +14,7 @@
 [Halo 2 Manual pdf](https://halo.bungie.net/images/games/halo2/support/halo2manual_en.pdf) ((halo.bungie.net))  
 [HALO 2: A WAR OF RELIGIOUS IDEOLOGIES](http://film.byu.edu/aperture/?p=312) ((film.byu.edu))  
 [Halo movies](http://halo.bungie.org/movies.html) ((halo.bungie.org))  
+<hr>
+
+#Elite Dangerous  
+<img src="https://youtube.com/favicon.ico">[Elite Dangerous: Thargoid Interdiction and Battle](https://www.youtube.com/watch?v=qmALzqfhZdw)  ((youtube.com))  
