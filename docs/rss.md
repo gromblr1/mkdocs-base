@@ -2,8 +2,9 @@
 [Alternative RSS reader list](https://alternativeto.net/browse/search?q=rss)
 
 [RSS.app](https://wwww.rss.app)  
-(https://reddit.0qz.fun/r/RNAME.json) <-- Replace *RNAME* with name of reddit you want.
-[Feedburner](https://www.feedburner.com) 
+[https://reddit.0qz.fun/r/RNAME.json] <-- Replace *RNAME* with name of reddit you want.  
+[Feedburner](https://www.feedburner.com)  
+[Awesome self-hosted options](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md#feed-readers) ((github.com))  
 
 #RSS feeds for Youtube videos and playlists
 https://www.youtube.com/feeds/videos.xml?channel_id=CHANNELID
