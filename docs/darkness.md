@@ -16,7 +16,7 @@ Transhumanism: To live forever without God.
 
 📷[Silicon Chips with demonic sigils](https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/95561772_10223274096346673_3245115707892957184_n.jpg?_nc_cat=109&_nc_sid=ca434c&_nc_ohc=MeeePcYhofQAX-2ykNA&_nc_ht=scontent.fphx1-1.fna&oh=49e758f411ff3a8c7cd7aecd6de90104&oe=5ED4AF87) ((fb cdn))  
 
-## Black Cube, Saturn, Moloch
+## Black Cube(Black Sun), Saturn, Moloch
 [The Elite Rulers & Saturn Worship](https://truth-zone.net/forum/twilight-zone/71335-the-elite-rulers-saturn-worship.html) ((truth-zone.net))  
 [(SATURN WORSHIP)THE BLACK CUBE](https://www.nicholson1968.com/nicholson1968s-post/saturn-worshipthe-black-cube) ((nicholson1968.com))  
 [Saturn--Satan worship, Black Cube, Freemasons, Jews and the 4th dimension](https://www.reddit.com/r/conspiracy/comments/8ix0s8/saturnsatan_worship_black_cube_freemasons_jews/) ((reddit.com))  
@@ -29,6 +29,8 @@ Transhumanism: To live forever without God.
 [The Truth About Satanic Cults] (https://www.goodfight.org/articles/cults-occult/truth-satanic-cults/) ((goodfight.org))  
 [Michael Aquino’s Last Desperate Attempt to Silence his Victims](https://fionabarnett.org/2018/09/04/michael-aquinos-last-desperate-attempt-to-silence-his-victims/) ((fionabarnett.org))  < -- high-level CIA satanist  
 
+[Black Sun celeb doorknob rituals](https://prepareforchange.net/2020/07/22/the-doorknob-sacrifices-a-black-sun-ritual-12-celebrity-suicides-related-to-pedophilia-cover-up/) ((prepareforchange.net))  
+  
 ### Z10nizm
 [The Influence of Sabbatean Frankism on the World](https://www.winterwatch.net/2017/07/the-influence-of-sabbatian-frankism-on-the-world/) ((winterwatch.net))  
 
