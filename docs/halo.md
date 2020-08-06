@@ -17,4 +17,5 @@
 <hr>
 
 #Elite Dangerous  
+<img src="https://youtube.com/favicon.ico">[Thargoid Interdiction 4K 60FPS](https://www.youtube.com/watch?v=jbCyGYu13y0) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Elite Dangerous: Thargoid Interdiction and Battle](https://www.youtube.com/watch?v=qmALzqfhZdw)  ((youtube.com))  
