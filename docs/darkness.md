@@ -49,6 +49,9 @@ Transhumanism: To live forever without God.
 
 📷[Celebrity p3dos](https://uploads.disquscdn.com/images/579be7e251f8644843bd5819462bf6403fe73888a7ed4f095961608f5be22f80.jpg) ((disqus cdn))
 
+##Jesuits
+[FAMOUS QUOTES ABOUT THE JESUIT ORDER](https://comingworldwar3.wordpress.com/2010/05/01/famous-quotes-about-the-jesuit-order/) ((comingworldwar3.wordpress.com))  
+
 ### CIA
 [The Finders- deep child abuse group/cult](https://www.reddit.com/r/UnresolvedMysteries/comments/27lqws/the_finders_deep_child_abuse_groupcult/) ((reddit.com))  
 📷[The finders](https://pbs.twimg.com/media/EH7qAXqWwAAsBJa.jpg) ((pbs.twimg.com))  
