@@ -112,7 +112,8 @@ notes |  |  |  |
 [Nyah.moe](https://nyah.moe/)  
 [Pomf.cat](https://Pomf.cat)  
 
-[Streamable](https://streamable.com/)  <-- no signup required
+[Streamable](https://streamable.com/)  <-- no signup required  
+[Telegra.ph](https://telegra.ph/) <-- no signup required, anonymous blogging platform  
 
 # ALTERNATIVE to Youtube
 [Bitchute](https://www.bitchute.com)  
