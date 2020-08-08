@@ -3,5 +3,8 @@
 [Global Star 3 Programming](http://www.gsradio.net/schedule/star-3.htm) ((gsradio.net))  
 [Global Star 3 Programming updated i think](http://www.gsradio.net/help/m-f-star-3.htm) ((gsradio.net))  
 
+[Rense Radio](https://www.renseradio.com/) ((renseradio.com))  
+
+
 #time zone tools
 [Time Zone converter](https://24timezones.com/difference/mst/est)  
