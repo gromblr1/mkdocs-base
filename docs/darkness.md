@@ -34,6 +34,9 @@ Transhumanism: To live forever without God.
 ### Z10nizm
 [The Influence of Sabbatean Frankism on the World](https://www.winterwatch.net/2017/07/the-influence-of-sabbatian-frankism-on-the-world/) ((winterwatch.net))  
 
+# Brother Nathanael Videos
+[Brovids.com](http://brovids.com/) <-- a converted J3w to Christian who tells truth about world J3wry
+
 ## Vaccines
 <img src="https://youtube.com/favicon.ico">[LISTEN TO WHAT THIS MAN WAS SAYING IN 2014!](https://www.youtube.com/watch?v=nk33GlYxY14) ((youtube.com))  <-- Anthony Patch on the coronavirus and nanotech inside vaccines  
 <img src="https://youtube.com/favicon.ico">[Former FEMA Officer Explains Wave II Hard Lockdown](https://www.youtube.com/watch?v=jt9ExjwOeik) ((youtube.com))  
