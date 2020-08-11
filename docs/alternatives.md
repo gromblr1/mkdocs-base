@@ -158,3 +158,6 @@ https://www.bestsevenreviews.com/top-10-sites-like-123movies/
 [Alternative RSS reader list](https://alternativeto.net/browse/search?q=rss)
 [News voice](https://newsvoice.com/)  
 [popurls](http://popurls.com/)  
+
+# ALTERNATIVE to WIKIPEDIA
+[Wikipedia CDN ?](https://db0nus869y26v.cloudfront.net/en/Ghoul)  <-- replace "Ghoul" with any other wikipedia pagename
