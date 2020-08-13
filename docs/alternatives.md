@@ -30,18 +30,26 @@
 [Offer Up](https://offerup.com)  
 [Craigslist](https://craigslist.org)  
 
-# ALTERNATIVE TO REDDIT
-[Voat.co](https://voat.co/)  
-[Ycombinator](https://news.ycombinator.com/)  
+# ALTERNATIVE TO REDDIT 
+
+##Liberal version of Reddit:
+[Raddle.me](https://raddle.me/)  
 [Tildes.net](https://tildes.net/)  
+[Ycombinator](https://news.ycombinator.com/)  
+[Reddit,Ycombinator and TIldes aggregator](https://news.t0.vc/)  
+
+##Conservative version of Reddit 
 [Saidit.net](https://saidit.net/)  
-[Memo.cash](https://memo.cash/)  
+[Voat.co](https://voat.co/)  
+[Lemmy](https://dev.lemmy.ml/)  
+[Ruqqus](https://www.ruqqus.com/)  
+
+##Retarded versions of Reddit
 [Thedonald.win](https://thedonald.win)  
 [MetaFilter](https://www.metafilter.com/)  
-[Reddit list](https://www.reddit.com/r/RedditAlternatives/comments/fas4on/list_of_active_reddit_alternatives_50/)  
-[Reddit,Ycombinator and TIldes aggregator](https://news.t0.vc/)  
-[Lemmy](https://dev.lemmy.ml/)
-[Ruqqus](https://www.ruqqus.com/)
+
+###Other
+[Reddit list](https://www.reddit.com/r/RedditAlternatives/comments/fas4on/list_of_active_reddit_alternatives_50/)    
 
 4chan & 8kun are too extreme and full of debauchery.
 
