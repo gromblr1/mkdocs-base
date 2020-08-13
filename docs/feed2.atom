@@ -10,6 +10,14 @@
   <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
 
   <entry>
+    <title>A second source of function dunctions.</title>
+    <link href="http://example.org/2003/12/13/atom03"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6B</id>
+    <updated>2004-12-13T18:30:02Z</updated>
+    <summary>Alright, so I'm learninr about the "SIJJIN" which is a book with a list of the damned locked away in the bowels of Hell itself. It's from Islamic theology.</summary>
+  </entry>
+  
+  <entry>
     <title>Atom-Powered Robots Run Amok</title>
     <link href="http://example.org/2003/12/13/atom03"/>
     <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
