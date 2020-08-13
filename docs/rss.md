@@ -6,6 +6,10 @@
 [Feedburner](https://www.feedburner.com) <-- also used if Youtubes official RSS feeds are not working   
 [Awesome self-hosted options](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md#feed-readers) ((github.com))  
 
+Notes:  
+-*Feedburner works well for videos not coming in through the Youtube official feed.*  
+-*RNAME.json works well for reddits not coming in through the Reddit official feed.*  
+
 #RSS feeds for Youtube videos and playlists
 https://www.youtube.com/feeds/videos.xml?channel_id=CHANNELID
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLISTID
