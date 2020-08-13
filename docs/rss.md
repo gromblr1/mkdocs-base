@@ -3,7 +3,7 @@
 
 [RSS.app](https://wwww.rss.app)  
 [https://reddit.0qz.fun/r/RNAME.json] <-- Replace *RNAME* with name of reddit you want.  
-[Feedburner](https://www.feedburner.com)  
+[Feedburner](https://www.feedburner.com) <-- also used if Youtubes official RSS feeds are not working   
 [Awesome self-hosted options](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md#feed-readers) ((github.com))  
 
 #RSS feeds for Youtube videos and playlists
