@@ -23,6 +23,7 @@
 [How to live without GOOLAG](https://write.privacytools.io/paulakreuzer/how-to-live-without-google-and-other-evil-tech-giants) ((privacytools.io))  
 [Switching.software(swiso)](https://swiso.org/)  
 [Tutanota's reccomendations](https://tutanota.com/blog/posts/how-to-leave-google-gmail/)  
+[Opensource.builders](https://opensource.builders/)  
 
 # ALTERNATIVE TO AMAZON
 [Ebay](https://ebay.com)  
@@ -102,6 +103,7 @@ Disroot.org allegedly has up to 4GB instead of 1GB.
 [Alternatives to Google Products](https://restoreprivacy.com/google-alternatives/)    
 
 [DeepL](https://deepl.com)  
+[Tineye.com](https://tineye.com/) <-- Reverse image search  
 
 # ALTERNATIVE TO FACEBOOK
 [Gab.com](https://gab.com/) - a Mastadon instance
