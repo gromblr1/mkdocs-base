@@ -16,6 +16,7 @@
 
 [Ethical.net](https://ethical.net/resources/)  <-- Ethical alternatives to mainstream services  
 [DRM-Free guice](https://www.defectivebydesign.org/)  
+[Ethical giving guide](https://www.fsf.org/givingguide/v10/)  
 
 # ALTERNATIVE SOFTWARES
 [Awesome Self Hosted](https://selfhosted.libhunt.com/) <-- Tons of freespeech platform softwares  
