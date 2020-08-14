@@ -15,6 +15,7 @@
 📖[Distributed social network](https://en.wikipedia.org/wiki/Distributed_social_network)  
 
 [Ethical.net](https://ethical.net/resources/)  <-- Ethical alternatives to mainstream services  
+[DRM-Free guice](https://www.defectivebydesign.org/)  
 
 # ALTERNATIVE SOFTWARES
 [Awesome Self Hosted](https://selfhosted.libhunt.com/) <-- Tons of freespeech platform softwares  
