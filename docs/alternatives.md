@@ -1,11 +1,11 @@
 
 <hr>
 # Five Eyes  🇺🇸 🇬🇧 🇳🇿 🇦🇺 🇨🇦 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liveenhanced.com%2Fwp-content%2Fuploads%2F2019%2F09%2FFive-eyes-alliance-spying.jpg&f=1&nofb=1" height=200>
-[Five Eyes](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liveenhanced.com%2Fwp-content%2Fuploads%2F2019%2F09%2FFive-eyes-alliance-spying.jpg&f=1&nofb=1" height=100>
+[Why do we need alternatives to the big tech apps ?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)  
 
 <hr>
-
+# Fediverse & decentralilzation information
 [Fediverse Network List (MASSIVE)](https://fediverse.network/mastodon)  
 [Fediverse.party](https://fediverse.party/)  
 [WeDistribute](https://wedistribute.org)  <-- Fediverse news  
@@ -13,12 +13,13 @@
 📖[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)  
 📖[Comparison of software and protocols for distributed social networking](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)  
 📖[Distributed social network](https://en.wikipedia.org/wiki/Distributed_social_network)  
-
+<hr>  
+# Ethical alternatives
 [Ethical.net](https://ethical.net/resources/)  <-- Ethical alternatives to mainstream services  
 [DRM-Free guice](https://www.defectivebydesign.org/)  
 [Ethical giving guide](https://www.fsf.org/givingguide/v10/)  
-
-# ALTERNATIVE SOFTWARES
+<hr>  
+# Massive lists of alternatives
 [Awesome Self Hosted](https://selfhosted.libhunt.com/) <-- Tons of freespeech platform softwares  
 [PRISM ⚡ BREAK](https://prism-break.org/en/)  
 [Privacy Tools](https://www.privacytools.io/)  
@@ -26,13 +27,13 @@
 [Switching.software(swiso)](https://swiso.org/)  
 [Tutanota's reccomendations](https://tutanota.com/blog/posts/how-to-leave-google-gmail/)  
 [Opensource.builders](https://opensource.builders/)  
-
+<hr>  
 # ALTERNATIVE TO AMAZON
 [Ebay](https://ebay.com)  
 [Overstock](https://overstock.com)  
 [Offer Up](https://offerup.com)  
 [Craigslist](https://craigslist.org)  
-
+<hr>  
 # ALTERNATIVE TO REDDIT 
 
 ##Liberal version of Reddit:
@@ -54,8 +55,8 @@
 ###Other
 [Reddit list](https://www.reddit.com/r/RedditAlternatives/comments/fas4on/list_of_active_reddit_alternatives_50/)    
 
-4chan & 8kun are too extreme and full of debauchery.
-
+4chan & 8kun are too extreme and full of debauchery.  
+<hr>  
 # ALTERNATIVE TO GMAIL
 .. | [GMX](https://gmx.com) | [Mailfence](https://mailfence.com) | [Mailbox.org](https://mailbox.org) | [Protonmail](https://protonmail.com),[Tutanota](https://tutanota.com),[Msgsafe.io](https://msgsafe.io) | [Disroot](https://disroot.org)
 --- | --- | --- | --- | --- | ---
@@ -70,7 +71,7 @@ Tutanota does not have an image viewer.
 Disroot.org has an excellent search.  
 Disroot.org is a lil bit slow (but tolerable).  
 Disroot.org allegedly has up to 4GB instead of 1GB.  
-
+<hr>  
 # ALTERNATIVE to Google     
 *Note: Definitely would recommmend using DDG by default and use DDG's [**!bang**](https://duckduckgo.com/bang)([full list](https://duckduckgo.com/bang_lite.html)) feature.*  
 [(Or maybe not ?)](https://dev.lemmy.ml/post/31321)  
@@ -81,35 +82,28 @@ Disroot.org allegedly has up to 4GB instead of 1GB.
  Results by |  | Google | Bing |  |
  Notes | [Bang feature](https://duckduckgo.com/bang) | [Anon. view](https://www.startpage.com/en/search/proxy-help.html) | [Search shortcuts](https://help.qwant.com/help/qwant-search/searching/how-use-qwick/#help_details) |  |
 
-🇨🇭[Swisscows](https://swisscows.com)  
-🇩🇪[Metager](https://metager.org)  
-[Gibiru](https://gibiru.com/)  ((powered by Google))  
+
 
 [Boardreader](https://boardreader.com/) ((searches forums))  
 [Hubpages](https://hubpages.com/)  <-- not really a search engine but a wealth of content by users  
 
+🇨🇭[Swisscows](https://swisscows.com)  
+🇩🇪[Metager](https://metager.org)  
+[Gibiru](https://gibiru.com/)  ((powered by Google))  
 [One search](https://www.onesearch.com/)  ((powered by Bing & Owned by Verizon))  
-
 [Gigablast](https://www.gigablast.com)  
-
 [Yippy](https://www.yippy.com/)  
 [Lookseek](https://lookseek.com/)  
-
-
 [Search Encrypt](https://www.searchencrypt.com/)  
 [Lukol](https://www.lukol.com)  
-
 [Cliqz](https://cliqz.com/)  
 
 [No more google](https://nomoregoogle.com/)  
 [Alternatives to Google Products](https://restoreprivacy.com/google-alternatives/)    
-
-[DeepL](https://deepl.com)  
-[Tineye.com](https://tineye.com/) <-- Reverse image search  
-
+<hr>  
 # ALTERNATIVE TO FACEBOOK
 [Gab.com](https://gab.com/) - a Mastadon instance
-
+<hr>  
 # ALTERNATIVE HOSTING
 
 .. | [Mega.nz](https://mega.nz/) | [Mediafire](https://www.mediafire.com/) | [4shared](https://4shared.com/) | [Sabercat](https://sabercathost.com/) 
@@ -127,11 +121,7 @@ notes |  |  |  |
 
 [Streamable](https://streamable.com/)  <-- no signup required  
 [Telegra.ph](https://telegra.ph/) <-- no signup required, anonymous blogging platform  
-
-# ALTERNATIVE to THE INTERNET ITSELF
-[Kiwix](https://www.kiwix.org/en/)  <-- you can downloaded the ENTIRE wikipedia or certain Wikipedia topics !  
-[Kiwix content](https://wiki.kiwix.org/wiki/Content)  
-
+<hr>  
 # ALTERNATIVE to Youtube
 [Bitchute](https://www.bitchute.com)  
 [Drop.space](https://drop.space)  
@@ -142,39 +132,37 @@ notes |  |  |  |
 [JoshWHO.net](https://search.joshwho.net/)  <-- Best way to search Bitchute !  
 
 [Freetubespot](https://www.freetubespot.com/)  <-- Watch millions of high-quality movies free ! NO BS.
-
+<hr>  
 # ALTERNATIVE to Amazon
 [Ethical Alternatives to Amazon](https://threshold.us/c/cancelprime/amazon-alternatives)  
 [Cancel Prime](https://threshold.us/c/cancelprime)  
-
+<hr>  
 ### Electronics
 [Monoprice](https://www.monoprice.com)  
 [Backmarket](https://www.backmarket.com/)  
 [Swappa](https://swappa.com/)  
 [B&H Photo Video](https://www.bhphotovideo.com/)  
 [Adorama](https://www.adorama.com)  
-
-
+<hr>  
 # ALTERNATIVE TO BARNES & NOBLE
 [Better WOrld Books](https://www.betterworldbooks.com/): Better World Books is a socially conscious used book store that's allied with the Internet Archive. It's got great selection, but the item quality can vary (lots of ex-library books with covers, stickers, or damage).  
 [Book Outlet](https://bookoutlet.com/): Book Outlet sells remaindered books for cheap. Selection is more limited than BWB (and a lot of their stock isn't great), but the books are new (with only a remainder mark).  
 [InStockTrades](https://instocktrades.com): InStockTrades is good for comics and graphic novels, with prices that often beat Amazon.  
 [Powells Books](https://www.powells.com/)  
-
-
+<hr>  
 # ALTERNATIVE to Netflix
 https://www.techpout.com/putlocker-alternatives/  
 https://www.bestsevenreviews.com/top-10-sites-like-123movies/  
-
+<hr>  
 # ALTERNATIVES to CHAT APPS (Snapchat, Line, WhatsApp)
 
 ## IRC
 [Basic IRC Commands](https://www.mirc.com/help/html/index.html?basic_irc_commands.html)  
+<hr>  
 
-# ALTERNATIVE to News ?
-[Alternative RSS reader list](https://alternativeto.net/browse/search?q=rss)
-[News voice](https://newsvoice.com/)  
-[popurls](http://popurls.com/)  
-
-# ALTERNATIVE to WIKIPEDIA
+# Misc. useful items
+[Kiwix](https://www.kiwix.org/en/)  <-- you can downloaded the ENTIRE wikipedia or certain Wikipedia topics !  
+[Kiwix content](https://wiki.kiwix.org/wiki/Content)  
 [Wikipedia CDN ?](https://db0nus869y26v.cloudfront.net/en/Ghoul)  <-- replace "Ghoul" with any other wikipedia pagename
+[Tineye.com](https://tineye.com/) <-- Reverse image search  
+
