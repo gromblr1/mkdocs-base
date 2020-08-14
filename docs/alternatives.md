@@ -128,6 +128,10 @@ notes |  |  |  |
 [Streamable](https://streamable.com/)  <-- no signup required  
 [Telegra.ph](https://telegra.ph/) <-- no signup required, anonymous blogging platform  
 
+# ALTERNATIVE to THE INTERNET ITSELF
+[Kiwix](https://www.kiwix.org/en/)  <-- you can downloaded the ENTIRE wikipedia or certain Wikipedia topics !  
+[Kiwix content](https://wiki.kiwix.org/wiki/Content)  
+
 # ALTERNATIVE to Youtube
 [Bitchute](https://www.bitchute.com)  
 [Drop.space](https://drop.space)  
