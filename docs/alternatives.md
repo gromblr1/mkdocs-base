@@ -54,6 +54,7 @@
 
 ###Other
 [Reddit list](https://www.reddit.com/r/RedditAlternatives/comments/fas4on/list_of_active_reddit_alternatives_50/)    
+[Are you Reddit shadowbanned ? (TOOL)](https://nullprogram.com/am-i-shadowbanned/)  
 
 4chan & 8kun are too extreme and full of debauchery.  
 <hr>  
@@ -118,6 +119,7 @@ notes |  |  |  |
 [catbox.moe](https://catbox.moe/)  
 [Nyah.moe](https://nyah.moe/)  
 [Pomf.cat](https://Pomf.cat)  
+[IMGbb.com](https://imgbb.com/)  
 
 [Streamable](https://streamable.com/)  <-- no signup required  
 [Telegra.ph](https://telegra.ph/) <-- no signup required, anonymous blogging platform  
