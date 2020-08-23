@@ -8,3 +8,7 @@ add /random at end of Tumblr URL to receive a random post
 add /tagged/TAGNAME and replace TAGNAME with a tag at end of Tumblr URL  
 add /search/KEYWORD and replace KEYWORD with a keyword at end of Tumblr URL  
 add /day/YYYY/MM/DD and replace YYYY/MM/DD with date at end of Tumblr URL  
+
+# Other
+go to tumblr.com/liked/by/USERNAME and replace USERNAME with a username to see a tumblr's likes
+[Recover old Tumblr themes](https://www.tumblr.com/themes/recover)  <-- this will recover your older Tumblr themes 
