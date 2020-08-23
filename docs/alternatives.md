@@ -37,6 +37,7 @@
 # ALTERNATIVE TO REDDIT 
 
 ##Liberal version of Reddit:
+[Chapo.chat](https://www.chapo.chat/)  
 [Raddle.me](https://raddle.me/)  
 [Tildes.net](https://tildes.net/)  
 [Ycombinator](https://news.ycombinator.com/)  
