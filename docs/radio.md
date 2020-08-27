@@ -5,12 +5,17 @@
 [Steiger](https://rense.com/steiger/steigerA.htm)  ((rense.com))  
 
 # Rense Hallowen broadcasts
-[2004,Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr1.mp3)  
-[2004. Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr2.mp3)  
+[2004 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr1.mp3)  
+[2004 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr2.mp3)  
+[2004 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr3.mp3)  
 
-[2006 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr1.mp3)  <-- ending talks about flying witches in Mexico attacking police (28:20=nice music) 
-[2006 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr2.mp3)  <-- talks about real-life vampires
-[2006 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr3.mp3)  <--beg: vampires & diners, mid: 
+[2005 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102805_hr1.mp3)  
+[2005 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102805_hr2.mp3)  
+[2005 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102805_hr3.mp3)  
+
+[2006 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr1.mp3)  <-- ending talks about flying witches in Mexico attacking police (28:20=nice music)   
+[2006 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr2.mp3)  <-- talks about real-life vampires  
+[2006 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr3.mp3)  <--beg: vampires & diners, mid:  28:00min nice music,  
 
 # Radio Broadcasts
 [Global Star 3](http://67.225.254.37:2146/index.html?sid=1) ((http://67.225.254.37:214/))  
