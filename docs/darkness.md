@@ -30,7 +30,10 @@ Transhumanism: To live forever without God.
 [Michael Aquino’s Last Desperate Attempt to Silence his Victims](https://fionabarnett.org/2018/09/04/michael-aquinos-last-desperate-attempt-to-silence-his-victims/) ((fionabarnett.org))  < -- high-level CIA satanist  
 
 [Black Sun celeb doorknob rituals](https://prepareforchange.net/2020/07/22/the-doorknob-sacrifices-a-black-sun-ritual-12-celebrity-suicides-related-to-pedophilia-cover-up/) ((prepareforchange.net))  
-  
+ 
+##Freemsons
+[Albert Pike: “We Control Islam and We’ll Use It to Destroy the West”](https://voiceofpeopletoday.com/albert-pike-we-control-islam-and-well-use-it-to-destroy-the-west-2/) ((voiceofpeopletoday.com))   
+ 
 ### Z10nizm
 [The Influence of Sabbatean Frankism on the World](https://www.winterwatch.net/2017/07/the-influence-of-sabbatian-frankism-on-the-world/) ((winterwatch.net))  
 [SATANIC TALMUD](https://www.bitchute.com/video/w3LAqDYxJnJD/)  
