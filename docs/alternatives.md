@@ -140,6 +140,9 @@ notes |  |  |  |
 [JoshWHO.net](https://search.joshwho.net/)  <-- Best way to search Bitchute !  
 
 [Freetubespot](https://www.freetubespot.com/)  <-- Watch millions of high-quality movies free ! NO BS.
+
+## Other
+[TOP 8 FREE SPEECH HOSTING PROVIDERS](https://hexd.com/free-speech-hosting/)  ((hexd.com))  
 <hr>  
 # ALTERNATIVE to Amazon
 [Ethical Alternatives to Amazon](https://threshold.us/c/cancelprime/amazon-alternatives)  
@@ -166,6 +169,7 @@ notes |  |  |  |
 [Top 10 sites like 123movies](https://www.bestsevenreviews.com/top-10-sites-like-123movies/)  
 <hr>  
 # ALTERNATIVES to CHAT APPS (Snapchat, Line, WhatsApp, Discord,Skype)
+[Mattermost.org](https://mattermost.org/)  
 [Jami.net](https://jami.net/)  
 [Linphone](https://www.linphone.org/)  
 [Mumble](https://www.mumble.info/)  
