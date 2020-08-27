@@ -2,6 +2,7 @@
 [Horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory)  
 [Glossary of literary terms](https://literaryterms.net/glossary-of-literary-terms/)  
 [List of portmanteaus](https://en.wikipedia.org/wiki/List_of_portmanteaus)  
+[Glossary of blogging](https://en.wikipedia.org/wiki/Glossary_of_blogging)  
 [Phrontistery](https://phrontistery.info)  
 
 #political
