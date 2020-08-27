@@ -10,5 +10,18 @@ add /search/KEYWORD and replace KEYWORD with a keyword at end of Tumblr URL
 add /day/YYYY/MM/DD and replace YYYY/MM/DD with date at end of Tumblr URL  
 
 # Other
-go to tumblr.com/liked/by/USERNAME and replace USERNAME with a username to see a tumblr's likes
-[Recover old Tumblr themes](https://www.tumblr.com/themes/recover)  <-- this will recover your older Tumblr themes 
+go to tumblr.com/liked/by/USERNAME and replace USERNAME with a username to see a tumblr's likes  
+[Recover old Tumblr themes](https://www.tumblr.com/themes/recover)  <-- this will recover your older Tumblr themes  
+[Post Limit](http://postlimit.com/)  <-- Blog Info and Post Limit Checker  
+[Tumblr](https://www.archiveteam.org/index.php?title=Tumblr)  ((archiveteam.org))  
+[Tumblr Picture Download](https://sourceforge.net/projects/gettumblrpics/)  
+[Tumblthree: Tumblr Backup Application](https://www.jzab.de/content/tumblthree-a-tumblr-backup-application/)  
+
+# Tumblr archives
+[Ytelovski](https://ytelovski.tumblr.com/archive)  
+[Future-trunks-66x](https://future-trunks-666.tumblr.com/archive)  
+[Virtualboizero](https://virtualboizero.tumblr.com/archive)  
+[Barrerajh](https://barrerajh.tumblr.com/archive)  
+
+## super lefist Tumblrs
+[Dynamohedron](https://dynamohedron.tumblr.com/archive)  
