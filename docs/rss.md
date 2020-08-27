@@ -36,3 +36,6 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLISTID
 
 #[Web syndication](https://en.wikipedia.org/wiki/Web_syndication#External_links)
 <img src="https://i.paste.pics/9QL3D.png">
+
+#semi-related
+[News Goes Mobile: How People Use Smartphones to Access Information](https://medium.com/mobile-first-news-how-people-use-smartphones-to/news-goes-mobile-how-people-use-smartphones-to-access-information-53ccb850d80a)    
