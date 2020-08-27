@@ -154,6 +154,9 @@ notes |  |  |  |
 [Book Outlet](https://bookoutlet.com/): Book Outlet sells remaindered books for cheap. Selection is more limited than BWB (and a lot of their stock isn't great), but the books are new (with only a remainder mark).  
 [InStockTrades](https://instocktrades.com): InStockTrades is good for comics and graphic novels, with prices that often beat Amazon.  
 [Powells Books](https://www.powells.com/)  
+
+[Massive library to download epub files](https://b-ok.cc/book/2636085/0dbaff?dsource=recommend)  
+[How to open Epub files](https://www.howtogeek.com/522907/how-to-open-epub-files-on-windows-10-without-microsoft-edge/)  
 <hr>  
 # ALTERNATIVE to Netflix
 [Putlocker alternatives](https://www.techpout.com/putlocker-alternatives/)  
