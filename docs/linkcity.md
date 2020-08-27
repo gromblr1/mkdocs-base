@@ -18,3 +18,10 @@
 
 #tech
 [Dark Patterns](https://darkpatterns.org/index.html)  
+
+#Arizona stuff
+[Reddit: Buying & Selling in phoenix](https://www.reddit.com/r/PHXList/)  
+
+#Spooks
+[Top Paranormal Sites](https://www.topparanormalsites.com/) ((topparanormalsites.com))  
+[Paranormal Videos](https://real-paranormal-videos.blogspot.com/)    ((real-paranormal-videos.blogspot.com))  
