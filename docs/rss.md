@@ -24,8 +24,10 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLISTID
 [Feedfry](https://www.feedfry.com)  <-- finds similar blocks in an HTML page and turns them into an RSS feed.  
 [RSS Box](https://rssbox.herokuapp.com/)  <--lets you subscribe to RSS feeds for websites that do not support RSS themselves  
 
-# RSS Reader alternatives
-[Alternative RSS reader list](https://alternativeto.net/browse/search?q=rss)
+# RSS other
+[Alternative RSS reader list](https://alternativeto.net/browse/search?q=rss)  
+[What is Atom ?](http://www.atomenabled.org/developers/syndication/)  
+[Atom vs RSS](https://nullprogram.com/blog/2013/09/23/)  
 
 #[Web syndication](https://en.wikipedia.org/wiki/Web_syndication#External_links)
 <img src="https://i.paste.pics/9QL3D.png">
