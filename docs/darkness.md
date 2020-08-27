@@ -33,6 +33,9 @@ Transhumanism: To live forever without God.
   
 ### Z10nizm
 [The Influence of Sabbatean Frankism on the World](https://www.winterwatch.net/2017/07/the-influence-of-sabbatian-frankism-on-the-world/) ((winterwatch.net))  
+[SATANIC TALMUD](https://www.bitchute.com/video/w3LAqDYxJnJD/)  
+["WHAT THE JXWS SAY ABOUT KILLING WHTE PEOPLE" (THE TALMUD!)](https://www.bitchute.com/video/n1E0uBKsJGG7/)  
+[TALMUD QUOTES RELATED TO HATE AND SUPERIORITY OVER AND INEQUALITY VERSUS NON-JXWS](https://concisepolitics.com/2018/07/03/talmud-quotes-related-to-hate-and-superiority-over-and-inequality-versus-non-jews/)  
 
 # Brother Nathanael Videos
 [Brovids.com](http://brovids.com/) <-- a converted J3w to Christian who tells truth about world J3wry
