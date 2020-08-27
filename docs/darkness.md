@@ -32,8 +32,9 @@ Transhumanism: To live forever without God.
 [Black Sun celeb doorknob rituals](https://prepareforchange.net/2020/07/22/the-doorknob-sacrifices-a-black-sun-ritual-12-celebrity-suicides-related-to-pedophilia-cover-up/) ((prepareforchange.net))  
  Related: [The Epstein-Funded CP Hub MIT Media Lab That Mxrdered Aaron Swartz](https://rense.com/general96/the-epstein-funded-child-porn-hub-mit-media-lab-that-murdered-aaron-swartz.php) ((rense.com))    
  
-##Freemsons
+##Freemsons $ NWO
 [Albert Pike: “We Control Islam and We’ll Use It to Destroy the West”](https://voiceofpeopletoday.com/albert-pike-we-control-islam-and-well-use-it-to-destroy-the-west-2/) ((voiceofpeopletoday.com))   
+[ROCKEFELLER FRIEND AARON RUSSO LAYS OUT THE PLAN OF NWO IN 10 MINUTES](https://www.bitchute.com/video/vPfbyJwzjiJW/)   ((bitchute.com)) ([full vid](https://www.bitchute.com/video/yoJSKNDIb91f/))   
  
 ### Z10nizm
 [The Influence of Sabbatean Frankism on the World](https://www.winterwatch.net/2017/07/the-influence-of-sabbatian-frankism-on-the-world/) ((winterwatch.net))  
@@ -54,6 +55,7 @@ Related: [The Hidden Jxwish Hand in the Destruction of White South Africa](https
 <img src="https://youtube.com/favicon.ico">[LISTEN TO WHAT THIS MAN WAS SAYING IN 2014!](https://www.youtube.com/watch?v=nk33GlYxY14) ((youtube.com))  <-- Anthony Patch on the coronavirus and nanotech inside vaccines  
 <img src="https://youtube.com/favicon.ico">[Former FEMA Officer Explains Wave II Hard Lockdown](https://www.youtube.com/watch?v=jt9ExjwOeik) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Urgent information on Covid Vacc!ne](https://www.youtube.com/watch?v=PbJq2KfgOEs) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[LUCIFERASE - BILL GATES QUANTUM DOT MICRONEEDLE VACCINE TO ALTER YOUR DNA](https://www.bitchute.com/video/XSvEKJKAUiBD/) ((youtube.com))   
 
 ## P3d0 Elites
 <img src="https://youtube.com/favicon.ico">[Hollywood P3d0phile Ring Is Going Down](https://www.youtube.com/watch?v=M3rAzIAw5KE&feature=youtu.be) ((youtube.com))  
