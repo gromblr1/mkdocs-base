@@ -25,3 +25,4 @@
 #Spooks
 [Top Paranormal Sites](https://www.topparanormalsites.com/) ((topparanormalsites.com))  
 [Paranormal Videos](https://real-paranormal-videos.blogspot.com/)    ((real-paranormal-videos.blogspot.com))  
+[Djinn](https://occult-world.com/djinn/)  ((occult-world.com))  
