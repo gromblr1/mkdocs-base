@@ -10,6 +10,7 @@
 
 [2006 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr1.mp3)  <-- ending talks about flying witches in Mexico attacking police (28:20=nice music) 
 [2006 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr2.mp3)  <-- talks about real-life vampires
+[2006 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr3.mp3)  <--beg: vampires & diners, mid: 
 
 # Radio Broadcasts
 [Global Star 3](http://67.225.254.37:2146/index.html?sid=1) ((http://67.225.254.37:214/))  
