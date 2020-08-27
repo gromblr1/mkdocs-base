@@ -36,6 +36,9 @@ Transhumanism: To live forever without God.
 [SATANIC TALMUD](https://www.bitchute.com/video/w3LAqDYxJnJD/)  
 ["WHAT THE JXWS SAY ABOUT KILLING WHTE PEOPLE" (THE TALMUD!)](https://www.bitchute.com/video/n1E0uBKsJGG7/)  
 [TALMUD QUOTES RELATED TO HATE AND SUPERIORITY OVER AND INEQUALITY VERSUS NON-JXWS](https://concisepolitics.com/2018/07/03/talmud-quotes-related-to-hate-and-superiority-over-and-inequality-versus-non-jews/)  
+[The Great Replacement](https://en.wikipedia.org/wiki/Great_Replacement)  
+Related: [The Camp of the Saints](https://en.wikipedia.org/wiki/The_Camp_of_the_Saints)  <-- destruction of West via 3rd world mass immigration circa 1973
+Related: [The Hidden Jxwish Hand in the Destruction of White South Africa](https://christiansfortruth.com/the-hidden-jewish-hand-in-the-destruction-of-white-south-africa/)  
 
 # Brother Nathanael Videos
 [Brovids.com](http://brovids.com/) <-- a converted J3w to Christian who tells truth about world J3wry
