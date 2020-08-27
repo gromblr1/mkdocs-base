@@ -32,6 +32,10 @@ Transhumanism: To live forever without God.
 [Black Sun celeb doorknob rituals](https://prepareforchange.net/2020/07/22/the-doorknob-sacrifices-a-black-sun-ritual-12-celebrity-suicides-related-to-pedophilia-cover-up/) ((prepareforchange.net))  
  Related: [The Epstein-Funded CP Hub MIT Media Lab That Mxrdered Aaron Swartz](https://rense.com/general96/the-epstein-funded-child-porn-hub-mit-media-lab-that-murdered-aaron-swartz.php) ((rense.com))    
  
+### Other
+[NIMROD, MARS AND THE MARDUK CONNECTION](http://www.ldolphin.org/Nimrod.html)  ((ldolphin.org))   
+
+ 
 ##Freemsons $ NWO
 [Albert Pike: “We Control Islam and We’ll Use It to Destroy the West”](https://voiceofpeopletoday.com/albert-pike-we-control-islam-and-well-use-it-to-destroy-the-west-2/) ((voiceofpeopletoday.com))   
 [ROCKEFELLER FRIEND AARON RUSSO LAYS OUT THE PLAN OF NWO IN 10 MINUTES](https://www.bitchute.com/video/vPfbyJwzjiJW/)   ((bitchute.com)) ([full vid](https://www.bitchute.com/video/yoJSKNDIb91f/))   
@@ -56,6 +60,10 @@ Related: [The Hidden Jxwish Hand in the Destruction of White South Africa](https
 <img src="https://youtube.com/favicon.ico">[Former FEMA Officer Explains Wave II Hard Lockdown](https://www.youtube.com/watch?v=jt9ExjwOeik) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Urgent information on Covid Vacc!ne](https://www.youtube.com/watch?v=PbJq2KfgOEs) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[LUCIFERASE - BILL GATES QUANTUM DOT MICRONEEDLE VACCINE TO ALTER YOUR DNA](https://www.bitchute.com/video/XSvEKJKAUiBD/) ((youtube.com))   
+Related: [Bill Gates’ Quantum Dot Digital Tattoo Implant to Track COVID-19 Vaccine Compliance](https://savedmag.com/bill-gates-quantum-dot-digital-tattoo-implant-to-track-covid-19-vaccine-compliance/)  ((savedmag.com))  
+Related: [World Shocked By Bill Gates Statements On COVID-19 Vaccine](https://banned.video/watch?id=5f234e5f68370e02f2a61cec)  ((banned.video))  
+###Other 
+[Mark of the Beast chip patent by Microsoft](https://www.christianforums.com/threads/mark-of-the-beast-chip-patent-by-microsoft.8157511/)  ((christianforums.com))   
 
 ## P3d0 Elites
 <img src="https://youtube.com/favicon.ico">[Hollywood P3d0phile Ring Is Going Down](https://www.youtube.com/watch?v=M3rAzIAw5KE&feature=youtu.be) ((youtube.com))  
