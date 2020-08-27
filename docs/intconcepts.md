@@ -4,11 +4,13 @@
 [List of portmanteaus](https://en.wikipedia.org/wiki/List_of_portmanteaus)  
 [Glossary of blogging](https://en.wikipedia.org/wiki/Glossary_of_blogging)  
 [Phrontistery](https://phrontistery.info)  
+[Misinfo vs Disinfo](https://www.dictionary.com/e/misinformation-vs-disinformation-get-informed-on-the-difference/)   
 
 #political
 [Leaderless resistance](https://en.wikipedia.org/wiki/Leaderless_resistance)  
 [Propaganda techniques](https://en.wikipedia.org/wiki/Propaganda_techniques)  
-[Tradecraft](https://en.wikipedia.org/wiki/Tradecraft)  <--excellent list of espionage activities
+[Tradecraft](https://en.wikipedia.org/wiki/Tradecraft)  <--excellent list of espionage activities  
+[Damnatio memoriae](https://en.wikipedia.org/wiki/Damnatio_memoriae)  
 
 #espionage
 [Language of Espionage](https://www.spymuseum.org/education-programs/spy-resources/language-of-espionage/)  
