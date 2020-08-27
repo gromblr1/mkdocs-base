@@ -55,6 +55,7 @@
 [MetaFilter](https://www.metafilter.com/)  
 
 ###Other
+[Postmill.xyz](https://postmill.xyz/)  
 [Reddit list](https://www.reddit.com/r/RedditAlternatives/comments/fas4on/list_of_active_reddit_alternatives_50/)    
 [Are you Reddit shadowbanned ? (TOOL)](https://nullprogram.com/am-i-shadowbanned/)  
 
@@ -123,6 +124,7 @@ notes |  |  |  |
 [Pomf.cat](https://Pomf.cat)  
 [IMGbb.com](https://imgbb.com/)  
 [Toile Libre (french image hosting)](https://pix.toile-libre.org/)  
+[Drop.infini[french file hosting]](https://drop.infini.fr/)  
 
 [Streamable](https://streamable.com/)  <-- no signup required  
 [Telegra.ph](https://telegra.ph/) <-- no signup required, anonymous blogging platform  
@@ -163,6 +165,7 @@ notes |  |  |  |
 [Top 10 sites like 123movies](https://www.bestsevenreviews.com/top-10-sites-like-123movies/)  
 <hr>  
 # ALTERNATIVES to CHAT APPS (Snapchat, Line, WhatsApp, Discord,Skype)
+[Jami.net](https://jami.net/)  
 [Linphone](https://www.linphone.org/)  
 [Mumble](https://www.mumble.info/)  
 [Telegram](https://telegram.org/)  
