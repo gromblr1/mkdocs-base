@@ -17,7 +17,15 @@
 [Political power grows out of the barrel of a gun](https://en.wikipedia.org/wiki/Political_power_grows_out_of_the_barrel_of_a_gun)  
 
 #tech
+[Reddit: Self-Hosted alternatives to popular services](https://www.reddit.com/r/selfhosted/)  
 [Dark Patterns](https://darkpatterns.org/index.html)  
+
+#Platforms
+[StaticGen](https://www.staticgen.com/)  
+[Pebble (java blogging tool)](http://pebble.sourceforge.net/)  
+[Known (publishing platform)](https://withknown.com/)  
+[Grav(flat-file CMS)](https://getgrav.org/)  
+[Pelican ssg](https://blog.getpelican.com/)  
 
 #Arizona stuff
 [Reddit: Buying & Selling in phoenix](https://www.reddit.com/r/PHXList/)  
@@ -26,3 +34,8 @@
 [Top Paranormal Sites](https://www.topparanormalsites.com/) ((topparanormalsites.com))  
 [Paranormal Videos](https://real-paranormal-videos.blogspot.com/)    ((real-paranormal-videos.blogspot.com))  
 [Djinn](https://occult-world.com/djinn/)  ((occult-world.com))  
+[Pinterest mythical manuscript art](https://www.pinterest.com/pin/56928382781628633/)  
+[Ancient manuscript art](https://www.diabloii.net/forums/threads/the-vizjereic-key-of-horazon-art-collaboration.813233/)  
+
+#Other
+[Stupid pinterest shit that makes no sense](https://www.pinterest.com/pin/720646377854230737/)  
