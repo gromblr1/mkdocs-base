@@ -3,7 +3,7 @@
 
 [RSS.app](https://wwww.rss.app)  
 [https://reddit.0qz.fun/r/RNAME.json] <-- Replace *RNAME* with name of reddit you want.  
-[Feedburner](https://www.feedburner.com) <-- also used if Youtubes official RSS feeds are not working   
+[Feedburner](https://www.feedburner.com) <-- also used if Youtubes official RSS feeds are not working   ([Feed Burner alternatives](https://www.feedburner-alternatives.com/))  
 [Awesome self-hosted options](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md#feed-readers) ((github.com))  
 
 Notes:  
@@ -30,6 +30,9 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLISTID
 [Atom vs RSS](https://nullprogram.com/blog/2013/09/23/)  
 [XBEL stuff](https://www.xefer.com/rebel/)  
 [Reddit: RSS](https://www.reddit.com/r/rss/)  
+[Softpedia news/blog tools](https://www.softpedia.com/get/Internet/News-Newsgroups-Blog-Tools/?utm_source=spd&utm_campaign=postdl_redir)  
+[OPML Icons](http://www.opmlicons.com/)  
+[Blogtrottr](https://blogtrottr.com/)  <-- hasn't worked for me tbh  
 
 #[Web syndication](https://en.wikipedia.org/wiki/Web_syndication#External_links)
 <img src="https://i.paste.pics/9QL3D.png">
