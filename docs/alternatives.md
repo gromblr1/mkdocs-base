@@ -1,6 +1,7 @@
 
 <hr>
 [Nothing to hide argument](https://en.wikipedia.org/wiki/Nothing_to_hide_argument)  <<-- not scared of gov't surveillance ? Think again.  
+[WE ARE NOW LIVING IN A DIGITAL POLICE STATE](https://www.bitchute.com/video/DKd8Zw9SUr0/)  
 # Five Eyes  🇺🇸 🇬🇧 🇳🇿 🇦🇺 🇨🇦 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liveenhanced.com%2Fwp-content%2Fuploads%2F2019%2F09%2FFive-eyes-alliance-spying.jpg&f=1&nofb=1" height=100>
 [Why do we need alternatives to the big tech apps ?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)  
