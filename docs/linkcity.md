@@ -21,6 +21,8 @@
 [Reddit: Self-Hosted alternatives to popular services](https://www.reddit.com/r/selfhosted/)  
 [Dark Patterns](https://darkpatterns.org/index.html)  
 [KEL CHM Creator](https://dumah7.wordpress.com/2009/02/17/kel-chm-creator-v-1-4-0-0/)  
+[Tinc-VPN](https://tinc-vpn.org/)  
+[Snopyta.org](https://snopyta.org/)  
 
 #Platforms
 [StaticGen](https://www.staticgen.com/)  
@@ -28,6 +30,9 @@
 [Known (publishing platform)](https://withknown.com/)  
 [Grav(flat-file CMS)](https://getgrav.org/)  
 [Pelican ssg](https://blog.getpelican.com/)  
+
+## Other
+[An Overview of the decentralized Diaspora Social Network](https://www.youtube.com/watch?v=Vgbi2jWxdbk)  ((youtube.com))  
 
 #Arizona stuff
 [Reddit: Buying & Selling in phoenix](https://www.reddit.com/r/PHXList/)  
@@ -38,6 +43,7 @@
 [Djinn](https://occult-world.com/djinn/)  ((occult-world.com))  
 [Pinterest mythical manuscript art](https://www.pinterest.com/pin/56928382781628633/)  
 [Ancient manuscript art](https://www.diabloii.net/forums/threads/the-vizjereic-key-of-horazon-art-collaboration.813233/)  
+[Navajo Ranger Jonathan Dover (04-16-19) Skinwalkers, UFOs, Bigfoot & Paranormal Exploits](https://www.youtube.com/watch?v=oMhIaLvlw1E)  ((youtube.com))  
 
 # Oldschool shiz
 [M_VEGETA_86](http://www.oocities.org/m_vegeta_86/)  
@@ -46,3 +52,4 @@
 [Stupid pinterest shit that makes no sense](https://www.pinterest.com/pin/720646377854230737/)  
 [LAST WEEK IN CULTURE #5](https://www.youtube.com/watch?v=M3vBAOAKKiw) (([mirror](https://www.bitchute.com/video/XFMmPwqKD01a/)))  
 [homeless guy dancing to plug walk](https://www.youtube.com/watch?v=UX3FVatYsUc)  
+[Osu!](https://en.wikipedia.org/wiki/Osu!)  
