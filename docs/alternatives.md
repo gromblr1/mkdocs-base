@@ -1,5 +1,6 @@
 
 <hr>
+[Nothing to hide argument](https://en.wikipedia.org/wiki/Nothing_to_hide_argument)  <<-- not scared of gov't surveillance ? Think again.  
 # Five Eyes  🇺🇸 🇬🇧 🇳🇿 🇦🇺 🇨🇦 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liveenhanced.com%2Fwp-content%2Fuploads%2F2019%2F09%2FFive-eyes-alliance-spying.jpg&f=1&nofb=1" height=100>
 [Why do we need alternatives to the big tech apps ?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)  
@@ -121,6 +122,7 @@ notes |  |  |  |
 [Nyah.moe](https://nyah.moe/)  
 [Pomf.cat](https://Pomf.cat)  
 [IMGbb.com](https://imgbb.com/)  
+[Toile Libre (french image hosting)](https://pix.toile-libre.org/)  
 
 [Streamable](https://streamable.com/)  <-- no signup required  
 [Telegra.ph](https://telegra.ph/) <-- no signup required, anonymous blogging platform  
@@ -154,18 +156,33 @@ notes |  |  |  |
 [Powells Books](https://www.powells.com/)  
 <hr>  
 # ALTERNATIVE to Netflix
-https://www.techpout.com/putlocker-alternatives/  
-https://www.bestsevenreviews.com/top-10-sites-like-123movies/  
+[Putlocker alternatives](https://www.techpout.com/putlocker-alternatives/)  
+[Top 10 sites like 123movies](https://www.bestsevenreviews.com/top-10-sites-like-123movies/)  
 <hr>  
-# ALTERNATIVES to CHAT APPS (Snapchat, Line, WhatsApp)
+# ALTERNATIVES to CHAT APPS (Snapchat, Line, WhatsApp, Discord,Skype)
+[Linphone](https://www.linphone.org/)  
+[Mumble](https://www.mumble.info/)  
+[Telegram](https://telegram.org/)  
+Related: [Telegram Bots: An introduction for developers](https://core.telegram.org/bots)  
 
-## IRC
-[Basic IRC Commands](https://www.mirc.com/help/html/index.html?basic_irc_commands.html)  
-<hr>  
+#ALTERNATIVE TO FILE-SHARING APPS
+[Restroshare](https://retroshare.cc/)  
+[SecureDrop](https://securedrop.org/)  
 
 # Misc. useful items
 [Kiwix](https://www.kiwix.org/en/)  <-- you can downloaded the ENTIRE wikipedia or certain Wikipedia topics !  
 [Kiwix content](https://wiki.kiwix.org/wiki/Content)  
 [Wikipedia CDN ?](https://db0nus869y26v.cloudfront.net/en/Ghoul)  <-- replace "Ghoul" with any other wikipedia pagename
 [Tineye.com](https://tineye.com/) <-- Reverse image search  
+[Osiris: serverless portal system](http://www.osiris-sps.org/)  
+[Apache Guacamole](https://guacamole.apache.org/)  <-- clientless remote desktop gateway
+
+#Internet censorship circumvention freeware
+[Darknet software](https://en.wikipedia.org/wiki/Darknet#Software)  
+[Internet censorship circumvention](https://en.wikipedia.org/wiki/Internet_censorship_circumvention)  
+[Shadowsocks](https://shadowsocks.org/en/index.html)  
+[Psiphon](https://psiphon.ca/en/download.html?psiphonca)  
+[Lantern](https://getlantern.org/en_US/index.html)  
+[Freegate](http://www.internetfreedom.org/FreeGate.html)  
+[Syndie](https://syndie.de/index.html)  
 
