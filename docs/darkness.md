@@ -30,15 +30,19 @@ Transhumanism: To live forever without God.
 [Michael Aquino’s Last Desperate Attempt to Silence his Victims](https://fionabarnett.org/2018/09/04/michael-aquinos-last-desperate-attempt-to-silence-his-victims/) ((fionabarnett.org))  < -- high-level CIA satanist  
 
 [Black Sun celeb doorknob rituals](https://prepareforchange.net/2020/07/22/the-doorknob-sacrifices-a-black-sun-ritual-12-celebrity-suicides-related-to-pedophilia-cover-up/) ((prepareforchange.net))  
+ Related: [The Epstein-Funded CP Hub MIT Media Lab That Mxrdered Aaron Swartz](https://rense.com/general96/the-epstein-funded-child-porn-hub-mit-media-lab-that-murdered-aaron-swartz.php) ((rense.com))    
  
 ##Freemsons
 [Albert Pike: “We Control Islam and We’ll Use It to Destroy the West”](https://voiceofpeopletoday.com/albert-pike-we-control-islam-and-well-use-it-to-destroy-the-west-2/) ((voiceofpeopletoday.com))   
  
 ### Z10nizm
 [The Influence of Sabbatean Frankism on the World](https://www.winterwatch.net/2017/07/the-influence-of-sabbatian-frankism-on-the-world/) ((winterwatch.net))  
-[SATANIC TALMUD](https://www.bitchute.com/video/w3LAqDYxJnJD/)  
-["WHAT THE JXWS SAY ABOUT KILLING WHTE PEOPLE" (THE TALMUD!)](https://www.bitchute.com/video/n1E0uBKsJGG7/)  
+[The Protocols of the Elders of Zion](https://www.bitchute.com/video/7Lqa2axvaaab/)  ((bitchute.com))  
+[SATANIC TALMUD](https://www.bitchute.com/video/w3LAqDYxJnJD/)  ((bitchute.com))  
+["WHAT THE JXWS SAY ABOUT KILLING WHTE PEOPLE" (THE TALMUD!)](https://www.bitchute.com/video/n1E0uBKsJGG7/)  ((bitchute.com))   
 [TALMUD QUOTES RELATED TO HATE AND SUPERIORITY OVER AND INEQUALITY VERSUS NON-JXWS](https://concisepolitics.com/2018/07/03/talmud-quotes-related-to-hate-and-superiority-over-and-inequality-versus-non-jews/)  
+[Smoloko](http://www.chuckmaultsby.net/id59.html)  ((chuckmaultsby.net))   
+[The Jxwish Hand... behind the internet](https://www.bibliotecapleyades.net/sociopolitica/sociopol_internet84.htm)  ((bibliotecapleyades.net))  
 [The Great Replacement](https://en.wikipedia.org/wiki/Great_Replacement)  
 Related: [The Camp of the Saints](https://en.wikipedia.org/wiki/The_Camp_of_the_Saints)  <-- destruction of West via 3rd world mass immigration circa 1973
 Related: [The Hidden Jxwish Hand in the Destruction of White South Africa](https://christiansfortruth.com/the-hidden-jewish-hand-in-the-destruction-of-white-south-africa/)  
@@ -87,3 +91,5 @@ Related: [The Hidden Jxwish Hand in the Destruction of White South Africa](https
 [Tepaphone – The Magickal Death Ray](https://josephmax.wordpress.com/2010/09/05/tepaphone-the-magickal-death-ray/) ((josephmax.wordpress.com))  
 [Ordo Lapsit Exillis](https://www.bibliotecapleyades.net/merovingians/merovingios_11.htm) ((bibliotecapleyades.net))  <-- secret society dedicated to guarding an alleged jewel that fell from Lucifer's crown during the war in heaven
 
+[Witch of Endor](https://en.wikipedia.org/wiki/Witch_of_Endor)  
+Proverbs 3:5-6 Trust in the Lord with all thine heart; and lean not unto thine own understanding.
