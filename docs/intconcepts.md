@@ -5,6 +5,7 @@
 [Glossary of blogging](https://en.wikipedia.org/wiki/Glossary_of_blogging)  
 [Phrontistery](https://phrontistery.info)  
 [Misinfo vs Disinfo](https://www.dictionary.com/e/misinformation-vs-disinformation-get-informed-on-the-difference/)   
+[Twilight of the Idols](https://en.wikipedia.org/wiki/Twilight_of_the_Idols)  
 
 #political
 [Leaderless resistance](https://en.wikipedia.org/wiki/Leaderless_resistance)  
