@@ -38,12 +38,14 @@
 [Reddit: Here's some useful tips to prevent interdiction](https://www.reddit.com/r/EliteDangerous/comments/2mzzum/heres_some_useful_tips_to_prevent_interdiction/) ((reddit.com))  
 [SHIPYARD/OUTFITTING STATIONS](https://inara.cz/galaxy-outfitting-stations/121898/) ((inara.cz))  
 [MARKET](https://inara.cz/market/8485/4792/) ((inara.cz))  
+[Stations](https://eddb.io/station)  ((eddb.io))  
 
 [Pristine Metallics Distances Calculator](http://edtools.ddns.net/)   ((edtools.ddns.net))  
-[Galaxy Plotter](https://spansh.co.uk/exact-plotter)  ((spansh.co.uk))   
+[Galaxy Plotter](https://spansh.co.uk/exact-plotter)  ((spansh.co.uk)) <-- Also has Neutron Plotter & Trade Planner
 [Distances Between Selected Systems](http://elitedangerous.hozbase.co.uk/calc/distances?systems=aornum%2cnona%2czhulong)   ((http://elitedangerous.hozbase.co.uk/))   
 [ED Ref. Card](https://edrefcard.info/)  <-- has ED controls for tons of different joysticks  
 [EDSM (Elite Dangerous Star Map)](https://www.edsm.net/)  
+[Point of Interest's visitors list - Thor's Eye](https://www.edsm.net/en/poi-visitors-list/index/id/66712/name/Thor%27s+Eye)  ((edsm.net))  
 [Elite:Dangerous Astrometrics](https://edastro.com/)  
 
 [Eddb Route Planner](https://sites.google.com/site/eddbrouteplanner/)  
