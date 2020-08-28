@@ -8,6 +8,19 @@
 [Twilight of the Idols](https://en.wikipedia.org/wiki/Twilight_of_the_Idols)  
 [Space Terms](http://planetfacts.org/space-terms/)  
 [Inminban](https://en.wikipedia.org/wiki/Inminban)  <-- system where all neighborhood snitches on eachother in North Korea
+[Your logical fallacy is](https://yourlogicalfallacyis.com/)  
+[Your bias is](https://yourbias.is/)  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()    
 
 #political
 [Leaderless resistance](https://en.wikipedia.org/wiki/Leaderless_resistance)  
@@ -16,6 +29,8 @@
 [Damnatio memoriae](https://en.wikipedia.org/wiki/Damnatio_memoriae)  
 <img src="https://youtube.com/favicon.ico">[The Politics of Demolition Man](https://www.youtube.com/watch?v=DrUNIX2Iv04)  ((youtube.com))  
 [Conservapedia](https://www.conservapedia.com/index.php?title=Main_Page)  
+<img src="https://youtube.com/favicon.ico">[Joseph Nye - On Soft Power](https://www.youtube.com/watch?v=_58v19OtIIg) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[KGB defector Yuri Bezmenov's warning to America (1984)](https://www.youtube.com/watch?v=IQPsKvG6WMI)   ((youtube.com))  <-- ideological subversion, 4 stages
 
 #espionage
 [Language of Espionage](https://www.spymuseum.org/education-programs/spy-resources/language-of-espionage/)  
@@ -37,6 +52,10 @@
 
 #death concepts
 [Category:Archaeology of death](https://en.wikipedia.org/wiki/Category:Archaeology_of_death)  
+
+# Other
+<img src="https://youtube.com/favicon.ico">[Lorne Lanning of Oddworld Inhabitants: Extended Interview | Ars Technica](https://www.youtube.com/watch?v=BNgPNeCVo30)  ((youtube.com))  
+[Lorne Lanning on mymntr.com/Gaming Guru - Oddworld Creator](https://www.youtube.com/watch?v=00q71VOOu2s) ((youtube.com))   <-- extremely profound interview w/ creator of Oddworld  
 
 #humorous
 [Ribaldry](https://en.wikipedia.org/wiki/Ribaldry)  
