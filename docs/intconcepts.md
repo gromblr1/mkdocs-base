@@ -10,16 +10,6 @@
 [Inminban](https://en.wikipedia.org/wiki/Inminban)  <-- system where all neighborhood snitches on eachother in North Korea
 [Your logical fallacy is](https://yourlogicalfallacyis.com/)  
 [Your bias is](https://yourbias.is/)  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
 []()    
 
 #political
