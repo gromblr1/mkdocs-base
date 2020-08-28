@@ -17,6 +17,38 @@
 [2006 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr2.mp3)  <-- talks about real-life vampires  
 [2006 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr3.mp3)  <--beg: vampires & diners, mid:  28:00min nice music,  
 
+[2007 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102607_hr1.mp3)  
+[2007 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102607_hr2.mp3)  
+[2007 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102607_hr3.mp3)  
+
+[2008 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102408_hr1.mp3)  
+[2008 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102408_hr2.mp3)  
+[2008 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102408_hr3.mp3)  
+
+[2009 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103009_hr1.mp3)  
+[2009 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103009_hr2.mp3)  
+[2009 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103009_hr3.mp3)  
+
+[2010 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102910_hr1.mp3)  
+[2010 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102910_hr2.mp3)  
+[2010 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102910_hr3.mp3)  
+
+[2011 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102811_hr1.mp3)  
+[2011 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102811_hr2.mp3)  
+[2011 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102811_hr3.mp3)  
+
+[2012 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103112_hr1.mp3)  
+[2012 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103112_hr2.mp3)  
+[2012 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103112_hr3.mp3)  
+
+[2013 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103113_hr1.mp3)  
+[2013 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103113_hr2.mp3)  
+[2013 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103113_hr3.mp3)  
+
+[2014 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103014_hr1.mp3)  
+[2014 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103014_hr2.mp3)  
+[2014 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103014_hr3.mp3)  
+
 # Radio Broadcasts
 [Global Star 3](http://67.225.254.37:2146/index.html?sid=1) ((http://67.225.254.37:214/))  
 [Global Star 3 Programming](http://www.gsradio.net/schedule/star-3.htm) ((gsradio.net))  
