@@ -15,6 +15,9 @@
 📖[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)  
 📖[Comparison of software and protocols for distributed social networking](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)  
 📖[Distributed social network](https://en.wikipedia.org/wiki/Distributed_social_network)  
+
+###Other
+[Pod Uptime](https://podupti.me/)  
 <hr>  
 # Ethical alternatives
 [Ethical.net](https://ethical.net/resources/)  <-- Ethical alternatives to mainstream services  
@@ -54,6 +57,7 @@
 ##Retarded versions of Reddit
 [Thedonald.win](https://thedonald.win)  
 [MetaFilter](https://www.metafilter.com/)  
+[Stammtisch](https://stammtisch.tupambae.org/community)  
 
 ###Other
 [Postmill.xyz](https://postmill.xyz/)  
@@ -129,6 +133,9 @@ notes |  |  |  |
 
 [Streamable](https://streamable.com/)  <-- no signup required  
 [Telegra.ph](https://telegra.ph/) <-- no signup required, anonymous blogging platform  
+
+## Other
+[TOP 8 FREE SPEECH HOSTING PROVIDERS](https://hexd.com/free-speech-hosting/)  ((hexd.com))  
 <hr>  
 # ALTERNATIVE to Youtube
 [Bitchute](https://www.bitchute.com)  
@@ -141,9 +148,6 @@ notes |  |  |  |
 [JoshWHO.net](https://search.joshwho.net/)  <-- Best way to search Bitchute !  
 
 [Freetubespot](https://www.freetubespot.com/)  <-- Watch millions of high-quality movies free ! NO BS.
-
-## Other
-[TOP 8 FREE SPEECH HOSTING PROVIDERS](https://hexd.com/free-speech-hosting/)  ((hexd.com))  
 <hr>  
 # ALTERNATIVE to Amazon
 [Ethical Alternatives to Amazon](https://threshold.us/c/cancelprime/amazon-alternatives)  
