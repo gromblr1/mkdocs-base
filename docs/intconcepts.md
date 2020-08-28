@@ -6,13 +6,16 @@
 [Phrontistery](https://phrontistery.info)  
 [Misinfo vs Disinfo](https://www.dictionary.com/e/misinformation-vs-disinformation-get-informed-on-the-difference/)   
 [Twilight of the Idols](https://en.wikipedia.org/wiki/Twilight_of_the_Idols)  
+[Space Terms](http://planetfacts.org/space-terms/)  
+[Inminban](https://en.wikipedia.org/wiki/Inminban)  <-- system where all neighborhood snitches on eachother in North Korea
 
 #political
 [Leaderless resistance](https://en.wikipedia.org/wiki/Leaderless_resistance)  
 [Propaganda techniques](https://en.wikipedia.org/wiki/Propaganda_techniques)  
 [Tradecraft](https://en.wikipedia.org/wiki/Tradecraft)  <--excellent list of espionage activities  
 [Damnatio memoriae](https://en.wikipedia.org/wiki/Damnatio_memoriae)  
-<img src="https://youtube.com/favicon.ico">[The Politics of Demolition Man](https://www.youtube.com/watch?v=DrUNIX2Iv04)  ((youtube.com))
+<img src="https://youtube.com/favicon.ico">[The Politics of Demolition Man](https://www.youtube.com/watch?v=DrUNIX2Iv04)  ((youtube.com))  
+[Conservapedia](https://www.conservapedia.com/index.php?title=Main_Page)  
 
 #espionage
 [Language of Espionage](https://www.spymuseum.org/education-programs/spy-resources/language-of-espionage/)  
@@ -23,6 +26,7 @@
 [Antisemetic canard](https://en.wikipedia.org/wiki/Antisemitic_canard)  
 
 # Historical 
+[Inquisition](https://outline.com/eSKyMc)  ((outline.com [Britannica.com]))  
 [Black Codes (United States)](https://en.wikipedia.org/wiki/Black_Codes_(United_States))  <-- laws governing the conduct of African Americans (free blacks)  
 
 
@@ -30,6 +34,9 @@
 <img src="https://youtube.com/favicon.ico">[Jim Willie - Why He Left the USA (July 2020)](https://www.youtube.com/watch?v=eW9MeGl5xOs)  
 <img src="https://youtube.com/favicon.ico">[ALEX JONES: INFOWARS - HOW TO SURVIVE BEING BANNED ON SOCIAL MEDIA & OUR NEW COVID-19 WORLD REALITY](https://www.youtube.com/watch?v=vOIVslJHIZA)  
 [The Secret Space Program and Breakaway Civilization (Richard Dolan Lecture Series) (Volume 1) First Edition](https://www.amazon.com/Program-Breakaway-Civilization-Richard-Lecture/dp/1537132555)  
+
+#death concepts
+[Category:Archaeology of death](https://en.wikipedia.org/wiki/Category:Archaeology_of_death)  
 
 #humorous
 [Ribaldry](https://en.wikipedia.org/wiki/Ribaldry)  
