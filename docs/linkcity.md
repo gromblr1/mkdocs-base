@@ -19,6 +19,7 @@
 #tech
 [Pandoc: a universal document converter](https://pandoc.org/)  
 [Reddit: Self-Hosted alternatives to popular services](https://www.reddit.com/r/selfhosted/)  
+[FreedomBone](https://freedombone.net/)  
 [Dark Patterns](https://darkpatterns.org/index.html)  
 [KEL CHM Creator](https://dumah7.wordpress.com/2009/02/17/kel-chm-creator-v-1-4-0-0/)  
 [Tinc-VPN](https://tinc-vpn.org/)  
@@ -43,9 +44,11 @@
 [Djinn](https://occult-world.com/djinn/)  ((occult-world.com))  
 [Pinterest mythical manuscript art](https://www.pinterest.com/pin/56928382781628633/)  
 [Ancient manuscript art](https://www.diabloii.net/forums/threads/the-vizjereic-key-of-horazon-art-collaboration.813233/)  
-[Navajo Ranger Jonathan Dover (04-16-19) Skinwalkers, UFOs, Bigfoot & Paranormal Exploits](https://www.youtube.com/watch?v=oMhIaLvlw1E)  ((youtube.com)) 
+[Navajo Ranger Jonathan Dover (04-16-19) Skinwalkers, UFOs, Bigfoot & Paranormal Exploits](https://www.youtube.com/watch?v=oMhIaLvlw1E)  ((youtube.com))  
+[Aliendave: utah UFO news](http://www.aliendave.com/)  
 
 ### Werewolves,dogman, cynocephali
+[Dog-Headed Men From History are Real: Cynocephali Sightings](https://www.youtube.com/watch?v=G2oSbMFNDCw)  
 [5 Historical Accounts of Werewolves // Herodotus, Beast of Gevaudan + more // Primary Sources](https://www.youtube.com/watch?v=9oQlsa3xdH8)       ((youtube.com))  
 [The Dog-Headed Tribe of Greek Legend](https://www.youtube.com/watch?v=8S3jkwoN6Kk)    ((youtube.com))  
 
