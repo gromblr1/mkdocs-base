@@ -38,7 +38,8 @@
 [An Overview of the decentralized Diaspora Social Network](https://www.youtube.com/watch?v=Vgbi2jWxdbk)  ((youtube.com))  
 
 #Arizona stuff
-[Reddit: Buying & Selling in phoenix](https://www.reddit.com/r/PHXList/)  
+[Reddit: Buying & Selling in phoenix](https://www.reddit.com/r/PHXList/)  ((reddit.com))  
+[Hopi Prophecy Rock](https://www.crystalinks.com/hopistonetablets.html) ((crystalinks.com))    
 
 #Spooks
 [Top Paranormal Sites](https://www.topparanormalsites.com/) ((topparanormalsites.com))  
@@ -46,14 +47,17 @@
 [Djinn](https://occult-world.com/djinn/)  ((occult-world.com))  
 [Pinterest mythical manuscript art](https://www.pinterest.com/pin/56928382781628633/)  
 [Ancient manuscript art](https://www.diabloii.net/forums/threads/the-vizjereic-key-of-horazon-art-collaboration.813233/)  
-[Navajo Ranger Jonathan Dover (04-16-19) Skinwalkers, UFOs, Bigfoot & Paranormal Exploits](https://www.youtube.com/watch?v=oMhIaLvlw1E)  ((youtube.com))  
-[Aliendave: utah UFO news](http://www.aliendave.com/)  
+<img src="https://youtube.com/favicon.ico">[Navajo Ranger Jonathan Dover (04-16-19) Skinwalkers, UFOs, Bigfoot & Paranormal Exploits](https://www.youtube.com/watch?v=oMhIaLvlw1E)  ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[](https://www.youtube.com/watch?v=N6uSqUrL1TQ) ((youtube.com))  
+[Aliendave: utah UFO news](http://www.aliendave.com/)   
+[Red Haired Giants of Arizona](https://www.burlingtonnews.net/giants_arizona.html) ((burlingtonnews.net))  <-- Mary J Sutherland
 
 ### Werewolves,dogman, cynocephali
-[Dog-Headed Men From History are Real: Cynocephali Sightings](https://www.youtube.com/watch?v=G2oSbMFNDCw)  
-[5 Historical Accounts of Werewolves // Herodotus, Beast of Gevaudan + more // Primary Sources](https://www.youtube.com/watch?v=9oQlsa3xdH8)       ((youtube.com))  
-[The Dog-Headed Tribe of Greek Legend](https://www.youtube.com/watch?v=8S3jkwoN6Kk)    ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Dog-Headed Men From History are Real: Cynocephali Sightings](https://www.youtube.com/watch?v=G2oSbMFNDCw)  ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[5 Historical Accounts of Werewolves // Herodotus, Beast of Gevaudan + more // Primary Sources](https://www.youtube.com/watch?v=9oQlsa3xdH8)       ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[The Dog-Headed Tribe of Greek Legend](https://www.youtube.com/watch?v=8S3jkwoN6Kk)    ((youtube.com))  
 [Supposed real-life werewolf comments](http://yourlupinelife.com/about-yll)  
+[Dogs in religion](https://en.wikipedia.org/wiki/Dogs_in_religion)  
 
 # Oldschool shiz
 [M_VEGETA_86](http://www.oocities.org/m_vegeta_86/)  
@@ -63,6 +67,7 @@
 [LAST WEEK IN CULTURE #5](https://www.youtube.com/watch?v=M3vBAOAKKiw) (([mirror](https://www.bitchute.com/video/XFMmPwqKD01a/)))  
 [homeless guy dancing to plug walk](https://www.youtube.com/watch?v=UX3FVatYsUc)  
 [Osu!](https://en.wikipedia.org/wiki/Osu!)  
+[COLORES | Hopi Prophecy | New Mexico PBS](https://www.youtube.com/watch?v=p1m0nLSOHi4)      ((youtube.com))  
 
 #Funny
 [Fat dude thumbs down at ball game](https://cdn.minds.com/fs/v1/thumbnail/1133448711852875776/xlarge//?unlock_paywall=0)  
@@ -73,6 +78,10 @@
 <img src="https://youtube.com/favicon.ico">[anime fight!](https://www.youtube.com/watch?v=E_iX_ySdEYA)  
 <img src="https://youtube.com/favicon.ico">[Being petty after a break up](https://www.youtube.com/watch?v=tiEu6yx3Ch8)  
 <img src="https://youtube.com/favicon.ico">[Car Roast Session (Funniest Roast Session)](https://www.youtube.com/watch?v=vTfjCwvtfgw)  
+[Destination X 2011 videos](https://www.dailymotion.com/search/Destination%20X%202011/videos)  ((dailymotion.com))   
+[Imagine everytime your girl gets drunk instead of throwing ass she do this shit 🤣🤣🤣](https://www.facebook.com/100008378552121/videos/2612318819057378/)  
+<img src="https://youtube.com/favicon.ico">[Girl laughing while making funny faces on distorted webcam - YouTube](https://www.youtube.com/watch?v=vGgfoqM_Xbs)  
 
-
-
+# Lefist bullshit
+[http://nativesinamerica.com/2016/07/dear-jk-rowling-were-still-here/](http://nativesinamerica.com/2016/07/dear-jk-rowling-were-still-here/)   ((http://nativesinamerica.com/))  
+<img src="https://youtube.com/favicon.ico">[Free Speech =/= No Consequences | Response to ReviewTechUSA | The Verge PC Building Fail](https://www.youtube.com/watch?v=l45mOsSgeRc)  
