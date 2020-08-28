@@ -5,6 +5,7 @@
 [Baby Girl](https://www.youtube.com/watch?v=yvM0dHq3Pds)  
 [Lets Get Crackin (PopYourSoul Remix) - Popping Music 2019 (23)](https://www.youtube.com/watch?v=SjRwoBAg050)  
 [Popping music Training Ver.2 - |Basic music to Training|](https://www.youtube.com/watch?v=U148JATauGA)  
+[The Reddings - The Awakening Part 1](https://www.youtube.com/watch?v=eGGFbRqsDrQ)  
 
 [Greenteck & NELSON vs TAKUMI & らんきち BEST8 POP WDC 2018 FINAL World Dance Colosseum](https://www.youtube.com/watch?v=Z3Kq4tAQrkc)  
 [GREENTECK VS 鸡婆 POPPING final 舞甲天下捌 2017](https://www.youtube.com/watch?v=qWf5V7glhCA)  
@@ -32,6 +33,7 @@
 [POPPING GREENTECK - Ultimate 50 triggers - How to kill the beat ?](https://www.youtube.com/watch?v=KHlIELuK-JE)  
 [Rolling Styles: Judge Showcase: Greenteck](https://www.youtube.com/watch?v=fAZfScVy9HA)  
 [Slim Boogie vs Greenteck [popping finals] ► .stance x FSS 20th x Top Status ◄ udeftour.org](https://www.youtube.com/watch?v=cg9THzuoCZI)  
+[Team Korea VS Team English [ Semifinal-2 ]-HURRICANES BATTLE-ISM 2015 TAIWAN & POPPIN CREW BATTLE](https://www.youtube.com/watch?v=wGMYNMGNuSE)  
 
 [Locking Final - Juste Debout 2014 Bercy](https://www.youtube.com/watch?v=OTC2Goyxb3U)  
 
