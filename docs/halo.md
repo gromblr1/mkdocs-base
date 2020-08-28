@@ -19,5 +19,5 @@
 #Elite Dangerous  
 <img src="https://youtube.com/favicon.ico">[Thargoid Interdiction 4K 60FPS](https://www.youtube.com/watch?v=jbCyGYu13y0) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Elite Dangerous: Thargoid Interdiction and Battle](https://www.youtube.com/watch?v=qmALzqfhZdw)  ((youtube.com))  
-
 <img src="https://youtube.com/favicon.ico">[🎼ELITE: DANGEROUS OST SUPERCHARGED! With Onscreen Track details, Timestamps, Artwork & 5.1 surround](https://www.youtube.com/watch?v=11NTaiI2yj0) ((youtube.com))  
+[Pristine Metallics Distances Calculator](http://edtools.ddns.net/)   
