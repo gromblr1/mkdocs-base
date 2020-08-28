@@ -18,6 +18,7 @@
 <img src="https://youtube.com/favicon.ico">[2014 Arizona Governor Candidate Barry Hess](https://www.youtube.com/watch?v=LSuOAC7jqhk)  ((youtube.com))   
 
 #tech
+[Locoloader](https://www.locoloader.com/)   <-- tool used for downloading bandcamp mp3's
 [Youtube playlist backup to excel spreadsheets](http://www.williamsportwebdeveloper.com/FavBackUp.aspx)  
 [Pandoc: a universal document converter](https://pandoc.org/)  
 [Reddit: Self-Hosted alternatives to popular services](https://www.reddit.com/r/selfhosted/)  
@@ -40,6 +41,11 @@
 #Arizona stuff
 [Reddit: Buying & Selling in phoenix](https://www.reddit.com/r/PHXList/)  ((reddit.com))  
 [Hopi Prophecy Rock](https://www.crystalinks.com/hopistonetablets.html) ((crystalinks.com))    
+[Los Hopi/The Hopi](https://www.bibliotecapleyades.net/esp_leyenda_hopi.htm)  ((bibliotecapleyades.net))  
+
+### Other
+[Native American Lore: 2020 Prophecy](https://2020prophecy.wordpress.com/2014/10/02/native-american-lore-2/)  ((2020prophecy.wordpress.com))  
+[Red Haired Giants of Arizona](https://www.burlingtonnews.net/giants_arizona.html) ((burlingtonnews.net))  <-- Mary J Sutherland   
 
 #Spooks
 [Top Paranormal Sites](https://www.topparanormalsites.com/) ((topparanormalsites.com))  
@@ -48,9 +54,10 @@
 [Pinterest mythical manuscript art](https://www.pinterest.com/pin/56928382781628633/)  
 [Ancient manuscript art](https://www.diabloii.net/forums/threads/the-vizjereic-key-of-horazon-art-collaboration.813233/)  
 <img src="https://youtube.com/favicon.ico">[Navajo Ranger Jonathan Dover (04-16-19) Skinwalkers, UFOs, Bigfoot & Paranormal Exploits](https://www.youtube.com/watch?v=oMhIaLvlw1E)  ((youtube.com))  
-<img src="https://youtube.com/favicon.ico">[](https://www.youtube.com/watch?v=N6uSqUrL1TQ) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Ghost Adventures S14E07 Skinwalker Canyon](https://www.youtube.com/watch?v=N6uSqUrL1TQ) ((youtube.com))  
+[Haunting Caught On Video](https://www.facebook.com/RealPrimePhilips/videos/1097531840279081)  <-- Philip Bugg Medeen
+
 [Aliendave: utah UFO news](http://www.aliendave.com/)   
-[Red Haired Giants of Arizona](https://www.burlingtonnews.net/giants_arizona.html) ((burlingtonnews.net))  <-- Mary J Sutherland
 
 ### Werewolves,dogman, cynocephali
 <img src="https://youtube.com/favicon.ico">[Dog-Headed Men From History are Real: Cynocephali Sightings](https://www.youtube.com/watch?v=G2oSbMFNDCw)  ((youtube.com))  
@@ -64,10 +71,13 @@
 
 #Other
 [Stupid pinterest shit that makes no sense](https://www.pinterest.com/pin/720646377854230737/)  
+[Stupid pinterest shit that makes no sense part 2](https://www.pinterest.com/pin/567523990544733132/)  
 [LAST WEEK IN CULTURE #5](https://www.youtube.com/watch?v=M3vBAOAKKiw) (([mirror](https://www.bitchute.com/video/XFMmPwqKD01a/)))  
 [homeless guy dancing to plug walk](https://www.youtube.com/watch?v=UX3FVatYsUc)  
 [Osu!](https://en.wikipedia.org/wiki/Osu!)  
 [COLORES | Hopi Prophecy | New Mexico PBS](https://www.youtube.com/watch?v=p1m0nLSOHi4)      ((youtube.com))  
+[Predator (1987) - Old Painless Is Waiting Scene (1/5) | Movieclips](https://www.youtube.com/watch?v=wgzxSr6l9Y4) ((youtube.com))  
+[Zdzisław Beksiński - paintings I](https://sevasevol.blogspot.com/2012/02/zdzislaw-beksinski.html)  ((sevasevol.blogspot.com))  
 
 #Funny
 [Fat dude thumbs down at ball game](https://cdn.minds.com/fs/v1/thumbnail/1133448711852875776/xlarge//?unlock_paywall=0)  
@@ -80,8 +90,29 @@
 <img src="https://youtube.com/favicon.ico">[Car Roast Session (Funniest Roast Session)](https://www.youtube.com/watch?v=vTfjCwvtfgw)  
 [Destination X 2011 videos](https://www.dailymotion.com/search/Destination%20X%202011/videos)  ((dailymotion.com))   
 [Imagine everytime your girl gets drunk instead of throwing ass she do this shit 🤣🤣🤣](https://www.facebook.com/100008378552121/videos/2612318819057378/)  
+[black dude hair vaccine lmao](https://www.facebook.com/keke.babie.79/videos/2889136034487735/)    
 <img src="https://youtube.com/favicon.ico">[Girl laughing while making funny faces on distorted webcam - YouTube](https://www.youtube.com/watch?v=vGgfoqM_Xbs)  
+[Jewfro and Punk Girl Go Head to Head In a Photo Battle (4 pics)](https://izismile.com/2012/11/29/jewfro_and_punk_girl_go_head_to_head_4_pics.html) ((isismile.com))  
+<img src="https://youtube.com/favicon.ico">[kickboxer production audio - musicless dance scene](https://www.youtube.com/watch?v=k1ibU-nEvfs) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[My first time wearing "THE WIG"!!! | Pantera - Cowboys From Hell | REACTION](https://www.youtube.com/watch?v=EPSEf64W3GE) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Roast Me | S3 E6 ft. Dumbfoundead | All Def](https://www.youtube.com/watch?v=gCTt6xhThX0) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Roast Me | S3 E7 ft. Timothy DeLaGhetto | All Def](https://www.youtube.com/watch?v=uLjvOPdOLl0) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Roast Me | Season 3 Finale ft. Donterio Hundon | All Def](https://www.youtube.com/watch?v=sk-evwwkP9Y) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Roast Me | Season 4 Episode 7 | All Def](https://www.youtube.com/watch?v=mH93j4FY36Y) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Roast Me | Season 4 Episode 8 | All Def](https://www.youtube.com/watch?v=kimbCk1fg4c) ((youtube.com))  
+[Reddit: She can't wear a mask](https://www.reddit.com/r/FuckYouKaren/comments/hsn6ls/she_cant_wear_a_mask/) ((reddit.com))  
+<img src="https://youtube.com/favicon.ico">[Tales from the Hood ending reenactment](https://www.youtube.com/watch?v=J5-DW4-dFvI) ((youtube.com))  
+[]() (())  
+[]() (())  
+[]() (())  
+[]() (())  
+[]() (())  
+
+
 
 # Lefist bullshit
 [http://nativesinamerica.com/2016/07/dear-jk-rowling-were-still-here/](http://nativesinamerica.com/2016/07/dear-jk-rowling-were-still-here/)   ((http://nativesinamerica.com/))  
+[Scaffolded Anti-Racist Resources](https://docs.google.com/document/d/1PrAq4iBNb4nVIcTsLcNlW8zjaQXBLkWayL8EaPlh0bc/mobilebasic) ((docs.google.com))  
+
 <img src="https://youtube.com/favicon.ico">[Free Speech =/= No Consequences | Response to ReviewTechUSA | The Verge PC Building Fail](https://www.youtube.com/watch?v=l45mOsSgeRc)  
+Related: [The Verge PC Build: The Aftermath of a Harassment Campaign](https://medium.com/p/5363ed3626b8/responses/show) ((medium.com))  
