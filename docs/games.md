@@ -4,8 +4,10 @@
 [Baby Snatcher](https://gamejolt.com/games/BabySnatcher/500051)  
 [No Players Online](https://papercookies.itch.io/no-players-online)  
 [Phobos](https://next-cosmos.itch.io/phobos)  
+[The Street](https://lilshadow.itch.io/the-street)   
 <img src="https://youtube.com/favicon.ico">[Gray Zone - Gameplay (PC/UHD)](https://www.youtube.com/watch?v=aAqM0idnX6U)  
 <img src="https://youtube.com/favicon.ico">[Overfall - Part 1 - Welcome to Dys [Overfall PC Gameplay / Let's Play]](https://www.youtube.com/watch?v=u8dy8ka1mWo)  
+<img src="https://youtube.com/favicon.ico">[The Lovecraft eZine gamers play ANCHORHEAD, a Lovecraftian interactive fiction game](https://www.youtube.com/watch?v=vM4eNBhAces)  
 
 #strategies
 [Pacify – Gameplay Basics and Tips](https://scarygamingnetwork.com/pacify-gameplay-basics-and-tips/) ((scarygamingnetwork.com))  
@@ -62,3 +64,4 @@
 [Elite:Dangerous Astrometrics](https://edastro.com/)  
 
 [Eddb Route Planner](https://sites.google.com/site/eddbrouteplanner/)  
+[The Elite: Dangerous Background Simulation, Factions, and Powers Guide](https://novaforce.com/guides/bgs/) ((novaforce.com))  
