@@ -5,7 +5,7 @@
 [Steiger](https://rense.com/steiger/steigerA.htm)  ((rense.com))  
 
 # Rense Hallowen broadcasts
-[2004 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr1.mp3)  
+[2004 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr1.mp3)  <-- 16:30 "wait a minute, gotta have a little music",
 [2004 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr2.mp3)  
 [2004 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr3.mp3)  
 
