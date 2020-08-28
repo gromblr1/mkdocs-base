@@ -1,10 +1,16 @@
-# Illuminati, Global Elite, NWO
+# Illuminati, Global Elite, NWO, Luciferianism
 
 Transhumanism: To live forever without God.
 
 [What is the Illuminati?](https://www.henrymakow.com/001260.html) ((henrymakow.com))  
+[Albert Pike: “We Control Islam and We’ll Use It to Destroy the West”](https://voiceofpeopletoday.com/albert-pike-we-control-islam-and-well-use-it-to-destroy-the-west-2/) ((voiceofpeopletoday.com))   
+[ROCKEFELLER FRIEND AARON RUSSO LAYS OUT THE PLAN OF NWO IN 10 MINUTES](https://www.bitchute.com/video/vPfbyJwzjiJW/)   ((bitchute.com)) ([full vid](https://www.bitchute.com/video/yoJSKNDIb91f/))   
+
+[Donald Drumpf – Illuminati Jew](https://weliveinamadworld.com/donald-drumpf-illuminati-jew/)  ((weliveinamadworld.com))    
+[A SACRED ASSEMBLY OF MEN  ](https://watch.pairsite.com/asa2.html)  ((watch.pairsite.com))  <-- Luceriferian initiation, Hitler, philosophy of Death
 
 ## AI, DWAVE, CERN
+[SHIVA, APOLLYON AND CERN; THE DESTROYERS](https://hiskingdomathand.com/2019/03/shiva-appolyion-and-cern/)  ((hiskingdomathand.com))  
 [The Truly Evil Side Of Quantum Computer Blockchain Artificial Intelligence](https://steemit.com/quantum/@bitcoindoubler/the-truly-evil-side-of-quantum-computer-blockchain-artificial-intelligence) ((steemit.com))  
 [CERN ‘666’ Goal: Open New Dimension Doorway with Anthony Patch](https://steemit.com/lhc-cern/@socioecohistory/cern-666-goal-open-new-dimension-doorway-with-anthony-patch) ((steemit.com))  
 [Quantum Geomancy](https://sublunar.space/2019-05-quantum-geomancy.html) ((sublunar.space))  <-- quantum black magick  
@@ -32,16 +38,15 @@ Transhumanism: To live forever without God.
 [Michael Aquino’s Last Desperate Attempt to Silence his Victims](https://fionabarnett.org/2018/09/04/michael-aquinos-last-desperate-attempt-to-silence-his-victims/) ((fionabarnett.org))  < -- high-level CIA satanist  
 Related:[Satanists vs Setians At The Presidio #p3d0gate](https://steemit.com/pizzagate/@kingzos/satanists-vs-setians-at-the-presidio-pedogate)  
 
+[14 Celebrities “Suicided” by Doorknob Hanging, Including a Rothschild and the Ex-Wife of a Rothschild](https://www.sgtreport.com/2019/08/14-celebrities-suicided-by-doorknob-hanging-including-a-rothschild-and-the-ex-wife-of-a-rothschild/)  ((sgtreport.com))  
 [Black Sun celeb doorknob rituals](https://prepareforchange.net/2020/07/22/the-doorknob-sacrifices-a-black-sun-ritual-12-celebrity-suicides-related-to-pedophilia-cover-up/) ((prepareforchange.net))  
  Related: [The Epstein-Funded CP Hub MIT Media Lab That Mxrdered Aaron Swartz](https://rense.com/general96/the-epstein-funded-child-porn-hub-mit-media-lab-that-murdered-aaron-swartz.php) ((rense.com))    
  
 ### Other
 [NIMROD, MARS AND THE MARDUK CONNECTION](http://www.ldolphin.org/Nimrod.html)  ((ldolphin.org))   
+[Nimrod, Lucifer and the Antichrist](https://promusement.live/2016/07/18/nimrod-lucifer-and-the-antichrist/)  ((promusement.live))  
+[NIMRODS TOMB FOUND: CLONING OF NIMROD AND OSIRIS UNDERWAY](https://www.auricmedia.net/nimrods-tomb-found-cloning-of-nimrod-and-osiris-underway/)  ((auricmedia.net))  
 [Monolith (Space Odyssey)](https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey))  
- 
-##Freemsons $ NWO
-[Albert Pike: “We Control Islam and We’ll Use It to Destroy the West”](https://voiceofpeopletoday.com/albert-pike-we-control-islam-and-well-use-it-to-destroy-the-west-2/) ((voiceofpeopletoday.com))   
-[ROCKEFELLER FRIEND AARON RUSSO LAYS OUT THE PLAN OF NWO IN 10 MINUTES](https://www.bitchute.com/video/vPfbyJwzjiJW/)   ((bitchute.com)) ([full vid](https://www.bitchute.com/video/yoJSKNDIb91f/))   
  
 ### Z10nizm
 [The Influence of Sabbatean Frankism on the World](https://www.winterwatch.net/2017/07/the-influence-of-sabbatian-frankism-on-the-world/) ((winterwatch.net))  
@@ -56,6 +61,9 @@ Related:[Satanists vs Setians At The Presidio #p3d0gate](https://steemit.com/piz
 Related: [The Camp of the Saints](https://en.wikipedia.org/wiki/The_Camp_of_the_Saints)  <-- destruction of West via 3rd world mass immigration circa 1973
 Related: [The Hidden Jxwish Hand in the Destruction of White South Africa](https://christiansfortruth.com/the-hidden-jewish-hand-in-the-destruction-of-white-south-africa/)  
 Related: [Isaac Luria: Father of the contemprary Kabbalah](https://en.wikipedia.org/wiki/Isaac_Luria)  
+Related: [Blood libel](https://en.wikipedia.org/wiki/Blood_libel)  
+[Anti-Semitism - Anti-Semitism in medieval Europe](https://www.britannica.com/topic/anti-Semitism/Anti-Semitism-in-medieval-Europe)  ((britannica.com))   
+[Cainite.net (tons of Zionist news)](http://www.cainite.net/)  
 # Brother Nathanael Videos
 [Brovids.com](http://brovids.com/) <-- a converted J3w to Christian who tells truth about world J3wry
 
@@ -66,8 +74,10 @@ Related: [Isaac Luria: Father of the contemprary Kabbalah](https://en.wikipedia.
 [LUCIFERASE - BILL GATES QUANTUM DOT MICRONEEDLE VACCINE TO ALTER YOUR DNA](https://www.bitchute.com/video/XSvEKJKAUiBD/) ((youtube.com))   
 Related: [Bill Gates’ Quantum Dot Digital Tattoo Implant to Track COVID-19 Vaccine Compliance](https://savedmag.com/bill-gates-quantum-dot-digital-tattoo-implant-to-track-covid-19-vaccine-compliance/)  ((savedmag.com))  
 Related: [World Shocked By Bill Gates Statements On COVID-19 Vaccine](https://banned.video/watch?id=5f234e5f68370e02f2a61cec)  ((banned.video))  
+Related: [Bill Gates vaccilates on side effectsw/CBS news](https://twitter.com/LegendaryEnergy/status/1287509508206391296?s=20)  ((twitter.com))   
 ###Other 
 [Mark of the Beast chip patent by Microsoft](https://www.christianforums.com/threads/mark-of-the-beast-chip-patent-by-microsoft.8157511/)  ((christianforums.com))   
+[How To Refuse Mandated Vaccinations,Get Ready To Say NO!](https://newtube.app/user/ClickHere/HgOtpah)  ((youtube.com))  
 
 ## P3d0 Elites
 <img src="https://youtube.com/favicon.ico">[Hollywood P3d0phile Ring Is Going Down](https://www.youtube.com/watch?v=M3rAzIAw5KE&feature=youtu.be) ((youtube.com))  
@@ -77,11 +87,18 @@ Related: [World Shocked By Bill Gates Statements On COVID-19 Vaccine](https://ba
 📷[Twymans FB msgs to the FBI](https://wikispooks.com/w/images/0/05/Tracy_Twyman%27s_chat_which_mentions_her_dead_man%27s_switch_video_and_the_creepy_campground.png) ((wikispooks.com))  
 Related: [Another #P3doGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/)  
 
+[Secret P3d0 Playground Discovered. Alefantis threatens mother & girlfriend in writing. Screenshots of chat.](https://steemit.com/pizzagate/@gizmosia/james-alefantis-threatens-kill-room-finder-breaking-news)  
+<img src="https://youtube.com/favicon.ico">[#PIZZAGATE - KILL ROOM FOUND! Pegasus Museum owned by Alefantis (REUPLOAD](https://www.youtube.com/watch?v=5gycqi6XjhU)  
+
 📷[Celebrity p3dos](https://uploads.disquscdn.com/images/579be7e251f8644843bd5819462bf6403fe73888a7ed4f095961608f5be22f80.jpg) ((disqus cdn))  
 <img src="https://youtube.com/favicon.ico">[Exposing P3d0 Content on Instagram - Conspiracy Castle LIVE](https://www.youtube.com/watch?v=cWcXqhdvdF8)  ((youtube.com))  
 Related:[Reddit: I find it very strange that Greece has had this law since 2012. Now Tom Hanks is a citizen of Greece. It’s a little strange that in the midst of all of this that he now decided to up and move his whole life to a country that can protect him. #pizzagate is LIVE.](https://www.reddit.com/r/conspiracy/comments/hz6jom/i_find_it_very_strange_that_greece_has_had_this/)  
+
+[4CHAN STORY - X - WORKING FOR EPSTEIN (removed from Youtube)](https://www.bitchute.com/video/mMrRggTAGG10/)  
+
 ##Jesuits
 [FAMOUS QUOTES ABOUT THE JESUIT ORDER](https://comingworldwar3.wordpress.com/2010/05/01/famous-quotes-about-the-jesuit-order/) ((comingworldwar3.wordpress.com))  
+[Isis, Horus and Set.. Vatican, Jesuits, Black Pope](https://decodingsatan.blogspot.com/2016/03/isis-horus-and-set-vatican-jesuits.html)  ((decodingsatan.blogspot.com))  
 
 ### CIA
 [The Finders- deep child abuse group/cult](https://www.reddit.com/r/UnresolvedMysteries/comments/27lqws/the_finders_deep_child_abuse_groupcult/) ((reddit.com))  
@@ -108,5 +125,6 @@ Related:[Reddit: I find it very strange that Greece has had this law since 2012.
 
 ### Other OTHER
 [Hermes Trismegistus](https://en.wikipedia.org/wiki/Hermes_Trismegistus)  
+<img src="https://youtube.com/favicon.ico">[My Last Day (crucifixion of Jesus anime)](https://www.youtube.com/watch?v=QDRCwJHBCXc)  
 [Witch of Endor](https://en.wikipedia.org/wiki/Witch_of_Endor)  
 Proverbs 3:5-6 Trust in the Lord with all thine heart; and lean not unto thine own understanding.
