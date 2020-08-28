@@ -131,6 +131,7 @@ notes |  |  |  |
 [IMGbb.com](https://imgbb.com/)  
 [Toile Libre (french image hosting)](https://pix.toile-libre.org/)  
 [Drop.infini[french file hosting]](https://drop.infini.fr/)  
+[Prnt.src: Lightshot screen capture tool](https://prnt.sc/)  
 
 [Streamable](https://streamable.com/)  <-- no signup required  
 [Telegra.ph](https://telegra.ph/) <-- no signup required, anonymous blogging platform  
@@ -149,7 +150,8 @@ notes |  |  |  |
  
 [JoshWHO.net](https://search.joshwho.net/)  <-- Best way to search Bitchute !  
 
-[Freetubespot](https://www.freetubespot.com/)  <-- Watch millions of high-quality movies free ! NO BS.
+[Freetubespot](https://www.freetubespot.com/)  <-- Watch millions of high-quality movies free ! NO BS.  
+
 <hr>  
 # ALTERNATIVE to Amazon
 [Ethical Alternatives to Amazon](https://threshold.us/c/cancelprime/amazon-alternatives)  
