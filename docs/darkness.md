@@ -1,11 +1,11 @@
-# Illuminati, Global Elite, NWO, Luciferianism
+# Illuminati, Global Elite, NWO, Luciferianism, Freemasons
 
 Transhumanism: To live forever without God.
 
 [What is the Illuminati?](https://www.henrymakow.com/001260.html) ((henrymakow.com))  
 [Albert Pike: “We Control Islam and We’ll Use It to Destroy the West”](https://voiceofpeopletoday.com/albert-pike-we-control-islam-and-well-use-it-to-destroy-the-west-2/) ((voiceofpeopletoday.com))   
 [ROCKEFELLER FRIEND AARON RUSSO LAYS OUT THE PLAN OF NWO IN 10 MINUTES](https://www.bitchute.com/video/vPfbyJwzjiJW/)   ((bitchute.com)) ([full vid](https://www.bitchute.com/video/yoJSKNDIb91f/))   
-
+[Order of the Eastern Star](https://en.wikipedia.org/wiki/Order_of_the_Eastern_Star)  
 [Donald Drumpf – Illuminati Jew](https://weliveinamadworld.com/donald-drumpf-illuminati-jew/)  ((weliveinamadworld.com))    
 [A SACRED ASSEMBLY OF MEN  ](https://watch.pairsite.com/asa2.html)  ((watch.pairsite.com))  <-- Luceriferian initiation, Hitler, philosophy of Death
 
@@ -40,7 +40,7 @@ Related:[Satanists vs Setians At The Presidio #p3d0gate](https://steemit.com/piz
 
 [14 Celebrities “Suicided” by Doorknob Hanging, Including a Rothschild and the Ex-Wife of a Rothschild](https://www.sgtreport.com/2019/08/14-celebrities-suicided-by-doorknob-hanging-including-a-rothschild-and-the-ex-wife-of-a-rothschild/)  ((sgtreport.com))  
 [Black Sun celeb doorknob rituals](https://prepareforchange.net/2020/07/22/the-doorknob-sacrifices-a-black-sun-ritual-12-celebrity-suicides-related-to-pedophilia-cover-up/) ((prepareforchange.net))  
- Related: [The Epstein-Funded CP Hub MIT Media Lab That Mxrdered Aaron Swartz](https://rense.com/general96/the-epstein-funded-child-porn-hub-mit-media-lab-that-murdered-aaron-swartz.php) ((rense.com))    
+ Related: [The Epstein-Funded CP Hub MIT Media Lab That Mxrdered Aaron Swartz](https://rense.com/general96/the-epstein-funded-child-porn-hub-mit-media-lab-that-murdered-aaron-swartz.php) ((rense.com))    (([mirror](http://themillenniumreport.com/2019/08/jeffrey-epstein-mit-media-lab-and-the-bizarre-suiciding-of-aaron-swartz/)))  
  
 ### Other
 [NIMROD, MARS AND THE MARDUK CONNECTION](http://www.ldolphin.org/Nimrod.html)  ((ldolphin.org))   
@@ -49,12 +49,15 @@ Related:[Satanists vs Setians At The Presidio #p3d0gate](https://steemit.com/piz
 [Monolith (Space Odyssey)](https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey))  
  
 ### Z10nizm
+[Sabbatean-Frankism as the Paradigm of the Modern Left](https://www.winterwatch.net/2019/02/sabbatean-frankism-as-the-paradigm-of-the-modern-left/) ((winterwatch.net))  
 [The Influence of Sabbatean Frankism on the World](https://www.winterwatch.net/2017/07/the-influence-of-sabbatian-frankism-on-the-world/) ((winterwatch.net))  
 [The Protocols of the Elders of Zion](https://www.bitchute.com/video/7Lqa2axvaaab/)  ((bitchute.com))  
 [SATANIC TALMUD](https://www.bitchute.com/video/w3LAqDYxJnJD/)  ((bitchute.com))  
 ["WHAT THE JXWS SAY ABOUT KILLING WHTE PEOPLE" (THE TALMUD!)](https://www.bitchute.com/video/n1E0uBKsJGG7/)  ((bitchute.com))   
 [TALMUD QUOTES RELATED TO HATE AND SUPERIORITY OVER AND INEQUALITY VERSUS NON-JXWS](https://concisepolitics.com/2018/07/03/talmud-quotes-related-to-hate-and-superiority-over-and-inequality-versus-non-jews/)  
 [Smoloko](http://www.chuckmaultsby.net/id59.html)  ((chuckmaultsby.net))   
+[JEFFREY EPSTEIN: SABBATEAN FRANKIST COVER-UP?](https://forbiddenknowledgetv.net/jeffery-epstein-sabbatean-frankist-cover-up/) ((forbiddenknowledgetv.net))  
+
 [Explusions of Jxws from Spain](https://en.wikipedia.org/wiki/Expulsion_of_Jews_from_Spain)  
 [Edict of Expulsion](https://en.wikipedia.org/wiki/Edict_of_Expulsion)  
 [The Jxwish Hand... behind the internet](https://www.bibliotecapleyades.net/sociopolitica/sociopol_internet84.htm)  ((bibliotecapleyades.net))  
@@ -65,6 +68,8 @@ Related: [Isaac Luria: Father of the contemprary Kabbalah](https://en.wikipedia.
 Related: [Blood libel](https://en.wikipedia.org/wiki/Blood_libel)  
 [Anti-Semitism - Anti-Semitism in medieval Europe](https://www.britannica.com/topic/anti-Semitism/Anti-Semitism-in-medieval-Europe)  ((britannica.com))   
 [Cainite.net (tons of Zionist news)](http://www.cainite.net/)  
+[NETFLIX FOUNDER/CEO A DESCENDANT OF FREUD & BERNAYS](https://www.bitchute.com/video/rRQgXmLZ0WA/)  ((bitchute.com))  
+[NOAHIDE LAW OF THE LAND | KMN LIVE](https://www.bitchute.com/video/ebqpR8eNsxQ/) ((bitchute))  
 # Brother Nathanael Videos
 [Brovids.com](http://brovids.com/) <-- a converted J3w to Christian who tells truth about world J3wry
 
@@ -76,6 +81,7 @@ Related: [Blood libel](https://en.wikipedia.org/wiki/Blood_libel)
 Related: [Bill Gates’ Quantum Dot Digital Tattoo Implant to Track COVID-19 Vaccine Compliance](https://savedmag.com/bill-gates-quantum-dot-digital-tattoo-implant-to-track-covid-19-vaccine-compliance/)  ((savedmag.com))  
 Related: [World Shocked By Bill Gates Statements On COVID-19 Vaccine](https://banned.video/watch?id=5f234e5f68370e02f2a61cec)  ((banned.video))  
 Related: [Bill Gates vaccilates on side effectsw/CBS news](https://twitter.com/LegendaryEnergy/status/1287509508206391296?s=20)  ((twitter.com))   
+<img src="https://youtube.com/favicon.ico">[Italian Parliament Hero Demands Bill Gates Arrest For Killing With Vaccines](https://www.youtube.com/watch?v=FLgTs1c3zY0) ((youtube.com))  
 ###Other 
 [Designer Marks of the Beast](https://watch.pairsite.com/stuph.html)  ((watch.pairsite.com))   
 [Mark of the Beast chip patent by Microsoft](https://www.christianforums.com/threads/mark-of-the-beast-chip-patent-by-microsoft.8157511/)  ((christianforums.com))   
@@ -83,12 +89,14 @@ Related: [Bill Gates vaccilates on side effectsw/CBS news](https://twitter.com/L
 Related: [Dead Microbiologists](https://rense.com/general96/deadmicro.html)  ((rense.com))  
 
 ## P3d0 Elites
+[Macaulay Culkin: Satanic Hollywood ElitesMurder Children During Rituals](https://johnbwellsnews.com/macaulay-culkin-satanic-hollywood-elites-murder-children-during-rituals/)  ((johnbwellsnews.com))  
 <img src="https://youtube.com/favicon.ico">[Hollywood P3d0phile Ring Is Going Down](https://www.youtube.com/watch?v=M3rAzIAw5KE&feature=youtu.be) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[ISAAC KAPPY - TITANIC MARDAN PALACE (TOM HANKS & GEORGE CLOONEY)](https://www.bitchute.com/video/fv8bXNM13kH9/) ((bitchute.com))  
 [ANOTHER P3D0GATE RESEARCHER DEAD](https://archive.4plebs.org/pol/thread/219192491/) ((archive.4plebs.org))  <-- long Tracy Tyman discussion  
 <img src="https://youtube.com/favicon.ico">[Tracy Twyman, Isaac Kappy and the Creepy Campground](https://www.youtube.com/watch?v=EMS0uuQVbBs) ((youtube.com)) < Twymans last video 
 📷[Twymans FB msgs to the FBI](https://wikispooks.com/w/images/0/05/Tracy_Twyman%27s_chat_which_mentions_her_dead_man%27s_switch_video_and_the_creepy_campground.png) ((wikispooks.com))  
 Related: [Another #P3doGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/)  
+Related: [King Dagobert II Mascot of the OLE](https://www.bibliotecapleyades.net/merovingians/merovingios_09a.htm) ((bibliotecapleyades.net))  
 
 [Secret P3d0 Playground Discovered. Alefantis threatens mother & girlfriend in writing. Screenshots of chat.](https://steemit.com/pizzagate/@gizmosia/james-alefantis-threatens-kill-room-finder-breaking-news)  
 <img src="https://youtube.com/favicon.ico">[#PIZZAGATE - KILL ROOM FOUND! Pegasus Museum owned by Alefantis (REUPLOAD](https://www.youtube.com/watch?v=5gycqi6XjhU)  
@@ -133,10 +141,16 @@ Related:[Reddit: I find it very strange that Greece has had this law since 2012.
 [Tepaphone – The Magickal Death Ray](https://josephmax.wordpress.com/2010/09/05/tepaphone-the-magickal-death-ray/) ((josephmax.wordpress.com))  
 [Ordo Lapsit Exillis](https://www.bibliotecapleyades.net/merovingians/merovingios_11.htm) ((bibliotecapleyades.net))  <-- secret society dedicated to guarding an alleged jewel that fell from Lucifer's crown during the war in heaven
 [You think Wayfair was bad?](https://www.facebook.com/permalink.php?story_fbid=1135067450193456&id=100010706345667&comment_id=203993007664735&reply_comment_id=587706788607491&notif_id=1594886737954234&notif_t=comment_mention)  
+[Then we have this connection to the #WayFair trafficking scandal. Are people also using the website to put out hits on people? Note the 33 inches &amp; Kenai Rivera as well. Nothing to see here folks! Total coincidence!](https://twitter.com/Caleidoscope11/status/1282036893765365760) ((twitter.com))  
+
+##Other darkness
 [Mind Control Black Assassins](https://mindcontrolblackassassins.com/) ((mindcontrolblackassassins.com))  <-- black ppl waking up
+[Organ Trafficking, Chicago, IT'S ALL RELATED](https://www.youtube.com/watch?v=mnsbLzVIaXk)  <-- response to the Kenneka Jenkins case
 
 ### Other OTHER
 [Hermes Trismegistus](https://en.wikipedia.org/wiki/Hermes_Trismegistus)  
+[Gensix.com](https://www.gensix.com/store/)  
 <img src="https://youtube.com/favicon.ico">[My Last Day (crucifixion of Jesus anime)](https://www.youtube.com/watch?v=QDRCwJHBCXc)  
+<img src="https://youtube.com/favicon.ico">[September 23, 2017? What's going to happen?](https://www.youtube.com/watch?v=xn_l2yS6H2o)  
 [Witch of Endor](https://en.wikipedia.org/wiki/Witch_of_Endor)  
 Proverbs 3:5-6 Trust in the Lord with all thine heart; and lean not unto thine own understanding.
