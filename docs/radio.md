@@ -7,11 +7,11 @@
 # Rense Hallowen broadcasts
 [2004 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr1.mp3)  <-- 16:30 "wait a minute, gotta have a little music", talks about haunting  
 [2004 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr2.mp3)  <-- 11ish minm nice music, talks about haunting  
-[2004 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr3.mp3)  <-- 2ish min about blood and vampires, 8ishmin werewolf mythology mainly shapeshifting, 11:15ish sanguinarians , 25min Vlad The Impaler real history, vampire culture
+[2004 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr3.mp3)  <-- 2ish min about blood and vampires, 8ishmin werewolf mythology mainly shapeshifting, 11:15ish sanguinarians , 25min Vlad The Impaler real history, vampire culture  
 
-[2005 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102805_hr1.mp3)  <-- 10ish min talk about Halloween theme vs Exorcist tubular bells, ebert n roper give 1 middle finger up, 36:00 hilarious convo
-[2005 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102805_hr2.mp3)  <-- 2min sanguinarians, 7min goth vamps, 12min AWESOME MUSIC, 17 funny talk, 22min Buffy The Vampire Slayer responsible, 32:50 breakdancing lol
-[2005 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102805_hr3.mp3)  
+[2005 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102805_hr1.mp3)  <-- 10ish min talk about Halloween theme vs Exorcist tubular bells, ebert n roper give 1 middle finger up, 36:00 hilarious convo  
+[2005 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102805_hr2.mp3)  <-- 2min sanguinarians, 7min goth vamps, 12min AWESOME MUSIC, 17 funny talk, 22min Buffy The Vampire Slayer responsible, 32:50 breakdancing lol  
+[2005 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102805_hr3.mp3)  <-- Freddy intro, 8min succubus caught on EVP, 
 
 [2006 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr1.mp3)  <-- ending talks about flying witches in Mexico attacking police (28:20=nice music)   
 [2006 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr2.mp3)  <-- talks about real-life vampires  
