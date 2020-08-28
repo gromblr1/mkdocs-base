@@ -12,6 +12,7 @@
 [Propaganda techniques](https://en.wikipedia.org/wiki/Propaganda_techniques)  
 [Tradecraft](https://en.wikipedia.org/wiki/Tradecraft)  <--excellent list of espionage activities  
 [Damnatio memoriae](https://en.wikipedia.org/wiki/Damnatio_memoriae)  
+<img src="https://youtube.com/favicon.ico">[The Politics of Demolition Man](https://www.youtube.com/watch?v=DrUNIX2Iv04)  ((youtube.com))
 
 #espionage
 [Language of Espionage](https://www.spymuseum.org/education-programs/spy-resources/language-of-espionage/)  
@@ -20,6 +21,15 @@
 #semi-political
 [Culutural Silos](https://evenifiwalkalone.com/2010/08/cultural-silos/)  Ref: [IndieWeb:silo](https://indieweb.org/silo)  
 [Antisemetic canard](https://en.wikipedia.org/wiki/Antisemitic_canard)  
+
+# Historical 
+[Black Codes (United States)](https://en.wikipedia.org/wiki/Black_Codes_(United_States))  <-- laws governing the conduct of African Americans (free blacks)  
+
+
+#Conspiratorial related
+<img src="https://youtube.com/favicon.ico">[Jim Willie - Why He Left the USA (July 2020)](https://www.youtube.com/watch?v=eW9MeGl5xOs)  
+<img src="https://youtube.com/favicon.ico">[ALEX JONES: INFOWARS - HOW TO SURVIVE BEING BANNED ON SOCIAL MEDIA & OUR NEW COVID-19 WORLD REALITY](https://www.youtube.com/watch?v=vOIVslJHIZA)  
+[The Secret Space Program and Breakaway Civilization (Richard Dolan Lecture Series) (Volume 1) First Edition](https://www.amazon.com/Program-Breakaway-Civilization-Richard-Lecture/dp/1537132555)  
 
 #humorous
 [Ribaldry](https://en.wikipedia.org/wiki/Ribaldry)  
