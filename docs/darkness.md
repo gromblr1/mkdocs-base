@@ -5,9 +5,11 @@ Transhumanism: To live forever without God.
 [What is the Illuminati?](https://www.henrymakow.com/001260.html) ((henrymakow.com))  
 [Albert Pike: “We Control Islam and We’ll Use It to Destroy the West”](https://voiceofpeopletoday.com/albert-pike-we-control-islam-and-well-use-it-to-destroy-the-west-2/) ((voiceofpeopletoday.com))   
 [ROCKEFELLER FRIEND AARON RUSSO LAYS OUT THE PLAN OF NWO IN 10 MINUTES](https://www.bitchute.com/video/vPfbyJwzjiJW/)   ((bitchute.com)) ([full vid](https://www.bitchute.com/video/yoJSKNDIb91f/))   
-[Order of the Eastern Star](https://en.wikipedia.org/wiki/Order_of_the_Eastern_Star)  
 [Donald Drumpf – Illuminati Jew](https://weliveinamadworld.com/donald-drumpf-illuminati-jew/)  ((weliveinamadworld.com))    
 [A SACRED ASSEMBLY OF MEN  ](https://watch.pairsite.com/asa2.html)  ((watch.pairsite.com))  <-- Luceriferian initiation, Hitler, philosophy of Death
+[Order of the Eastern Star](https://en.wikipedia.org/wiki/Order_of_the_Eastern_Star)  
+[The African Dogon Tribe and the Sirius B Prophecy](http://www.nativeamericanprophecy.com/prophecy-dogon-sirius-b.htm) ((nativeamericanprophecy.com))  
+[The Mysterious Connection Between Sirius and Human History](https://vigilantcitizen.com/hidden-knowledge/connection-between-sirius-and-human-history/)  
 
 ## AI, DWAVE, CERN
 [SHIVA, APOLLYON AND CERN; THE DESTROYERS](https://hiskingdomathand.com/2019/03/shiva-appolyion-and-cern/)  ((hiskingdomathand.com))  
@@ -23,6 +25,8 @@ Transhumanism: To live forever without God.
 📷[Silicon Chips with demonic sigils](https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/95561772_10223274096346673_3245115707892957184_n.jpg?_nc_cat=109&_nc_sid=ca434c&_nc_ohc=MeeePcYhofQAX-2ykNA&_nc_ht=scontent.fphx1-1.fna&oh=49e758f411ff3a8c7cd7aecd6de90104&oe=5ED4AF87) ((fb cdn))  
 
 ## Black Cube(Black Sun), Saturn, Moloch
+[Saturn, Satan, and 666](http://www.atlanteanconspiracy.com/2008/07/saturn-satan-and-666.html) ((atlanteanconspiracy.com))  
+[Schools, Courts, Churches, and the Cult of Saturn](https://www.bibliotecapleyades.net/sociopolitica/atlantean_conspiracy/atlantean_conspiracy37.htm) ((bibliotecapleyades.net))  
 [ConCERNed With Saturn](http://babylonrisingblog.com/CERN.html)  
 [The Elite Rulers & Saturn Worship](https://truth-zone.net/forum/twilight-zone/71335-the-elite-rulers-saturn-worship.html) ((truth-zone.net))  
 [(SATURN WORSHIP)THE BLACK CUBE](https://www.nicholson1968.com/nicholson1968s-post/saturn-worshipthe-black-cube) ((nicholson1968.com))  
@@ -46,9 +50,11 @@ Related:[Satanists vs Setians At The Presidio #p3d0gate](https://steemit.com/piz
 [NIMROD, MARS AND THE MARDUK CONNECTION](http://www.ldolphin.org/Nimrod.html)  ((ldolphin.org))   
 [Nimrod, Lucifer and the Antichrist](https://promusement.live/2016/07/18/nimrod-lucifer-and-the-antichrist/)  ((promusement.live))  
 [NIMRODS TOMB FOUND: CLONING OF NIMROD AND OSIRIS UNDERWAY](https://www.auricmedia.net/nimrods-tomb-found-cloning-of-nimrod-and-osiris-underway/)  ((auricmedia.net))  
+[The Council on Foreign Relations: Theories and Controversy](https://soapboxie.com/government/What-Is-The-Council-Of-Foreign-Relations) ((soapboxie.com))   
 [Monolith (Space Odyssey)](https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey))  
  
 ### Z10nizm
+[The Sabbatean-Frankist Cult — The Satanic Infiltration of the Western World](https://stillnessinthestorm.com/2017/05/the-sabbatean-frankist-cult-the-satanic-infiltration-of-the-western-world/) ((stillnessinthestorm.com))   
 [Sabbatean-Frankism as the Paradigm of the Modern Left](https://www.winterwatch.net/2019/02/sabbatean-frankism-as-the-paradigm-of-the-modern-left/) ((winterwatch.net))  
 [The Influence of Sabbatean Frankism on the World](https://www.winterwatch.net/2017/07/the-influence-of-sabbatian-frankism-on-the-world/) ((winterwatch.net))  
 [The Protocols of the Elders of Zion](https://www.bitchute.com/video/7Lqa2axvaaab/)  ((bitchute.com))  
@@ -66,6 +72,7 @@ Related: [The Camp of the Saints](https://en.wikipedia.org/wiki/The_Camp_of_the_
 Related: [The Hidden Jxwish Hand in the Destruction of White South Africa](https://christiansfortruth.com/the-hidden-jewish-hand-in-the-destruction-of-white-south-africa/)  
 Related: [Isaac Luria: Father of the contemprary Kabbalah](https://en.wikipedia.org/wiki/Isaac_Luria)  
 Related: [Blood libel](https://en.wikipedia.org/wiki/Blood_libel)  
+Related: [The Protocols of the Elders of Zion](https://en.wikipedia.org/wiki/The_Protocols_of_the_Elders_of_Zion)  
 [Anti-Semitism - Anti-Semitism in medieval Europe](https://www.britannica.com/topic/anti-Semitism/Anti-Semitism-in-medieval-Europe)  ((britannica.com))   
 [Cainite.net (tons of Zionist news)](http://www.cainite.net/)  
 [NETFLIX FOUNDER/CEO A DESCENDANT OF FREUD & BERNAYS](https://www.bitchute.com/video/rRQgXmLZ0WA/)  ((bitchute.com))  
@@ -97,6 +104,7 @@ Related: [Dead Microbiologists](https://rense.com/general96/deadmicro.html)  ((r
 📷[Twymans FB msgs to the FBI](https://wikispooks.com/w/images/0/05/Tracy_Twyman%27s_chat_which_mentions_her_dead_man%27s_switch_video_and_the_creepy_campground.png) ((wikispooks.com))  
 Related: [Another #P3doGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/)  
 Related: [King Dagobert II Mascot of the OLE](https://www.bibliotecapleyades.net/merovingians/merovingios_09a.htm) ((bibliotecapleyades.net))  
+Related: [The Franks](http://redqueenwhitequeen.com/articles/franks.shtml) ((redqueenwhitequeen.com))  
 
 [Secret P3d0 Playground Discovered. Alefantis threatens mother & girlfriend in writing. Screenshots of chat.](https://steemit.com/pizzagate/@gizmosia/james-alefantis-threatens-kill-room-finder-breaking-news)  
 <img src="https://youtube.com/favicon.ico">[#PIZZAGATE - KILL ROOM FOUND! Pegasus Museum owned by Alefantis (REUPLOAD](https://www.youtube.com/watch?v=5gycqi6XjhU)  
