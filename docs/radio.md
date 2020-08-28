@@ -5,9 +5,9 @@
 [Steiger](https://rense.com/steiger/steigerA.htm)  ((rense.com))  
 
 # Rense Hallowen broadcasts
-[2004 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr1.mp3)  <-- 16:30 "wait a minute, gotta have a little music",
-[2004 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr2.mp3)  
-[2004 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr3.mp3)  
+[2004 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr1.mp3)  <-- 16:30 "wait a minute, gotta have a little music", talks about haunting  
+[2004 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr2.mp3)  <-- 11ish minm nice music, talks about haunting  
+[2004 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102904_hr3.mp3)  <-- 2ish min about blood and vampires, 8ishmin werewolf mythology mainly shapeshifting, 11:15ish sanguinarians , 25min Vlad The Impaler real history, 
 
 [2005 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102805_hr1.mp3)  
 [2005 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102805_hr2.mp3)  
