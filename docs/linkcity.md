@@ -43,7 +43,11 @@
 [Djinn](https://occult-world.com/djinn/)  ((occult-world.com))  
 [Pinterest mythical manuscript art](https://www.pinterest.com/pin/56928382781628633/)  
 [Ancient manuscript art](https://www.diabloii.net/forums/threads/the-vizjereic-key-of-horazon-art-collaboration.813233/)  
-[Navajo Ranger Jonathan Dover (04-16-19) Skinwalkers, UFOs, Bigfoot & Paranormal Exploits](https://www.youtube.com/watch?v=oMhIaLvlw1E)  ((youtube.com))  
+[Navajo Ranger Jonathan Dover (04-16-19) Skinwalkers, UFOs, Bigfoot & Paranormal Exploits](https://www.youtube.com/watch?v=oMhIaLvlw1E)  ((youtube.com)) 
+
+### Werewolves,dogman, cynocephali
+[5 Historical Accounts of Werewolves // Herodotus, Beast of Gevaudan + more // Primary Sources](https://www.youtube.com/watch?v=9oQlsa3xdH8)       ((youtube.com))  
+[The Dog-Headed Tribe of Greek Legend](https://www.youtube.com/watch?v=8S3jkwoN6Kk)    ((youtube.com))  
 
 # Oldschool shiz
 [M_VEGETA_86](http://www.oocities.org/m_vegeta_86/)  
