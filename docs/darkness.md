@@ -56,6 +56,7 @@ Related:[Satanists vs Setians At The Presidio #p3d0gate](https://steemit.com/piz
 [TALMUD QUOTES RELATED TO HATE AND SUPERIORITY OVER AND INEQUALITY VERSUS NON-JXWS](https://concisepolitics.com/2018/07/03/talmud-quotes-related-to-hate-and-superiority-over-and-inequality-versus-non-jews/)  
 [Smoloko](http://www.chuckmaultsby.net/id59.html)  ((chuckmaultsby.net))   
 [Explusions of Jxws from Spain](https://en.wikipedia.org/wiki/Expulsion_of_Jews_from_Spain)  
+[Edict of Expulsion](https://en.wikipedia.org/wiki/Edict_of_Expulsion)  
 [The Jxwish Hand... behind the internet](https://www.bibliotecapleyades.net/sociopolitica/sociopol_internet84.htm)  ((bibliotecapleyades.net))  
 [The Great Replacement](https://en.wikipedia.org/wiki/Great_Replacement)  
 Related: [The Camp of the Saints](https://en.wikipedia.org/wiki/The_Camp_of_the_Saints)  <-- destruction of West via 3rd world mass immigration circa 1973
@@ -71,13 +72,15 @@ Related: [Blood libel](https://en.wikipedia.org/wiki/Blood_libel)
 <img src="https://youtube.com/favicon.ico">[LISTEN TO WHAT THIS MAN WAS SAYING IN 2014!](https://www.youtube.com/watch?v=nk33GlYxY14) ((youtube.com))  <-- Anthony Patch on the coronavirus and nanotech inside vaccines  
 <img src="https://youtube.com/favicon.ico">[Former FEMA Officer Explains Wave II Hard Lockdown](https://www.youtube.com/watch?v=jt9ExjwOeik) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Urgent information on Covid Vacc!ne](https://www.youtube.com/watch?v=PbJq2KfgOEs) ((youtube.com))  
-[LUCIFERASE - BILL GATES QUANTUM DOT MICRONEEDLE VACCINE TO ALTER YOUR DNA](https://www.bitchute.com/video/XSvEKJKAUiBD/) ((youtube.com))   
+[LUCIFERASE - BILL GATES QUANTUM DOT MICRONEEDLE VACCINE TO ALTER YOUR DNA](https://www.bitchute.com/video/XSvEKJKAUiBD/) ((bitchute.com))   
 Related: [Bill Gates’ Quantum Dot Digital Tattoo Implant to Track COVID-19 Vaccine Compliance](https://savedmag.com/bill-gates-quantum-dot-digital-tattoo-implant-to-track-covid-19-vaccine-compliance/)  ((savedmag.com))  
 Related: [World Shocked By Bill Gates Statements On COVID-19 Vaccine](https://banned.video/watch?id=5f234e5f68370e02f2a61cec)  ((banned.video))  
 Related: [Bill Gates vaccilates on side effectsw/CBS news](https://twitter.com/LegendaryEnergy/status/1287509508206391296?s=20)  ((twitter.com))   
 ###Other 
+[Designer Marks of the Beast](https://watch.pairsite.com/stuph.html)  ((watch.pairsite.com))   
 [Mark of the Beast chip patent by Microsoft](https://www.christianforums.com/threads/mark-of-the-beast-chip-patent-by-microsoft.8157511/)  ((christianforums.com))   
 [How To Refuse Mandated Vaccinations,Get Ready To Say NO!](https://newtube.app/user/ClickHere/HgOtpah)  ((youtube.com))  
+Related: [Dead Microbiologists](https://rense.com/general96/deadmicro.html)  ((rense.com))  
 
 ## P3d0 Elites
 <img src="https://youtube.com/favicon.ico">[Hollywood P3d0phile Ring Is Going Down](https://www.youtube.com/watch?v=M3rAzIAw5KE&feature=youtu.be) ((youtube.com))  
@@ -90,11 +93,16 @@ Related: [Another #P3doGate Researcher Suddenly Dies: RIP Tracy Twyman](https://
 [Secret P3d0 Playground Discovered. Alefantis threatens mother & girlfriend in writing. Screenshots of chat.](https://steemit.com/pizzagate/@gizmosia/james-alefantis-threatens-kill-room-finder-breaking-news)  
 <img src="https://youtube.com/favicon.ico">[#PIZZAGATE - KILL ROOM FOUND! Pegasus Museum owned by Alefantis (REUPLOAD](https://www.youtube.com/watch?v=5gycqi6XjhU)  
 
+[De-Occulting Tom Hanks: Deep State Hollywood Operative, High Priest, or Both?](https://thephoenixenigma.com/de-occulting-tom-hanks-deep-state-hollywood-operative-high-priest-or-both/)  
 📷[Celebrity p3dos](https://uploads.disquscdn.com/images/579be7e251f8644843bd5819462bf6403fe73888a7ed4f095961608f5be22f80.jpg) ((disqus cdn))  
 <img src="https://youtube.com/favicon.ico">[Exposing P3d0 Content on Instagram - Conspiracy Castle LIVE](https://www.youtube.com/watch?v=cWcXqhdvdF8)  ((youtube.com))  
 Related:[Reddit: I find it very strange that Greece has had this law since 2012. Now Tom Hanks is a citizen of Greece. It’s a little strange that in the midst of all of this that he now decided to up and move his whole life to a country that can protect him. #pizzagate is LIVE.](https://www.reddit.com/r/conspiracy/comments/hz6jom/i_find_it_very_strange_that_greece_has_had_this/)  
 
 [4CHAN STORY - X - WORKING FOR EPSTEIN (removed from Youtube)](https://www.bitchute.com/video/mMrRggTAGG10/)  
+
+###Other
+<img src="https://youtube.com/favicon.ico">[Isaac Kappy - Brackets and Jackets (2020)](https://www.youtube.com/watch?v=ptooTltXBUI) ((youtube.com))   
+[Isaac Kappy Mind Map](https://my.visme.co/projects/vdj80rxp-isaac-kappy-mind-map) ((my.visme.co))  
 
 ##Jesuits
 [FAMOUS QUOTES ABOUT THE JESUIT ORDER](https://comingworldwar3.wordpress.com/2010/05/01/famous-quotes-about-the-jesuit-order/) ((comingworldwar3.wordpress.com))  
@@ -103,12 +111,14 @@ Related:[Reddit: I find it very strange that Greece has had this law since 2012.
 ### CIA
 [The Finders- deep child abuse group/cult](https://www.reddit.com/r/UnresolvedMysteries/comments/27lqws/the_finders_deep_child_abuse_groupcult/) ((reddit.com))  
 📷[The finders](https://pbs.twimg.com/media/EH7qAXqWwAAsBJa.jpg) ((pbs.twimg.com))  
+[Finders TPD docs](https://imgur.com/a/l77zA)  ((imgur.com))   
 
 # Skinwalkers
 [Native American Southwest Witchcraft](http://nativeamericansouthwest.blogspot.com/) ((nativeamericansouthwest.blogspot.com))  
 [Skinwalker Ranch & the 1878 Navajo Witch Purge](https://historicalparanormal.home.blog/2019/05/05/skinwalker-ranch-the-1878-navajo-witch-purge/) ((historicalparanormal.home.blog))  
 [Navajo Skinwalkers – Witches of the Southwest](https://www.legendsofamerica.com/navajo-skinwalkers/2/) ((legendsofamerica.com))  
 [Skinwalkers](http://www.weirdus.com/states/arizona/fabled_people_and_places/skinwalkers/index.php) ((weirdus.com))  
+[How to become a skinwalker](http://www.skinwalkerranch.org/forum/index.php?topic=868.0)  ((skinwalkerranch.org))  
 
 # Gargoyles
 [The Christian history of the Gargoyle](http://www.daimonologia.org/2017/11/the-christian-history-of-gargoyle.html) ((daimonologia.org))  
@@ -122,6 +132,8 @@ Related:[Reddit: I find it very strange that Greece has had this law since 2012.
 # Other
 [Tepaphone – The Magickal Death Ray](https://josephmax.wordpress.com/2010/09/05/tepaphone-the-magickal-death-ray/) ((josephmax.wordpress.com))  
 [Ordo Lapsit Exillis](https://www.bibliotecapleyades.net/merovingians/merovingios_11.htm) ((bibliotecapleyades.net))  <-- secret society dedicated to guarding an alleged jewel that fell from Lucifer's crown during the war in heaven
+[You think Wayfair was bad?](https://www.facebook.com/permalink.php?story_fbid=1135067450193456&id=100010706345667&comment_id=203993007664735&reply_comment_id=587706788607491&notif_id=1594886737954234&notif_t=comment_mention)  
+[Mind Control Black Assassins](https://mindcontrolblackassassins.com/) ((mindcontrolblackassassins.com))  <-- black ppl waking up
 
 ### Other OTHER
 [Hermes Trismegistus](https://en.wikipedia.org/wiki/Hermes_Trismegistus)  
