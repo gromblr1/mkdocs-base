@@ -17,6 +17,7 @@ Transhumanism: To live forever without God.
 📷[Silicon Chips with demonic sigils](https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/95561772_10223274096346673_3245115707892957184_n.jpg?_nc_cat=109&_nc_sid=ca434c&_nc_ohc=MeeePcYhofQAX-2ykNA&_nc_ht=scontent.fphx1-1.fna&oh=49e758f411ff3a8c7cd7aecd6de90104&oe=5ED4AF87) ((fb cdn))  
 
 ## Black Cube(Black Sun), Saturn, Moloch
+[ConCERNed With Saturn](http://babylonrisingblog.com/CERN.html)  
 [The Elite Rulers & Saturn Worship](https://truth-zone.net/forum/twilight-zone/71335-the-elite-rulers-saturn-worship.html) ((truth-zone.net))  
 [(SATURN WORSHIP)THE BLACK CUBE](https://www.nicholson1968.com/nicholson1968s-post/saturn-worshipthe-black-cube) ((nicholson1968.com))  
 [Saturn--Satan worship, Black Cube, Freemasons, Jews and the 4th dimension](https://www.reddit.com/r/conspiracy/comments/8ix0s8/saturnsatan_worship_black_cube_freemasons_jews/) ((reddit.com))  
@@ -24,17 +25,19 @@ Transhumanism: To live forever without God.
 [Saturn, Black Cube and Judgement Day](https://wonderinspirit.wordpress.com/2011/02/28/saturn-black-cube-and-judgement-day/) ((wonderinspirit.wordpress.com))  
 [Saturn And The Occult](http://yahuahreigns.com/saturn%20and%20the%20occult.html) ((yahuahreigns.com))  
 [Saturn Worship – The Black Cube of Cronus](https://zeteticzen.wordpress.com/2016/12/10/saturn-worship-the-black-cube-of-cronus/) ((zeteticzen.wordpress.com))  
+
 [A Nightmare on Elm Street: The Occult and Illuminati Analysis](https://illuminatiwatcher.com/nightmare-on-elm-street-the-occult-and-illuminati-analysis/) ((illuminatiwatcher.com))  
 
 [The Truth About Satanic Cults](https://www.goodfight.org/articles/cults-occult/truth-satanic-cults/) ((goodfight.org))  
 [Michael Aquino’s Last Desperate Attempt to Silence his Victims](https://fionabarnett.org/2018/09/04/michael-aquinos-last-desperate-attempt-to-silence-his-victims/) ((fionabarnett.org))  < -- high-level CIA satanist  
+Related:[Satanists vs Setians At The Presidio #p3d0gate](https://steemit.com/pizzagate/@kingzos/satanists-vs-setians-at-the-presidio-pedogate)  
 
 [Black Sun celeb doorknob rituals](https://prepareforchange.net/2020/07/22/the-doorknob-sacrifices-a-black-sun-ritual-12-celebrity-suicides-related-to-pedophilia-cover-up/) ((prepareforchange.net))  
  Related: [The Epstein-Funded CP Hub MIT Media Lab That Mxrdered Aaron Swartz](https://rense.com/general96/the-epstein-funded-child-porn-hub-mit-media-lab-that-murdered-aaron-swartz.php) ((rense.com))    
  
 ### Other
 [NIMROD, MARS AND THE MARDUK CONNECTION](http://www.ldolphin.org/Nimrod.html)  ((ldolphin.org))   
-
+[Monolith (Space Odyssey)](https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey))  
  
 ##Freemsons $ NWO
 [Albert Pike: “We Control Islam and We’ll Use It to Destroy the West”](https://voiceofpeopletoday.com/albert-pike-we-control-islam-and-well-use-it-to-destroy-the-west-2/) ((voiceofpeopletoday.com))   
@@ -47,11 +50,12 @@ Transhumanism: To live forever without God.
 ["WHAT THE JXWS SAY ABOUT KILLING WHTE PEOPLE" (THE TALMUD!)](https://www.bitchute.com/video/n1E0uBKsJGG7/)  ((bitchute.com))   
 [TALMUD QUOTES RELATED TO HATE AND SUPERIORITY OVER AND INEQUALITY VERSUS NON-JXWS](https://concisepolitics.com/2018/07/03/talmud-quotes-related-to-hate-and-superiority-over-and-inequality-versus-non-jews/)  
 [Smoloko](http://www.chuckmaultsby.net/id59.html)  ((chuckmaultsby.net))   
+[Explusions of Jxws from Spain](https://en.wikipedia.org/wiki/Expulsion_of_Jews_from_Spain)  
 [The Jxwish Hand... behind the internet](https://www.bibliotecapleyades.net/sociopolitica/sociopol_internet84.htm)  ((bibliotecapleyades.net))  
 [The Great Replacement](https://en.wikipedia.org/wiki/Great_Replacement)  
 Related: [The Camp of the Saints](https://en.wikipedia.org/wiki/The_Camp_of_the_Saints)  <-- destruction of West via 3rd world mass immigration circa 1973
 Related: [The Hidden Jxwish Hand in the Destruction of White South Africa](https://christiansfortruth.com/the-hidden-jewish-hand-in-the-destruction-of-white-south-africa/)  
-
+Related: [Isaac Luria: Father of the contemprary Kabbalah](https://en.wikipedia.org/wiki/Isaac_Luria)  
 # Brother Nathanael Videos
 [Brovids.com](http://brovids.com/) <-- a converted J3w to Christian who tells truth about world J3wry
 
@@ -59,7 +63,7 @@ Related: [The Hidden Jxwish Hand in the Destruction of White South Africa](https
 <img src="https://youtube.com/favicon.ico">[LISTEN TO WHAT THIS MAN WAS SAYING IN 2014!](https://www.youtube.com/watch?v=nk33GlYxY14) ((youtube.com))  <-- Anthony Patch on the coronavirus and nanotech inside vaccines  
 <img src="https://youtube.com/favicon.ico">[Former FEMA Officer Explains Wave II Hard Lockdown](https://www.youtube.com/watch?v=jt9ExjwOeik) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Urgent information on Covid Vacc!ne](https://www.youtube.com/watch?v=PbJq2KfgOEs) ((youtube.com))  
-<img src="https://youtube.com/favicon.ico">[LUCIFERASE - BILL GATES QUANTUM DOT MICRONEEDLE VACCINE TO ALTER YOUR DNA](https://www.bitchute.com/video/XSvEKJKAUiBD/) ((youtube.com))   
+[LUCIFERASE - BILL GATES QUANTUM DOT MICRONEEDLE VACCINE TO ALTER YOUR DNA](https://www.bitchute.com/video/XSvEKJKAUiBD/) ((youtube.com))   
 Related: [Bill Gates’ Quantum Dot Digital Tattoo Implant to Track COVID-19 Vaccine Compliance](https://savedmag.com/bill-gates-quantum-dot-digital-tattoo-implant-to-track-covid-19-vaccine-compliance/)  ((savedmag.com))  
 Related: [World Shocked By Bill Gates Statements On COVID-19 Vaccine](https://banned.video/watch?id=5f234e5f68370e02f2a61cec)  ((banned.video))  
 ###Other 
@@ -71,10 +75,11 @@ Related: [World Shocked By Bill Gates Statements On COVID-19 Vaccine](https://ba
 [ANOTHER P3D0GATE RESEARCHER DEAD](https://archive.4plebs.org/pol/thread/219192491/) ((archive.4plebs.org))  <-- long Tracy Tyman discussion  
 <img src="https://youtube.com/favicon.ico">[Tracy Twyman, Isaac Kappy and the Creepy Campground](https://www.youtube.com/watch?v=EMS0uuQVbBs) ((youtube.com)) < Twymans last video 
 📷[Twymans FB msgs to the FBI](https://wikispooks.com/w/images/0/05/Tracy_Twyman%27s_chat_which_mentions_her_dead_man%27s_switch_video_and_the_creepy_campground.png) ((wikispooks.com))  
+Related: [Another #P3doGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/)  
 
-
-📷[Celebrity p3dos](https://uploads.disquscdn.com/images/579be7e251f8644843bd5819462bf6403fe73888a7ed4f095961608f5be22f80.jpg) ((disqus cdn))
-
+📷[Celebrity p3dos](https://uploads.disquscdn.com/images/579be7e251f8644843bd5819462bf6403fe73888a7ed4f095961608f5be22f80.jpg) ((disqus cdn))  
+<img src="https://youtube.com/favicon.ico">[Exposing P3d0 Content on Instagram - Conspiracy Castle LIVE](https://www.youtube.com/watch?v=cWcXqhdvdF8)  ((youtube.com))  
+Related:[Reddit: I find it very strange that Greece has had this law since 2012. Now Tom Hanks is a citizen of Greece. It’s a little strange that in the midst of all of this that he now decided to up and move his whole life to a country that can protect him. #pizzagate is LIVE.](https://www.reddit.com/r/conspiracy/comments/hz6jom/i_find_it_very_strange_that_greece_has_had_this/)  
 ##Jesuits
 [FAMOUS QUOTES ABOUT THE JESUIT ORDER](https://comingworldwar3.wordpress.com/2010/05/01/famous-quotes-about-the-jesuit-order/) ((comingworldwar3.wordpress.com))  
 
@@ -101,5 +106,7 @@ Related: [World Shocked By Bill Gates Statements On COVID-19 Vaccine](https://ba
 [Tepaphone – The Magickal Death Ray](https://josephmax.wordpress.com/2010/09/05/tepaphone-the-magickal-death-ray/) ((josephmax.wordpress.com))  
 [Ordo Lapsit Exillis](https://www.bibliotecapleyades.net/merovingians/merovingios_11.htm) ((bibliotecapleyades.net))  <-- secret society dedicated to guarding an alleged jewel that fell from Lucifer's crown during the war in heaven
 
+### Other OTHER
+[Hermes Trismegistus](https://en.wikipedia.org/wiki/Hermes_Trismegistus)  
 [Witch of Endor](https://en.wikipedia.org/wiki/Witch_of_Endor)  
 Proverbs 3:5-6 Trust in the Lord with all thine heart; and lean not unto thine own understanding.
