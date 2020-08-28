@@ -58,6 +58,7 @@
 [Thedonald.win](https://thedonald.win)  
 [MetaFilter](https://www.metafilter.com/)  
 [Stammtisch](https://stammtisch.tupambae.org/community)  
+[Tiblar](https://tiblar.com/)  
 
 ###Other
 [Postmill.xyz](https://postmill.xyz/)  
@@ -136,6 +137,7 @@ notes |  |  |  |
 
 ## Other
 [TOP 8 FREE SPEECH HOSTING PROVIDERS](https://hexd.com/free-speech-hosting/)  ((hexd.com))  
+[Hostry](https://hostry.com/)  
 <hr>  
 # ALTERNATIVE to Youtube
 [Bitchute](https://www.bitchute.com)  
