@@ -32,7 +32,7 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLISTID
 [Reddit: RSS](https://www.reddit.com/r/rss/)  
 [Softpedia news/blog tools](https://www.softpedia.com/get/Internet/News-Newsgroups-Blog-Tools/?utm_source=spd&utm_campaign=postdl_redir)  
 [OPML Icons](http://www.opmlicons.com/)  
-[Blogtrottr](https://blogtrottr.com/)  <-- hasn't worked for me tbh  
+[Blogtrottr](https://blogtrottr.com/)  
 
 #[Web syndication](https://en.wikipedia.org/wiki/Web_syndication#External_links)
 <img src="https://i.paste.pics/9QL3D.png">
