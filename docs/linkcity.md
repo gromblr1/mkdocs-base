@@ -21,15 +21,18 @@
 [Locoloader](https://www.locoloader.com/)   <-- tool used for downloading bandcamp mp3's
 [Youtube playlist backup to excel spreadsheets](http://www.williamsportwebdeveloper.com/FavBackUp.aspx)  
 [Pandoc: a universal document converter](https://pandoc.org/)  
+[Wat Zat Song: Find the name of your songs](https://www.watzatsong.com/en)  <-- Midomi.com & Lyrster.com as well  
 [Reddit: Self-Hosted alternatives to popular services](https://www.reddit.com/r/selfhosted/)  
 [FreedomBone](https://freedombone.net/)  
 [Dark Patterns](https://darkpatterns.org/index.html)  
 [KEL CHM Creator](https://dumah7.wordpress.com/2009/02/17/kel-chm-creator-v-1-4-0-0/)  
 [Tinc-VPN](https://tinc-vpn.org/)  
 [Snopyta.org](https://snopyta.org/)  
+[Youtube restriction checker](http://polsy.org.uk/stuff/ytrestrict.cgi)  <-- check which countries a video is restricted  
 
 ###Other 
 [Top 12 Best Free Video Editing Software for Windows](https://filmora.wondershare.com/video-editor/free-video-editing-software-windows.html)  
+
 
 #Platforms
 [StaticGen](https://www.staticgen.com/)  
@@ -58,7 +61,7 @@
 <img src="https://youtube.com/favicon.ico">[Navajo Ranger Jonathan Dover (04-16-19) Skinwalkers, UFOs, Bigfoot & Paranormal Exploits](https://www.youtube.com/watch?v=oMhIaLvlw1E)  ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Ghost Adventures S14E07 Skinwalker Canyon](https://www.youtube.com/watch?v=N6uSqUrL1TQ) ((youtube.com))  
 [Haunting Caught On Video](https://www.facebook.com/RealPrimePhilips/videos/1097531840279081)  <-- Philip Bugg Medeen
-
+<img src="https://youtube.com/favicon.ico">[What Happened to Elisa Lam?](https://www.youtube.com/watch?v=aI8uuFKJkwI)  ((youtube.com)) <-- girl who screwed up the elevator ritual  
 
 ###Other mysteriousity
 [Aliendave: utah UFO news](http://www.aliendave.com/)   ((aliendave.com))  
@@ -71,9 +74,6 @@
 [Supposed real-life werewolf comments](http://yourlupinelife.com/about-yll)  
 [Dogs in religion](https://en.wikipedia.org/wiki/Dogs_in_religion)  
 
-# Oldschool shiz
-[M_VEGETA_86](http://www.oocities.org/m_vegeta_86/)  
-
 #Other
 [Stupid pinterest shit that makes no sense](https://www.pinterest.com/pin/720646377854230737/)  
 [Stupid pinterest shit that makes no sense part 2](https://www.pinterest.com/pin/567523990544733132/)  
@@ -83,7 +83,9 @@
 <img src="https://youtube.com/favicon.ico">[COLORES | Hopi Prophecy | New Mexico PBS](https://www.youtube.com/watch?v=p1m0nLSOHi4)      ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Predator (1987) - Old Painless Is Waiting Scene (1/5) | Movieclips](https://www.youtube.com/watch?v=wgzxSr6l9Y4) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Transformers soundwave break dancing](https://www.youtube.com/watch?v=Af8s5XIgY_c) ((youtube.com))  
-[Trending in China: ‘rural-style shuffle dance', and more](https://www.youtube.com/watch?v=fIL3WMAmNEA) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Trending in China: ‘rural-style shuffle dance', and more](https://www.youtube.com/watch?v=fIL3WMAmNEA) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[OM Chanting @417 Hz | Removes All Negative Blocks](https://www.youtube.com/watch?v=8sYK7lm3UKg) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[OM Mantra with Theta binaural beats Sacred Chanting for Deep Meditation](https://www.youtube.com/watch?v=ID7dbvPb1ec) ((youtube.com))  
 [Zdzisław Beksiński - paintings I](https://sevasevol.blogspot.com/2012/02/zdzislaw-beksinski.html)  ((sevasevol.blogspot.com))  
 
 #Funny
@@ -122,3 +124,7 @@
 
 <img src="https://youtube.com/favicon.ico">[Free Speech =/= No Consequences | Response to ReviewTechUSA | The Verge PC Building Fail](https://www.youtube.com/watch?v=l45mOsSgeRc)  
 Related: [The Verge PC Build: The Aftermath of a Harassment Campaign](https://medium.com/p/5363ed3626b8/responses/show) ((medium.com))  
+
+# Oldschool shiz
+[M_VEGETA_86](http://www.oocities.org/m_vegeta_86/)  
+
