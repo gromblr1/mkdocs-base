@@ -52,7 +52,7 @@ Related:[Satanists vs Setians At The Presidio #p3d0gate](https://steemit.com/piz
 [NIMRODS TOMB FOUND: CLONING OF NIMROD AND OSIRIS UNDERWAY](https://www.auricmedia.net/nimrods-tomb-found-cloning-of-nimrod-and-osiris-underway/)  ((auricmedia.net))  
 [The Council on Foreign Relations: Theories and Controversy](https://soapboxie.com/government/What-Is-The-Council-Of-Foreign-Relations) ((soapboxie.com))   
 [Monolith (Space Odyssey)](https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey))  
- 
+ Related: [This is what Kubrick left us with, before his death.](https://www.reddit.com/r/conspiracy/comments/hrs9zp/this_is_what_kubrick_left_us_with_before_his_death/)  ((reddit.com))  
 ### Z10nizm
 [The Sabbatean-Frankist Cult — The Satanic Infiltration of the Western World](https://stillnessinthestorm.com/2017/05/the-sabbatean-frankist-cult-the-satanic-infiltration-of-the-western-world/) ((stillnessinthestorm.com))   
 [Sabbatean-Frankism as the Paradigm of the Modern Left](https://www.winterwatch.net/2019/02/sabbatean-frankism-as-the-paradigm-of-the-modern-left/) ((winterwatch.net))  
@@ -73,6 +73,7 @@ Related: [The Hidden Jxwish Hand in the Destruction of White South Africa](https
 Related: [Isaac Luria: Father of the contemprary Kabbalah](https://en.wikipedia.org/wiki/Isaac_Luria)  
 Related: [Blood libel](https://en.wikipedia.org/wiki/Blood_libel)  
 Related: [The Protocols of the Elders of Zion](https://en.wikipedia.org/wiki/The_Protocols_of_the_Elders_of_Zion)  
+Related: [Wandering Jew](https://en.wikipedia.org/wiki/Wandering_Jew)  <-- "concerns a Jew who taunted Jesus on the way to the Crucifixion and was then cursed to walk the earth until the Second Coming"
 [Anti-Semitism - Anti-Semitism in medieval Europe](https://www.britannica.com/topic/anti-Semitism/Anti-Semitism-in-medieval-Europe)  ((britannica.com))   
 [Cainite.net (tons of Zionist news)](http://www.cainite.net/)  
 [NETFLIX FOUNDER/CEO A DESCENDANT OF FREUD & BERNAYS](https://www.bitchute.com/video/rRQgXmLZ0WA/)  ((bitchute.com))  
@@ -94,6 +95,10 @@ Related: [Bill Gates vaccilates on side effectsw/CBS news](https://twitter.com/L
 [Mark of the Beast chip patent by Microsoft](https://www.christianforums.com/threads/mark-of-the-beast-chip-patent-by-microsoft.8157511/)  ((christianforums.com))   
 [How To Refuse Mandated Vaccinations,Get Ready To Say NO!](https://newtube.app/user/ClickHere/HgOtpah)  ((youtube.com))  
 Related: [Dead Microbiologists](https://rense.com/general96/deadmicro.html)  ((rense.com))  
+
+# COVID
+<img src="https://youtube.com/favicon.ico">[Urgent information on Covid Vacc!ne](https://www.youtube.com/watch?v=PbJq2KfgOEs) ((youtube.com))  <-- Vaccine Information on Covid19, nanotechnology, smart phone health apps, rDNA, rRNA, patenting GMO  
+<img src="https://youtube.com/favicon.ico">[US Begins To Implement WHO “Contact Tracing” To Forcibly Remove People From Their Homes!](https://www.youtube.com/watch?v=NuToCqoRVHM) ((youtube.com))   
 
 ## P3d0 Elites
 [Macaulay Culkin: Satanic Hollywood ElitesMurder Children During Rituals](https://johnbwellsnews.com/macaulay-culkin-satanic-hollywood-elites-murder-children-during-rituals/)  ((johnbwellsnews.com))  
@@ -129,6 +134,8 @@ Related:[Reddit: I find it very strange that Greece has had this law since 2012.
 📷[The finders](https://pbs.twimg.com/media/EH7qAXqWwAAsBJa.jpg) ((pbs.twimg.com))  
 [Finders TPD docs](https://imgur.com/a/l77zA)  ((imgur.com))   
 
+### Other
+[VEGAS SHOOTING, RARE FOOTAGE - MULTIPLE SHOOTERS. GUN FIRE FROM THE GROUND AND THE HOTEL!](https://www.bitchute.com/video/YyRJekwVKBQ9/)  ((bitchute.com))  
 # Skinwalkers
 [Native American Southwest Witchcraft](http://nativeamericansouthwest.blogspot.com/) ((nativeamericansouthwest.blogspot.com))  
 [Skinwalker Ranch & the 1878 Navajo Witch Purge](https://historicalparanormal.home.blog/2019/05/05/skinwalker-ranch-the-1878-navajo-witch-purge/) ((historicalparanormal.home.blog))  
@@ -153,7 +160,10 @@ Related:[Reddit: I find it very strange that Greece has had this law since 2012.
 
 ##Other darkness
 [Mind Control Black Assassins](https://mindcontrolblackassassins.com/) ((mindcontrolblackassassins.com))  <-- black ppl waking up
-[Organ Trafficking, Chicago, IT'S ALL RELATED](https://www.youtube.com/watch?v=mnsbLzVIaXk)  <-- response to the Kenneka Jenkins case
+<img src="https://youtube.com/favicon.ico">[Organ Trafficking, Chicago, IT'S ALL RELATED](https://www.youtube.com/watch?v=mnsbLzVIaXk)  <-- response to the Kenneka Jenkins case
+<img src="https://youtube.com/favicon.ico">Related: [The Video That Killed #ZackTV1](https://www.youtube.com/watch?v=2T-bnGHoCUk) ((youtube.com))  
+
+[Reddit: this belongs here. I am not a pizza gate fan, but thissss is fuel](https://www.reddit.com/r/conspiracy/comments/hd3ylc/this_belongs_here_i_am_not_a_pizza_gate_fan_but/) ((reddit.com))  <-- officers getting for holding other officers accountable  
 
 ### Other OTHER
 [Hermes Trismegistus](https://en.wikipedia.org/wiki/Hermes_Trismegistus)  
