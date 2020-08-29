@@ -11,8 +11,9 @@ nav:
     - Interesting concepts: intconcepts.md    
     - Book Info: bookinfo.md
     - Dance n Music: dusic.md    
-    - Gognauts: gognauts.md
-    - Blood Realm: bloodrealm.md
+    - Comics: comics.md
     - Archit. n Geology: archgeo.md
+    - Linguistics: ling.md    
     - Darkness: darkness.md
+    - Gognauts: gognauts.md    
 theme: readthedocs
