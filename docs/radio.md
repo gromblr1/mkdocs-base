@@ -15,9 +15,9 @@
 
 [2006 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr1.mp3)  <-- creepy narration intro, 5min funny convo, 25min jack parsons, 28min nice music, 32min hilarious "say hi jeff", 33:33 say something, ending talks about flying witches in Mexico attacking police   
 [2006 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr2.mp3)  <-- 4min Jersey Devil, 11:50 nice music & Nightmare on Elm Street tuns, 21min ace of spaces creature, 27:50 transition music,  29min talks about real-life vampires  
-[2006 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr3.mp3)  <--beg: vampires & diners, mid:  28:00min nice music,  
+[2006 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr3.mp3)  <--awesome dreamwave intro, 3min Near Dark 1987 talk,11min transiion music, 28:00min nice music,  30ish min contest
 
-[2007 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102607_hr1.mp3)  
+[2007 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102607_hr1.mp3)  <-- creepy narration intro, 
 [2007 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102607_hr2.mp3)  
 [2007 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102607_hr3.mp3)  
 
