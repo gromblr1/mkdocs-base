@@ -11,6 +11,9 @@ Transhumanism: To live forever without God.
 [The African Dogon Tribe and the Sirius B Prophecy](http://www.nativeamericanprophecy.com/prophecy-dogon-sirius-b.htm) ((nativeamericanprophecy.com))  
 [The Mysterious Connection Between Sirius and Human History](https://vigilantcitizen.com/hidden-knowledge/connection-between-sirius-and-human-history/)  
 
+###Other 
+[Reddit: Why is Hillary Clinton getting emails about sacrificing chickens to Moloch?](https://www.reddit.com/r/conspiracy/comments/g8w0by/why_is_hillary_clinton_getting_emails_about/) ((reddit.com))  
+
 ## AI, DWAVE, CERN
 [SHIVA, APOLLYON AND CERN; THE DESTROYERS](https://hiskingdomathand.com/2019/03/shiva-appolyion-and-cern/)  ((hiskingdomathand.com))  
 [The Truly Evil Side Of Quantum Computer Blockchain Artificial Intelligence](https://steemit.com/quantum/@bitcoindoubler/the-truly-evil-side-of-quantum-computer-blockchain-artificial-intelligence) ((steemit.com))  
@@ -44,7 +47,7 @@ Related:[Satanists vs Setians At The Presidio #p3d0gate](https://steemit.com/piz
 
 [14 Celebrities “Suicided” by Doorknob Hanging, Including a Rothschild and the Ex-Wife of a Rothschild](https://www.sgtreport.com/2019/08/14-celebrities-suicided-by-doorknob-hanging-including-a-rothschild-and-the-ex-wife-of-a-rothschild/)  ((sgtreport.com))  
 [Black Sun celeb doorknob rituals](https://prepareforchange.net/2020/07/22/the-doorknob-sacrifices-a-black-sun-ritual-12-celebrity-suicides-related-to-pedophilia-cover-up/) ((prepareforchange.net))  
- Related: [The Epstein-Funded CP Hub MIT Media Lab That Mxrdered Aaron Swartz](https://rense.com/general96/the-epstein-funded-child-porn-hub-mit-media-lab-that-murdered-aaron-swartz.php) ((rense.com))    (([mirror](http://themillenniumreport.com/2019/08/jeffrey-epstein-mit-media-lab-and-the-bizarre-suiciding-of-aaron-swartz/)))  
+ Related: [The Epstein-Funded CP Hub MIT Media Lab That Mxrdered Aaron Swartz](https://rense.com/general96/the-epstein-funded-child-porn-hub-mit-media-lab-that-murdered-aaron-swartz.php) ((rense.com))  (([older article](https://rense.com/general95/swartz.html)))  (([mirror](http://themillenniumreport.com/2019/08/jeffrey-epstein-mit-media-lab-and-the-bizarre-suiciding-of-aaron-swartz/)))  
  
 ### Other
 [NIMROD, MARS AND THE MARDUK CONNECTION](http://www.ldolphin.org/Nimrod.html)  ((ldolphin.org))   
@@ -60,7 +63,7 @@ Related:[Satanists vs Setians At The Presidio #p3d0gate](https://steemit.com/piz
 [The Protocols of the Elders of Zion](https://www.bitchute.com/video/7Lqa2axvaaab/)  ((bitchute.com))  
 [SATANIC TALMUD](https://www.bitchute.com/video/w3LAqDYxJnJD/)  ((bitchute.com))  
 ["WHAT THE JXWS SAY ABOUT KILLING WHTE PEOPLE" (THE TALMUD!)](https://www.bitchute.com/video/n1E0uBKsJGG7/)  ((bitchute.com))   
-[TALMUD QUOTES RELATED TO HATE AND SUPERIORITY OVER AND INEQUALITY VERSUS NON-JXWS](https://concisepolitics.com/2018/07/03/talmud-quotes-related-to-hate-and-superiority-over-and-inequality-versus-non-jews/)  
+[TALMUD QUOTES RELATED TO HATE AND SUPERIORITY OVER AND INEQUALITY VERSUS NON-JXWS](https://concisepolitics.com/2018/07/03/talmud-quotes-related-to-hate-and-superiority-over-and-inequality-versus-non-jews/)  ((concisepolitics.com))  
 [Smoloko](http://www.chuckmaultsby.net/id59.html)  ((chuckmaultsby.net))   
 [JEFFREY EPSTEIN: SABBATEAN FRANKIST COVER-UP?](https://forbiddenknowledgetv.net/jeffery-epstein-sabbatean-frankist-cover-up/) ((forbiddenknowledgetv.net))  
 
@@ -99,7 +102,7 @@ Related: [Dead Microbiologists](https://rense.com/general96/deadmicro.html)  ((r
 # COVID
 <img src="https://youtube.com/favicon.ico">[Urgent information on Covid Vacc!ne](https://www.youtube.com/watch?v=PbJq2KfgOEs) ((youtube.com))  <-- Vaccine Information on Covid19, nanotechnology, smart phone health apps, rDNA, rRNA, patenting GMO  
 <img src="https://youtube.com/favicon.ico">[US Begins To Implement WHO “Contact Tracing” To Forcibly Remove People From Their Homes!](https://www.youtube.com/watch?v=NuToCqoRVHM) ((youtube.com))   
-
+[WHY FACE MASKS DON’T WORK, ACCORDING TO SCIENCE](https://www.bitchute.com/video/BRrueVRhtw2M/) ((bitchute.com))  
 ## P3d0 Elites
 [Macaulay Culkin: Satanic Hollywood ElitesMurder Children During Rituals](https://johnbwellsnews.com/macaulay-culkin-satanic-hollywood-elites-murder-children-during-rituals/)  ((johnbwellsnews.com))  
 <img src="https://youtube.com/favicon.ico">[Hollywood P3d0phile Ring Is Going Down](https://www.youtube.com/watch?v=M3rAzIAw5KE&feature=youtu.be) ((youtube.com))  
