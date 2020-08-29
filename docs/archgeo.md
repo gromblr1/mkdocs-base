@@ -31,6 +31,26 @@
 [Map–territory relation](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)  
 [Wonders of the World](https://en.wikipedia.org/wiki/Wonders_of_the_World)  
 
+# Architecture
+[Glossary of architecture](https://en.wikipedia.org/wiki/Glossary_of_architecture)  
+[Category:Architectural elements](https://en.wikipedia.org/wiki/Category:Architectural_elements)  
+[Outline of architecture](https://en.wikipedia.org/wiki/Outline_of_architecture)  
+[Category:House styles](https://en.wikipedia.org/wiki/Category:House_styles)  
+[Glossary of Architectural Terms ](https://gimliheritage.ca/pdfs/Glossary%20of%20Architectural%20Terms.pdf)  ((gimliheritage.ca))  
+[Illustrated: Architectural terms for government buildings](https://www.classicist.org/workspace/pdf/Identification-and-Glossary-of-Terms.pdf) ((classicist.org))  
+[Illustrated: Glossary of Architectural Terms](https://www.strombergarchitectural.com/images/materials/glossary/stromberg-architectural-full-glossary.pdf)  ((strombergarchitectural.com))  
+[Illustrated Architecture Dictionary (EXTENSIVE)](https://buffaloah.com/a/DCTNRY/vocab.html)  ((buffaloah.com))  
+[Narthex](https://en.wikipedia.org/wiki/Narthex)  
+[Parvise](https://en.wikipedia.org/wiki/Parvise)  
+[Colonnade, Arcade and Loggia](https://www.house-design-coffee.com/colonnade.html)  ((house-design-coffee.com))  
+[Category:Types of wall](https://en.wikipedia.org/wiki/Category:Types_of_wall)  
+
+### Other
+[List of cave monasteries](https://en.wikipedia.org/wiki/List_of_cave_monasteries)  
+[Clapper bridge](https://en.wikipedia.org/wiki/Clapper_bridge)   
+[List of bridge types (PICTURES)](https://en.wikipedia.org/wiki/List_of_bridge_types)  
+
+
 # Composition breakdown
 ![composition](./img/comp1.png)  
 ![composition](./img/comp2.png)  
