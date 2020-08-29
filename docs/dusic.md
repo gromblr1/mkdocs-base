@@ -51,3 +51,6 @@
 
 ##Other
 [pae & sarah](https://www.youtube.com/watch?v=QDsDOlfz-QU)  
+
+#### Concepts relating to dance
+[What is Flavor?](https://www.youtube.com/watch?v=6hU5auBfN6I)  
