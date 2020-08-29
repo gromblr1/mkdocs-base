@@ -28,6 +28,9 @@
 [Tinc-VPN](https://tinc-vpn.org/)  
 [Snopyta.org](https://snopyta.org/)  
 
+###Other 
+[Top 12 Best Free Video Editing Software for Windows](https://filmora.wondershare.com/video-editor/free-video-editing-software-windows.html)  
+
 #Platforms
 [StaticGen](https://www.staticgen.com/)  
 [Pebble (java blogging tool)](http://pebble.sourceforge.net/)  
@@ -44,7 +47,6 @@
 [Los Hopi/The Hopi](https://www.bibliotecapleyades.net/esp_leyenda_hopi.htm)  ((bibliotecapleyades.net))  
 
 ### Other
-[Native American Lore: 2020 Prophecy](https://2020prophecy.wordpress.com/2014/10/02/native-american-lore-2/)  ((2020prophecy.wordpress.com))  
 [Red Haired Giants of Arizona](https://www.burlingtonnews.net/giants_arizona.html) ((burlingtonnews.net))  <-- Mary J Sutherland   
 
 #Spooks
@@ -57,8 +59,11 @@
 <img src="https://youtube.com/favicon.ico">[Ghost Adventures S14E07 Skinwalker Canyon](https://www.youtube.com/watch?v=N6uSqUrL1TQ) ((youtube.com))  
 [Haunting Caught On Video](https://www.facebook.com/RealPrimePhilips/videos/1097531840279081)  <-- Philip Bugg Medeen
 
-[Aliendave: utah UFO news](http://www.aliendave.com/)   
 
+###Other mysteriousity
+[Aliendave: utah UFO news](http://www.aliendave.com/)   ((aliendave.com))  
+[From the Roof of the World to the Land of Enchantment: The Tibet-Pueblo HOPI Connection](http://www.tibetanwildyakadventures.com/tibet_hopi_connection.htm) ((tibetanwildyakadventures.com))   
+[Native American Lore: 2020 Prophecy](https://2020prophecy.wordpress.com/2014/10/02/native-american-lore-2/)  ((2020prophecy.wordpress.com))  
 ### Werewolves,dogman, cynocephali
 <img src="https://youtube.com/favicon.ico">[Dog-Headed Men From History are Real: Cynocephali Sightings](https://www.youtube.com/watch?v=G2oSbMFNDCw)  ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[5 Historical Accounts of Werewolves // Herodotus, Beast of Gevaudan + more // Primary Sources](https://www.youtube.com/watch?v=9oQlsa3xdH8)       ((youtube.com))  
@@ -72,11 +77,13 @@
 #Other
 [Stupid pinterest shit that makes no sense](https://www.pinterest.com/pin/720646377854230737/)  
 [Stupid pinterest shit that makes no sense part 2](https://www.pinterest.com/pin/567523990544733132/)  
-[LAST WEEK IN CULTURE #5](https://www.youtube.com/watch?v=M3vBAOAKKiw) (([mirror](https://www.bitchute.com/video/XFMmPwqKD01a/)))  
-[homeless guy dancing to plug walk](https://www.youtube.com/watch?v=UX3FVatYsUc)  
+<img src="https://youtube.com/favicon.ico">[LAST WEEK IN CULTURE #5](https://www.youtube.com/watch?v=M3vBAOAKKiw) (([mirror](https://www.bitchute.com/video/XFMmPwqKD01a/)))  
+<img src="https://youtube.com/favicon.ico">[homeless guy dancing to plug walk](https://www.youtube.com/watch?v=UX3FVatYsUc)  ((youtube.com))  
 [Osu!](https://en.wikipedia.org/wiki/Osu!)  
-[COLORES | Hopi Prophecy | New Mexico PBS](https://www.youtube.com/watch?v=p1m0nLSOHi4)      ((youtube.com))  
-[Predator (1987) - Old Painless Is Waiting Scene (1/5) | Movieclips](https://www.youtube.com/watch?v=wgzxSr6l9Y4) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[COLORES | Hopi Prophecy | New Mexico PBS](https://www.youtube.com/watch?v=p1m0nLSOHi4)      ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Predator (1987) - Old Painless Is Waiting Scene (1/5) | Movieclips](https://www.youtube.com/watch?v=wgzxSr6l9Y4) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Transformers soundwave break dancing](https://www.youtube.com/watch?v=Af8s5XIgY_c) ((youtube.com))  
+[Trending in China: ‘rural-style shuffle dance', and more](https://www.youtube.com/watch?v=fIL3WMAmNEA) ((youtube.com))  
 [Zdzisław Beksiński - paintings I](https://sevasevol.blogspot.com/2012/02/zdzislaw-beksinski.html)  ((sevasevol.blogspot.com))  
 
 #Funny
@@ -94,6 +101,7 @@
 <img src="https://youtube.com/favicon.ico">[Girl laughing while making funny faces on distorted webcam - YouTube](https://www.youtube.com/watch?v=vGgfoqM_Xbs)  
 [Jewfro and Punk Girl Go Head to Head In a Photo Battle (4 pics)](https://izismile.com/2012/11/29/jewfro_and_punk_girl_go_head_to_head_4_pics.html) ((isismile.com))  
 <img src="https://youtube.com/favicon.ico">[kickboxer production audio - musicless dance scene](https://www.youtube.com/watch?v=k1ibU-nEvfs) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Van Damme in space](https://www.youtube.com/watch?v=vYu4TPH12P4) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[My first time wearing "THE WIG"!!! | Pantera - Cowboys From Hell | REACTION](https://www.youtube.com/watch?v=EPSEf64W3GE) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Roast Me | S3 E6 ft. Dumbfoundead | All Def](https://www.youtube.com/watch?v=gCTt6xhThX0) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Roast Me | S3 E7 ft. Timothy DeLaGhetto | All Def](https://www.youtube.com/watch?v=uLjvOPdOLl0) ((youtube.com))  
@@ -103,12 +111,10 @@
 [Reddit: She can't wear a mask](https://www.reddit.com/r/FuckYouKaren/comments/hsn6ls/she_cant_wear_a_mask/) ((reddit.com))  
 <img src="https://youtube.com/favicon.ico">[Tales from the Hood ending reenactment](https://www.youtube.com/watch?v=J5-DW4-dFvI) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[The Fesh Pince of Blair](https://www.youtube.com/watch?v=HeIkk6Yo0s8) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Thumbtanic - HQ Full](https://www.youtube.com/watch?v=-Jvk-0v1C_8) ((youtube.com))  
 []() (())  
 []() (())  
 []() (())  
-[]() (())  
-
-
 
 # Lefist bullshit
 [http://nativesinamerica.com/2016/07/dear-jk-rowling-were-still-here/](http://nativesinamerica.com/2016/07/dear-jk-rowling-were-still-here/)   ((http://nativesinamerica.com/))  
