@@ -27,6 +27,11 @@ Transhumanism: To live forever without God.
 
 📷[Silicon Chips with demonic sigils](https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/95561772_10223274096346673_3245115707892957184_n.jpg?_nc_cat=109&_nc_sid=ca434c&_nc_ohc=MeeePcYhofQAX-2ykNA&_nc_ht=scontent.fphx1-1.fna&oh=49e758f411ff3a8c7cd7aecd6de90104&oe=5ED4AF87) ((fb cdn))  
 
+###Other
+[Full Bizarre, Demonic Gotthard Tunnel Opening Ceremony, Satanic, New World Order, Illuminati Ritual](https://www.youtube.com/watch?v=zW5gklIKcDg) ((youtube.com))  <-- satanic ritual at CERn (extended)  
+[Spektakuläre Performace zur ersten Gotthard-Durchfahrt - Gotthard - Eröffnung - Tunnel - 2016](https://www.youtube.com/watch?v=RnhOO4-KqWY) ((youtube.com)) <-- satanic ritual at CERN    
+<img src="https://youtube.com/favicon.ico">[Butoh - After the Horror I Tokyo Paranormal (10/10) I ARTE Documentary](https://www.youtube.com/watch?v=f8nFCRJ25HU) ((youtube.com))  <--"2:28 The idea is to create a new space-time as the basis for our dances. Ghosts and other creatures are then welcome to enter this new space-time."  
+
 ## Black Cube(Black Sun), Saturn, Moloch
 [Saturn, Satan, and 666](http://www.atlanteanconspiracy.com/2008/07/saturn-satan-and-666.html) ((atlanteanconspiracy.com))  
 [Schools, Courts, Churches, and the Cult of Saturn](https://www.bibliotecapleyades.net/sociopolitica/atlantean_conspiracy/atlantean_conspiracy37.htm) ((bibliotecapleyades.net))  
