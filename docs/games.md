@@ -1,6 +1,12 @@
+# Gaming sites
 [Radiosega live podcast](https://www.radiosega.net/listen/web/) ((radiosega.net))  
-[100 best local co-op PC games](https://www.slant.co/topics/2209/~best-local-co-op-pc-games)   
+[100 best local co-op PC games](https://www.slant.co/topics/2209/~best-local-co-op-pc-games)  ((slant.co))  
+[Hidden Gems: Top 250 highly rated Steam games that few know](https://steam250.com/hidden_gems.html)  ((steam250.com))  
+[Hidden Gems: Top 150 best Steam games of all time tagged with Co-op](https://steam250.com/tag/co-op)  ((steam250.com))  
+[Top Rated Games on Steam](https://steamdb.info/stats/gameratings/) ((steamdb.com))  
+[Top games tagged Horror](https://itch.io/games/tag-horror)  ((itch.io))  
 
+# Single games and Youtube gameplays
 [Baby Snatcher](https://gamejolt.com/games/BabySnatcher/500051)  
 [No Players Online](https://papercookies.itch.io/no-players-online)  
 [Phobos](https://next-cosmos.itch.io/phobos)  
@@ -44,6 +50,7 @@
 <img src="https://youtube.com/favicon.ico">[🎼ELITE: DANGEROUS OST SUPERCHARGED! With Onscreen Track details, Timestamps, Artwork & 5.1 surround](https://www.youtube.com/watch?v=11NTaiI2yj0) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Elite Dangerous Tutorial Supercruise Travel Helix of Death Gravity Capture](https://www.youtube.com/watch?v=VxUfwJl0yjU)  ((youtube.com))   
 <img src="https://youtube.com/favicon.ico">[Elite Dangerous: How To Avoid Police Scans While Smuggling](https://www.youtube.com/watch?v=hFDqBYnejak) ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Top 5 Things Everyone Knows Except for You](https://www.youtube.com/watch?v=Wxyro-jmAMI) ((youtube.com))  
 [Elite Dangerous: Keyboard Controls](https://www.kevblog.co.uk/elite-dangerous-keyboard-controls/) ((kevblog.co.uk))  
 [Elite Dangerous: Trade Ranks & How to Increase Them Quickly](https://www.gameskinny.com/vl2u4/elite-dangerous-trade-ranks-how-to-increase-them-quickly)  ((gameskinny.com))  
 [ELITE: DANGEROUS BLOG | VEHICLE CODEX](http://codex.elite-dangerous-blog.co.uk/type-6-transporter) ((codex.elite-dangerous-blog.co.uk))  
@@ -55,6 +62,8 @@
 [MARKET](https://inara.cz/market/8485/4792/) ((inara.cz))  
 [Stations](https://eddb.io/station)  ((eddb.io))  
 
+##ED Tools
+[Third Party Tools](https://elite-dangerous.fandom.com/wiki/Third_Party_Tools) ((elite-dangerous.fandom.com))  
 [Pristine Metallics Distances Calculator](http://edtools.ddns.net/)   ((edtools.ddns.net))  
 [Galaxy Plotter](https://spansh.co.uk/exact-plotter)  ((spansh.co.uk)) <-- Also has Neutron Plotter & Trade Planner
 [Distances Between Selected Systems](http://elitedangerous.hozbase.co.uk/calc/distances?systems=aornum%2cnona%2czhulong)   ((http://elitedangerous.hozbase.co.uk/))   
