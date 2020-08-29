@@ -34,6 +34,7 @@
 [Rolling Styles: Judge Showcase: Greenteck](https://www.youtube.com/watch?v=fAZfScVy9HA)  
 [Slim Boogie vs Greenteck [popping finals] ► .stance x FSS 20th x Top Status ◄ udeftour.org](https://www.youtube.com/watch?v=cg9THzuoCZI)  
 [Team Korea VS Team English [ Semifinal-2 ]-HURRICANES BATTLE-ISM 2015 TAIWAN & POPPIN CREW BATTLE](https://www.youtube.com/watch?v=wGMYNMGNuSE)  
+[TOGETHER TIME 2016 - Semi Final Popping 1on1 - Terry Boogie vs Greenteck](https://www.youtube.com/watch?v=TrTZ_J5kgOU)  
 
 [Locking Final - Juste Debout 2014 Bercy](https://www.youtube.com/watch?v=OTC2Goyxb3U)  
 
