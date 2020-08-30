@@ -42,6 +42,7 @@
 [Illustrated Architecture Dictionary (EXTENSIVE)](https://buffaloah.com/a/DCTNRY/vocab.html)  ((buffaloah.com))  
 [Narthex](https://en.wikipedia.org/wiki/Narthex)  
 [Parvise](https://en.wikipedia.org/wiki/Parvise)  
+[Pendentive](https://en.wikipedia.org/wiki/Pendentive)  
 [Colonnade, Arcade and Loggia](https://www.house-design-coffee.com/colonnade.html)  ((house-design-coffee.com))  
 [Category:Types of wall](https://en.wikipedia.org/wiki/Category:Types_of_wall)  
 
@@ -50,6 +51,8 @@
 [Clapper bridge](https://en.wikipedia.org/wiki/Clapper_bridge)   
 [List of bridge types (PICTURES)](https://en.wikipedia.org/wiki/List_of_bridge_types)  
 
+#Indirectly to architecture
+[Sistine Chapel ceiling](https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling)   
 
 # Composition breakdown
 ![composition](./img/comp1.png)  
