@@ -44,10 +44,14 @@
 [Giorgio Moroder - 74 Is the New 24](https://www.youtube.com/watch?v=7u5c-Qndqio)  
 [Giorgio Moroder - From Here To Eternity (1977)](https://www.youtube.com/watch?v=30hr7DyAuAY)  
 
+# Synthwave
+[Wice - Dream Rider](https://www.youtube.com/watch?v=zgi-BGOf9fo)  
+
 #fun music
 [[Electro] - Nitro Fun - New Game [Monstercat Release]](https://www.youtube.com/watch?v=6y_NJg-xoeE)  
 [Elvis Crespo - Tu Sonrisa](https://www.youtube.com/watch?v=3CqNeJLqvL0)  
 [Kevin MacLeod ~ Achaidh Cheide](https://www.youtube.com/watch?v=istqadd7x8I)  
+[Big Red Panda - Still Moment](https://www.youtube.com/watch?v=F4_BLkh-TXU)  
 
 ##Other
 [pae & sarah](https://www.youtube.com/watch?v=QDsDOlfz-QU)  
