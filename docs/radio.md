@@ -1,3 +1,9 @@
+# Radio sations
+[WOW!Radio](https://radio.wownero.com/) ((radio.wownero.com))  
+
+# Radio tools
+[Hlstester.com](https://www.hlstester.com/) and Tvstreamin.com](https://tvstreamin.com/stream-tester.html)   <-- can play streaming URL mp3s   
+
 # Jeff Rense
 <img src="https://www.renseradio.com/JR-2b.jpg">  Last Assault  Akira Ifukube
 [Rense.com](https://rense.com/)  
@@ -15,15 +21,15 @@
 
 [2006 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr1.mp3)  <-- creepy narration intro, 5min funny convo, 25min jack parsons, 28min nice music, 32min hilarious "say hi jeff", 33:33 say something, ending talks about flying witches in Mexico attacking police   
 [2006 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr2.mp3)  <-- 4min Jersey Devil, 11:50 nice music & Nightmare on Elm Street tuns, 21min ace of spaces creature, 27:50 transition music,  29min talks about real-life vampires  
-[2006 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr3.mp3)  <--awesome dreamwave intro, 3min Near Dark 1987 talk,11min transiion music, 28:00min nice music,  30ish min contest
+[2006 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102706_hr3.mp3)  <-- awesome dreamwave intro, 3min Near Dark 1987 talk,11min transiion music, 28:00min nice music,  30ish min contest
 
-[2007 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102607_hr1.mp3)  <-- creepy narration intro, 
-[2007 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102607_hr2.mp3)  
-[2007 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102607_hr3.mp3)  
+[2007 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102607_hr1.mp3)  <-- creepy narration intro, mostly contest stuff,19:15 transition music& tubuluar bells,21min talks about Halloween& ancient Ireland = werewolves,   
+[2007 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102607_hr2.mp3)  <-- 6:00 talks about Native American creatures and stinking odor, 18:50 "mustve used goggle, not google", Jeff & Brad get on eachothers nerves, 29min barnabe conrad,  Mary is a peach  
+[2007 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102607_hr3.mp3)  <-- bunch of gettysbur ghost talk, creepy outro narration
 
-[2008 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102408_hr1.mp3)  
-[2008 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102408_hr2.mp3)  
-[2008 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102408_hr3.mp3)  
+[2008 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102408_hr1.mp3)  <-- 5min get on eachothers nerves, 23:00 confessions of a beach bumb, 25:00 asian ghosts(pontianak), 31:50 talks about Twilight generation,  
+[2008 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102408_hr2.mp3)  <-- creepy intro, what they do in asia to vampires, ruthless japanese ghosts & vampires,  19:50 creepy transition, rest is boring ghost talk  
+[2008 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102408_hr3.mp3)  <-- creepy intro, 
 
 [2009 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103009_hr1.mp3)  
 [2009 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103009_hr2.mp3)  
