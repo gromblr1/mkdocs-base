@@ -15,6 +15,9 @@
 [KIWIIRC Commands](https://kiwiirc.com/docs/client/commands)  ((kiwiirc.com))  
 [IRC Client step-by-step guides](https://confluence.fuelrats.com/display/public/FRKB/IRC+Client+Setup+Guides)  ((fuelrats.com))  
 
+# IRC Tools
+[Freenode: Nickname Registration](https://freenode.net/kb/answer/registration) ((freenode.net))  
+
 #Political
 [Political power grows out of the barrel of a gun](https://en.wikipedia.org/wiki/Political_power_grows_out_of_the_barrel_of_a_gun)  
 <img src="https://youtube.com/favicon.ico">[2014 Arizona Governor Candidate Barry Hess](https://www.youtube.com/watch?v=LSuOAC7jqhk)  ((youtube.com))   
@@ -32,6 +35,10 @@
 [Snopyta.org](https://snopyta.org/)  
 [Youtube restriction checker](http://polsy.org.uk/stuff/ytrestrict.cgi)  <-- check which countries a video is restricted  
 [Concen.org](https://concen.org/torrents)  
+
+##tech tools
+[fastly Service status](https://status.fastly.com/)  <-- watch for internet outages worldwide  
+[The Outages Archives](https://puck.nether.net/pipermail/outages/)  ((puck.nether.net))  
 
 ###Other 
 [Top 12 Best Free Video Editing Software for Windows](https://filmora.wondershare.com/video-editor/free-video-editing-software-windows.html)  
