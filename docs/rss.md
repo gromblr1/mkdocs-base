@@ -25,6 +25,7 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLISTID
 [RSS Box](https://rssbox.herokuapp.com/)  <--lets you subscribe to RSS feeds for websites that do not support RSS themselves  
 
 # RSS other
+[MASSIVE LIST OF RSS FEEDS](https://gist.github.com/myano/b4c1e06ed36fd64547a3)  
 [Alternative RSS reader list](https://alternativeto.net/browse/search?q=rss)  
 [What is Atom ?](http://www.atomenabled.org/developers/syndication/)  
 [Atom vs RSS](https://nullprogram.com/blog/2013/09/23/)  
