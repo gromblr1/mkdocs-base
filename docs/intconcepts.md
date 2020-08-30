@@ -27,14 +27,46 @@
 [Conservapedia](https://www.conservapedia.com/index.php?title=Main_Page)  
 <img src="https://youtube.com/favicon.ico">[Joseph Nye - On Soft Power](https://www.youtube.com/watch?v=_58v19OtIIg) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[KGB defector Yuri Bezmenov's warning to America (1984)](https://www.youtube.com/watch?v=IQPsKvG6WMI)   ((youtube.com))  <-- ideological subversion, 4 stages
+[Political apathy](https://en.wikipedia.org/wiki/Political_apathy)  
+
+## types of governments
+[Anonacracy](https://en.wikipedia.org/wiki/Anocracy)  
+
+##SECRET GOVT OPERATIONS
+[Night of the Long Knives](https://en.wikipedia.org/wiki/Night_of_the_Long_Knives)  
 
 #espionage
 [Language of Espionage](https://www.spymuseum.org/education-programs/spy-resources/language-of-espionage/)  
 [Clandestine cell system](https://en.wikipedia.org/wiki/Clandestine_cell_system)  
+[Salami tactics](https://en.wikipedia.org/wiki/Salami_tactics) 
 
 #semi-political
 [Culutural Silos](https://evenifiwalkalone.com/2010/08/cultural-silos/)  Ref: [IndieWeb:silo](https://indieweb.org/silo)  
 [Antisemetic canard](https://en.wikipedia.org/wiki/Antisemitic_canard)  
+[Boiling frog](https://en.wikipedia.org/wiki/Boiling_frog)  
+
+#psychological
+[Shifting baseline](https://en.wikipedia.org/wiki/Shifting_baseline)  
+
+#Social concepts
+[Overton window](https://en.wikipedia.org/wiki/Overton_window)  
+Related: [Hallin's spheres](https://en.wikipedia.org/wiki/Hallin%27s_spheres)  
+[Communal reinforcement](https://en.wikipedia.org/wiki/Communal_reinforcement)  
+[Category:Deviance (sociology)](https://en.wikipedia.org/wiki/Category:Deviance_(sociology))  
+Related: [Creeping normality](https://en.wikipedia.org/wiki/Creeping_normality)  
+Related: [Normalization of deviance](https://en.wikipedia.org/wiki/Normalization_of_deviance)  
+[Third rail of politics](https://en.wikipedia.org/wiki/Third_rail_of_politics)  
+Related: [Wedge issue](https://en.wikipedia.org/wiki/Wedge_issue)  
+[Cultural hegemony](https://en.wikipedia.org/wiki/Cultural_hegemony)  
+[Spiral of silence](https://en.wikipedia.org/wiki/Spiral_of_silence)  
+
+#PROPAGANDA
+[Media manipulation](https://en.wikipedia.org/wiki/Media_manipulation)  
+
+#Tech concepts
+[Category:Internet censorship](https://en.wikipedia.org/wiki/Category:Internet_censorship)  
+[Splinternet](https://en.wikipedia.org/wiki/Splinternet)  
+[Filter bubble](https://en.wikipedia.org/wiki/Filter_bubble)  
 
 # Historical 
 [Inquisition](https://outline.com/eSKyMc)  ((outline.com [Britannica.com]))  
@@ -53,6 +85,7 @@
 <img src="https://youtube.com/favicon.ico">[Lorne Lanning of Oddworld Inhabitants: Extended Interview | Ars Technica](https://www.youtube.com/watch?v=BNgPNeCVo30)  ((youtube.com))  
 [Lorne Lanning on mymntr.com/Gaming Guru - Oddworld Creator](https://www.youtube.com/watch?v=00q71VOOu2s) ((youtube.com))   <-- extremely profound interview w/ creator of Oddworld  
 [Ecopsychology](https://en.wikipedia.org/wiki/Ecopsychology)  
+[Sorites paradox](Sorites paradox)  
 
 #humorous
 [Ribaldry](https://en.wikipedia.org/wiki/Ribaldry)  
