@@ -3,6 +3,8 @@
 [Aesthetic text generator](https://exoticfonts.com/aesthetic-text/)  
 [PasteBin](https://pastebin.com/)  
 [Bpaste](https://bpa.st/)  
+[Paste.rs](https://paste.rs/web)  
+[Privatebin.net](https://privatebin.net/)  
 [Rotten Websites](https://rottenwebsites.miraheze.org/wiki/Category:Websites)  
 [Hitchwiki: The Guide to Hitchhiking the World!](https://hitchwiki.org/en/Main_Page)  
 
@@ -29,6 +31,7 @@
 [Tinc-VPN](https://tinc-vpn.org/)  
 [Snopyta.org](https://snopyta.org/)  
 [Youtube restriction checker](http://polsy.org.uk/stuff/ytrestrict.cgi)  <-- check which countries a video is restricted  
+[Concen.org](https://concen.org/torrents)  
 
 ###Other 
 [Top 12 Best Free Video Editing Software for Windows](https://filmora.wondershare.com/video-editor/free-video-editing-software-windows.html)  
@@ -73,6 +76,9 @@
 <img src="https://youtube.com/favicon.ico">[The Dog-Headed Tribe of Greek Legend](https://www.youtube.com/watch?v=8S3jkwoN6Kk)    ((youtube.com))  
 [Supposed real-life werewolf comments](http://yourlupinelife.com/about-yll)  
 [Dogs in religion](https://en.wikipedia.org/wiki/Dogs_in_religion)  
+
+#Worldbuilding shenanigans
+[Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)  ((azgaar.github.io))  
 
 #Other
 [Stupid pinterest shit that makes no sense](https://www.pinterest.com/pin/720646377854230737/)  
