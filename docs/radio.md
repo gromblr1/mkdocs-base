@@ -29,14 +29,14 @@
 
 [2008 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102408_hr1.mp3)  <-- 5min get on eachothers nerves, 23:00 confessions of a beach bumb, 25:00 asian ghosts(pontianak), 31:50 talks about Twilight generation,  
 [2008 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102408_hr2.mp3)  <-- creepy intro, what they do in asia to vampires, ruthless japanese ghosts & vampires,  19:50 creepy transition, rest is boring ghost talk  
-[2008 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102408_hr3.mp3)  <-- creepy intro, 
+[2008 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102408_hr3.mp3)  <-- creepy intro, pretty boring with asshole guests  
 
-[2009 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103009_hr1.mp3)  
-[2009 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103009_hr2.mp3)  
-[2009 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103009_hr3.mp3)  
+[2009 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103009_hr1.mp3)  <-- 11:50 tubular bells transition, 19:30 Michael Myers transition music, 28:30 scary violin transition, 
+[2009 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103009_hr2.mp3)  <-- 23:00min succubus ghoul,  boring EVPs  
+[2009 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103009_hr3.mp3)  <-- creepy narration intro,  
 
-[2010 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102910_hr1.mp3)  
-[2010 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102910_hr2.mp3)  
+[2010 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102910_hr1.mp3)  <-- intro and talk about poisonous Halloween candy/aspartame, 14:25 fractional reserve banking, 22:00 chewing gum, 
+[2010 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102910_hr2.mp3)  <-- 16:00 nibiru zecharia stitchin talk, 
 [2010 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102910_hr3.mp3)  
 
 [2011 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102811_hr1.mp3)  
