@@ -61,6 +61,7 @@
 [Tiblar](https://tiblar.com/)  
 
 ###Other
+[Tech News Feed](https://news.mpxc.net/)  <-- Slashdot, LinuxSec, LinuxToday, Gitorious, Phoronix, XKCD, TheRegister & ArsTechnica  
 [Postmill.xyz](https://postmill.xyz/)  
 [Reddit list](https://www.reddit.com/r/RedditAlternatives/comments/fas4on/list_of_active_reddit_alternatives_50/)    
 [Are you Reddit shadowbanned ? (TOOL)](https://nullprogram.com/am-i-shadowbanned/)  
