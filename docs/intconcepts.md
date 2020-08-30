@@ -10,7 +10,13 @@
 [Inminban](https://en.wikipedia.org/wiki/Inminban)  <-- system where all neighborhood snitches on eachother in North Korea
 [Your logical fallacy is](https://yourlogicalfallacyis.com/)  
 [Your bias is](https://yourbias.is/)  
-[]()    
+[Biophilia hypothesis](https://en.wikipedia.org/wiki/Biophilia_hypothesis)    
+
+#Linguistical relations
+[Shibboleth](https://en.wikipedia.org/wiki/Shibboleth)  
+[Circular definition](https://en.wikipedia.org/wiki/Circular_definition)  
+[Ostensive definition](https://en.wikipedia.org/wiki/Ostensive_definition)  
+[List of Latin phrases (E)](https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E))  
 
 #political
 [Leaderless resistance](https://en.wikipedia.org/wiki/Leaderless_resistance)  
@@ -46,6 +52,7 @@
 # Other
 <img src="https://youtube.com/favicon.ico">[Lorne Lanning of Oddworld Inhabitants: Extended Interview | Ars Technica](https://www.youtube.com/watch?v=BNgPNeCVo30)  ((youtube.com))  
 [Lorne Lanning on mymntr.com/Gaming Guru - Oddworld Creator](https://www.youtube.com/watch?v=00q71VOOu2s) ((youtube.com))   <-- extremely profound interview w/ creator of Oddworld  
+[Ecopsychology](https://en.wikipedia.org/wiki/Ecopsychology)  
 
 #humorous
 [Ribaldry](https://en.wikipedia.org/wiki/Ribaldry)  
