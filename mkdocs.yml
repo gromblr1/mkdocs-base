@@ -14,6 +14,7 @@ nav:
     - Comics: comics.md
     - Archit. n Geology: archgeo.md
     - Linguistics: ling.md    
+    - Artistical: art.md        
     - Darkness: darkness.md
     - Gognauts: gognauts.md    
 theme: readthedocs
