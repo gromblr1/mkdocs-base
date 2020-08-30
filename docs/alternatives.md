@@ -177,6 +177,8 @@ notes |  |  |  |
 # ALTERNATIVE to Netflix
 [Putlocker alternatives](https://www.techpout.com/putlocker-alternatives/)  
 [Top 10 sites like 123movies](https://www.bestsevenreviews.com/top-10-sites-like-123movies/)  
+
+[Tinychan.net(streaming movies w/chat)](https://dis.tinychan.net/movies.html)  
 <hr>  
 # ALTERNATIVES to CHAT APPS (Snapchat, Line, WhatsApp, Discord,Skype)
 [Mattermost.org](https://mattermost.org/)  
@@ -200,7 +202,7 @@ Related: [Telegram Bots: An introduction for developers](https://core.telegram.o
 
 #Internet censorship circumvention freeware
 [Darknet software](https://en.wikipedia.org/wiki/Darknet#Software)  
-[Internet censorship circumvention](https://en.wikipedia.org/wiki/Internet_censorship_circumvention)  
+[Template:Internet censorship circumvention technologies](https://en.wikipedia.org/wiki/Template:Internet_censorship_circumvention_technologies)  
 [Shadowsocks](https://shadowsocks.org/en/index.html)  
 [Psiphon](https://psiphon.ca/en/download.html?psiphonca)  
 [Lantern](https://getlantern.org/en_US/index.html)  
