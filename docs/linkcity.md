@@ -72,6 +72,8 @@
 <img src="https://youtube.com/favicon.ico">[Ghost Adventures S14E07 Skinwalker Canyon](https://www.youtube.com/watch?v=N6uSqUrL1TQ) ((youtube.com))  
 [Haunting Caught On Video](https://www.facebook.com/RealPrimePhilips/videos/1097531840279081)  <-- Philip Bugg Medeen
 <img src="https://youtube.com/favicon.ico">[What Happened to Elisa Lam?](https://www.youtube.com/watch?v=aI8uuFKJkwI)  ((youtube.com)) <-- girl who screwed up the elevator ritual  
+<img src="https://youtube.com/favicon.ico">[Dining Room or There is Nothing](https://www.youtube.com/watch?v=ns1SGo3WCF4)    ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Window Crossing | Junji Ito Collection](https://www.youtube.com/watch?v=lQOPFmXRvM8)    ((youtube.com))  
 
 ###Other mysteriousity
 [Aliendave: utah UFO news](http://www.aliendave.com/)   ((aliendave.com))  
@@ -100,6 +102,8 @@
 <img src="https://youtube.com/favicon.ico">[OM Chanting @417 Hz | Removes All Negative Blocks](https://www.youtube.com/watch?v=8sYK7lm3UKg) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[OM Mantra with Theta binaural beats Sacred Chanting for Deep Meditation](https://www.youtube.com/watch?v=ID7dbvPb1ec) ((youtube.com))  
 [Zdzisław Beksiński - paintings I](https://sevasevol.blogspot.com/2012/02/zdzislaw-beksinski.html)  ((sevasevol.blogspot.com))  
+<img src="https://youtube.com/favicon.ico">[Le Petit Poucet 1972](https://www.youtube.com/watch?v=DJ6IY_gQqPE)  
+Related: [Le Cinema Fantastique Francais](http://www.cnc-aff.fr/internet_cnc/Internet/ARemplir/Fiches/fantastique/contes.html)  ((cnc-aff.fr))   
 
 #Funny
 [Fat dude thumbs down at ball game](https://cdn.minds.com/fs/v1/thumbnail/1133448711852875776/xlarge//?unlock_paywall=0)  
