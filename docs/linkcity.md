@@ -35,6 +35,7 @@
 [Snopyta.org](https://snopyta.org/)  
 [Youtube restriction checker](http://polsy.org.uk/stuff/ytrestrict.cgi)  <-- check which countries a video is restricted  
 [Concen.org](https://concen.org/torrents)  
+[CachedView.com](https://cachedview.com/)  ((cachedview.com))  <-- look up 404/non-existent CACHED pages from multiple tools  
 
 ##tech tools
 [fastly Service status](https://status.fastly.com/)  <-- watch for internet outages worldwide  
