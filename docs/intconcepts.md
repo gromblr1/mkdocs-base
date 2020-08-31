@@ -90,7 +90,7 @@ Related: [The Politico-Media Complex: The alliances forged between politics and 
 <img src="https://youtube.com/favicon.ico">[Lorne Lanning of Oddworld Inhabitants: Extended Interview | Ars Technica](https://www.youtube.com/watch?v=BNgPNeCVo30)  ((youtube.com))  
 [Lorne Lanning on mymntr.com/Gaming Guru - Oddworld Creator](https://www.youtube.com/watch?v=00q71VOOu2s) ((youtube.com))   <-- extremely profound interview w/ creator of Oddworld  
 [Ecopsychology](https://en.wikipedia.org/wiki/Ecopsychology)  
-[Sorites paradox](Sorites paradox)  
+[Sorites paradox](https://en.wikipedia.org/wiki/Sorites_paradox)  
 
 #humorous
 [Ribaldry](https://en.wikipedia.org/wiki/Ribaldry)  
