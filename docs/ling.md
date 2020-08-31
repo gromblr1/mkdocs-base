@@ -7,3 +7,5 @@
 [The Meaning of Liff](https://en.wikipedia.org/wiki/The_Meaning_of_Liff)  (([Extracts from book](http://liff.hivemind.net/)))  
 [False friends](https://en.wikipedia.org/wiki/False_friend)  
 [Skunked term](https://en.wikipedia.org/wiki/Skunked_term)  
+
+[Ostensive definition](https://en.wikipedia.org/wiki/Ostensive_definition#Further_reading)  
