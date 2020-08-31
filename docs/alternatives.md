@@ -6,6 +6,9 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liveenhanced.com%2Fwp-content%2Fuploads%2F2019%2F09%2FFive-eyes-alliance-spying.jpg&f=1&nofb=1" height=100>
 [Why do we need alternatives to the big tech apps ?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)  
 
+### Other surveillance info/
+[List of government mass surveillance projects](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects)  
+
 <hr>
 # Fediverse & decentralilzation information
 [Fediverse Network List (MASSIVE)](https://fediverse.network/mastodon)  
@@ -65,6 +68,7 @@
 [Postmill.xyz](https://postmill.xyz/)  
 [Reddit list](https://www.reddit.com/r/RedditAlternatives/comments/fas4on/list_of_active_reddit_alternatives_50/)    
 [Are you Reddit shadowbanned ? (TOOL)](https://nullprogram.com/am-i-shadowbanned/)  
+[SNOOPSNOO](https://www.snoopsnoo.com/about/)  <-- reddit user and subreddits analytics.
 
 4chan & 8kun are too extreme and full of debauchery.  
 <hr>  
@@ -181,6 +185,7 @@ notes |  |  |  |
 [Tinychan.net(streaming movies w/chat)](https://dis.tinychan.net/movies.html)  
 <hr>  
 # ALTERNATIVES to CHAT APPS (Snapchat, Line, WhatsApp, Discord,Skype)
+[Tox.chat](https://tox.chat/index.html)  
 [Mattermost.org](https://mattermost.org/)  
 [Jami.net](https://jami.net/)  
 [Linphone](https://www.linphone.org/)  
