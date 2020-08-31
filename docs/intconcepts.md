@@ -59,9 +59,14 @@ Related: [Normalization of deviance](https://en.wikipedia.org/wiki/Normalization
 Related: [Wedge issue](https://en.wikipedia.org/wiki/Wedge_issue)  
 [Cultural hegemony](https://en.wikipedia.org/wiki/Cultural_hegemony)  
 [Spiral of silence](https://en.wikipedia.org/wiki/Spiral_of_silence)  
+Related: [Blue wall of silence](https://en.wikipedia.org/wiki/Blue_wall_of_silence)  
 
 #PROPAGANDA
-[Media manipulation](https://en.wikipedia.org/wiki/Media_manipulation)  
+<img src="https://youtube.com/favicon.ico">[Media manipulation](https://en.wikipedia.org/wiki/Media_manipulation)  
+[The Communist Subversion of India Explained in Two Parts](https://www.youtube.com/watch?v=g-xPNVAChzg)  
+[Politico-media complex](https://en.wikipedia.org/wiki/Politico-media_complex)  <--  very tight relationship between politics and media  
+Related: [The Politico-Media Complex: The alliances forged between politics and media](http://www.atarion.com/uploads/the_politico_media_complex.pdf)  ((atarion.com))  
+[Post-truth politics](https://en.wikipedia.org/wiki/Post-truth_politics)  
 
 #Tech concepts
 [Category:Internet censorship](https://en.wikipedia.org/wiki/Category:Internet_censorship)  
