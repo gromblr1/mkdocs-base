@@ -52,6 +52,7 @@
 [Elvis Crespo - Tu Sonrisa](https://www.youtube.com/watch?v=3CqNeJLqvL0)  
 [Kevin MacLeod ~ Achaidh Cheide](https://www.youtube.com/watch?v=istqadd7x8I)  
 [Big Red Panda - Still Moment](https://www.youtube.com/watch?v=F4_BLkh-TXU)  
+[Candy Dulfer / Dave Stewart - Lily Was Here 1989 Video HD](https://www.youtube.com/watch?v=_5kKo2_2MzI)  
 
 ##Other
 [pae & sarah](https://www.youtube.com/watch?v=QDsDOlfz-QU)  
