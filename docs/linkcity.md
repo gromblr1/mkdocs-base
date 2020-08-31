@@ -40,6 +40,7 @@
 ##tech tools
 [fastly Service status](https://status.fastly.com/)  <-- watch for internet outages worldwide  
 [The Outages Archives](https://puck.nether.net/pipermail/outages/)  ((puck.nether.net))  
+[deadlinkchecker.com](https://www.deadlinkchecker.com/)  <-- check dead links of websites  
 
 ###Other 
 [Top 12 Best Free Video Editing Software for Windows](https://filmora.wondershare.com/video-editor/free-video-editing-software-windows.html)  
