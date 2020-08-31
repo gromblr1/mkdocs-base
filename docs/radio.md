@@ -37,10 +37,10 @@
 
 [2010 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102910_hr1.mp3)  <-- intro and talk about poisonous Halloween candy/aspartame, 14:25 fractional reserve banking, 22:00 chewing gum, 
 [2010 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102910_hr2.mp3)  <-- 16:00 nibiru zecharia stitchin talk, 
-[2010 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102910_hr3.mp3)  
+[2010 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102910_hr3.mp3)  <-- 32:40 secrets  to writing and storytelling, heartfelt outro 
 
-[2011 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102811_hr1.mp3)  
-[2011 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102811_hr2.mp3)  
+[2011 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102811_hr1.mp3)  <-- 
+[2011 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102811_hr2.mp3)  <-- 6minish interesting talking about occult and religion, 
 [2011 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102811_hr3.mp3)  
 
 [2012 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103112_hr1.mp3)  
