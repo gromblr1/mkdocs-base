@@ -46,6 +46,8 @@
 
 # Synthwave
 [Wice - Dream Rider](https://www.youtube.com/watch?v=zgi-BGOf9fo)  
+[MOXX - Ultrazord Rises](https://www.youtube.com/watch?v=SAon4mBkuNo)  
+[Wice - Starfighter](https://www.youtube.com/watch?v=EAYfJckSEN0)  
 
 #fun music
 [[Electro] - Nitro Fun - New Game [Monstercat Release]](https://www.youtube.com/watch?v=6y_NJg-xoeE)  
