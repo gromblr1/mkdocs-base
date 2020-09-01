@@ -128,6 +128,7 @@ Max. file size | none | 4 GB | 2 GB | 50 MB
 File exp. | never | 8+ months after last login | 180 days after last login | never
 notes |  |  |  | 
 
+[Teknik upload](https://upload.teknik.io/)  
 [Cozy.io](https://cozy.io/en/)  <-- has 5GB of free space
 [Free file hosting services list](https://www.hostingadvice.com/how-to/free-file-hosting-services/)  
 [catbox.moe](https://catbox.moe/)  
