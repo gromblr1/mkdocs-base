@@ -9,6 +9,14 @@ Related: [Midomi](https://www.midomi.com/)  <-- excellent song recognizer
 [Horror Theatre](http://www.horror-theatre.com/)  
 [Pumpkinfm.com](https://pumpkinfm.com/)  
 
+### spooks I picked up from old horror radio
+<img src="https://youtube.com/favicon.ico">["The Dark" -- Arch Oboler 1962](https://www.youtube.com/watch?v=mSmEh8TxswQ)  ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Lights Out - Bon Voyage 1942](https://www.youtube.com/watch?v=Gt7C6agcrUE)  ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Lights Out - Chicken Heart 1937](https://www.youtube.com/watch?v=G_OD_jUnYNM)  ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[]()  ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[]()  ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[]()  ((youtube.com))  
+
 # Radio tools
 [Hlstester.com](https://www.hlstester.com/) and [Tvstreamin.com](https://tvstreamin.com/stream-tester.html)   <-- can play streaming URL mp3s   
 
