@@ -17,3 +17,5 @@ Related: [Mattis Dovier](https://vimeo.com/mattisdovier)
 Related: [Lorn - Sega Sunset](https://www.youtube.com/watch?v=mauV2NdCs60)  
 [Afro Samurai fights Justice](https://www.youtube.com/watch?v=iWHAko58EO8)  
 [PINTEREST: Artist August: Guy Davis](https://www.pinterest.com/pin/49187820909643080/)  
+[Reddit: Liminal space](https://www.reddit.com/r/LiminalSpace/)  <-- A liminal space is the time between the 'what was' and the 'next.' It is a place of transition, waiting, and not knowing."  
+[Reddit: Weirdly familiar](https://www.reddit.com/r/Weirdlyfamiliar/)  <-- Pictures that feel strangely familiar/nostalgic.
