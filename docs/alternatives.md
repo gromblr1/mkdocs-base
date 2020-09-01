@@ -183,6 +183,8 @@ notes |  |  |  |
 [Top 10 sites like 123movies](https://www.bestsevenreviews.com/top-10-sites-like-123movies/)  
 
 [Tinychan.net(streaming movies w/chat)](https://dis.tinychan.net/movies.html)  
+[HLSPlayer.net: online streaming video player](https://www.hlsplayer.net/)  < use m3u, m3u8 and mp4 playlists to watch streams !!! 
+Related: [IPTV](https://github.com/iptv-org/iptv)  <-- Collection of 8000+ publicly available IPTV channels (as .m3u) from all over the world. 
 <hr>  
 # ALTERNATIVES to CHAT APPS (Snapchat, Line, WhatsApp, Discord,Skype)
 [Tox.chat](https://tox.chat/index.html)  
