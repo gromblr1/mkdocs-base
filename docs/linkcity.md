@@ -1,10 +1,6 @@
 [Vocaroo](https://vocaroo.com/)  
 [What happens when you load a URL?](https://danluu.com/navigate-url/)  ((danluu.com))  
 [Aesthetic text generator](https://exoticfonts.com/aesthetic-text/)  
-[PasteBin](https://pastebin.com/)  
-[Bpaste](https://bpa.st/)  
-[Paste.rs](https://paste.rs/web)  
-[Privatebin.net](https://privatebin.net/)  
 [Rotten Websites](https://rottenwebsites.miraheze.org/wiki/Category:Websites)  
 [Hitchwiki: The Guide to Hitchhiking the World!](https://hitchwiki.org/en/Main_Page)  
 
@@ -46,6 +42,14 @@
 [fastly Service status](https://status.fastly.com/)  <-- watch for internet outages worldwide  
 [The Outages Archives](https://puck.nether.net/pipermail/outages/)  ((puck.nether.net))  
 [deadlinkchecker.com](https://www.deadlinkchecker.com/)  <-- check dead links of websites  
+[URL Encoder/Decoder](https://www.urlencoder.org/)  <-- use to turn all those symbols in a URL (like %20 for a blank space) into readable format  
+
+### pastebins
+[PasteBin](https://pastebin.com/)  
+[Bpaste](https://bpa.st/)  
+[Paste.rs](https://paste.rs/web)  
+[Privatebin.net](https://privatebin.net/)  
+[Teknik.io paste](https://paste.teknik.io/)  
 
 ###Other 
 [Top 12 Best Free Video Editing Software for Windows](https://filmora.wondershare.com/video-editor/free-video-editing-software-windows.html)  
@@ -150,6 +154,7 @@ Related: [Le Cinema Fantastique Francais](http://www.cnc-aff.fr/internet_cnc/Int
 <img src="https://youtube.com/favicon.ico">[Free Speech =/= No Consequences | Response to ReviewTechUSA | The Verge PC Building Fail](https://www.youtube.com/watch?v=l45mOsSgeRc)  
 Related: [The Verge PC Build: The Aftermath of a Harassment Campaign](https://medium.com/p/5363ed3626b8/responses/show) ((medium.com))  
 
+<img src="https://youtube.com/favicon.ico">[Thoughts Which Lead To Existential Crisis (r/AskReddit)](https://www.youtube.com/watch?v=TjfVeYO7rUM)   
 # Oldschool shiz
 [M_VEGETA_86](http://www.oocities.org/m_vegeta_86/)  
 
