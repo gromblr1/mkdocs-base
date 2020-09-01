@@ -1,8 +1,16 @@
 # Radio sations
+[Night.fm](https://nightride.fm/)  <-- FCKN AWESOME SYNTHWAVE RADIO  
 [WOW!Radio](https://radio.wownero.com/) ((radio.wownero.com))  
+[Streamwat.ch](http://streamwat.ch/radio/)  <-- many radio stations w/simple quick interface  
+Related: [Midomi](https://www.midomi.com/)  <-- excellent song recognizer  
+[Icecast2](http://167.88.153.133/)  <-- pretty big list of radio streams  ([mirror](http://dir.xiph.org/genres))  
+[Old Time Radio Catalog](https://www.otrcat.com/)  and [Otrnow.com](https://otrnow.com/)  
+[Tunein](https://tunein.com/)  
+[Horror Theatre](http://www.horror-theatre.com/)  
+[Pumpkinfm.com](https://pumpkinfm.com/)  
 
 # Radio tools
-[Hlstester.com](https://www.hlstester.com/) and Tvstreamin.com](https://tvstreamin.com/stream-tester.html)   <-- can play streaming URL mp3s   
+[Hlstester.com](https://www.hlstester.com/) and [Tvstreamin.com](https://tvstreamin.com/stream-tester.html)   <-- can play streaming URL mp3s   
 
 # Jeff Rense
 <img src="https://www.renseradio.com/JR-2b.jpg">  Last Assault  Akira Ifukube
@@ -41,9 +49,9 @@
 
 [2011 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102811_hr1.mp3)  <-- 
 [2011 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102811_hr2.mp3)  <-- 6minish interesting talking about occult and religion, 
-[2011 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102811_hr3.mp3)  
+[2011 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_102811_hr3.mp3)  <-- awesome intro (godzilla)  , whole broadcast about amityville horror
 
-[2012 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103112_hr1.mp3)  
+[2012 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103112_hr1.mp3)  <-- 14:25 very deep thoughts on the universe, consciousness,dimensions, spirits, aliens, 
 [2012 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103112_hr2.mp3)  
 [2012 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103112_hr3.mp3)  
 
