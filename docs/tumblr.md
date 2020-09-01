@@ -24,6 +24,8 @@ go to tumblr.com/liked/by/USERNAME and replace USERNAME with a username to see a
 [Barrerajh](https://barrerajh.tumblr.com/archive)  
 [Dr-igo](https://dr-igo.tumblr.com/archive)  
 [Talesfromweirdland](https://talesfromweirdland.tumblr.com/archive)  
+[Sonic4501](https://sonic4501.tumblr.com/archive/)  
 
 ## super lefist Tumblrs
 [Dynamohedron](https://dynamohedron.tumblr.com/archive)  
+[Akrillics](https://akrillics.tumblr.com/archive)  
