@@ -37,6 +37,11 @@
 [Concen.org](https://concen.org/torrents)  
 [CachedView.com](https://cachedview.com/)  ((cachedview.com))  <-- look up 404/non-existent CACHED pages from multiple tools  
 
+### tech streaming tools
+[Streamable WEB Clipper URL](https://streamable.com/clipper)  <-- clips video (like Youtube ones) w/o downloading them  
+[M3U8Player.net](https://m3u8player.net/)  
+[Streamwatch.ch](http://streamwat.ch/custom/)  
+
 ##tech tools
 [fastly Service status](https://status.fastly.com/)  <-- watch for internet outages worldwide  
 [The Outages Archives](https://puck.nether.net/pipermail/outages/)  ((puck.nether.net))  
@@ -94,6 +99,7 @@
 #Other
 [Stupid pinterest shit that makes no sense](https://www.pinterest.com/pin/720646377854230737/)  
 [Stupid pinterest shit that makes no sense part 2](https://www.pinterest.com/pin/567523990544733132/)  
+[Stupid pinterest shit that makes no sense part 3](https://www.pinterest.com/pin/762726886881405487/)  
 <img src="https://youtube.com/favicon.ico">[LAST WEEK IN CULTURE #5](https://www.youtube.com/watch?v=M3vBAOAKKiw) (([mirror](https://www.bitchute.com/video/XFMmPwqKD01a/)))  
 <img src="https://youtube.com/favicon.ico">[homeless guy dancing to plug walk](https://www.youtube.com/watch?v=UX3FVatYsUc)  ((youtube.com))  
 [Osu!](https://en.wikipedia.org/wiki/Osu!)  
