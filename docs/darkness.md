@@ -21,7 +21,7 @@ Transhumanism: To live forever without God.
 [Quantum Geomancy](https://sublunar.space/2019-05-quantum-geomancy.html) ((sublunar.space))  <-- quantum black magick  
 [Quantum Geomancy and Cryptic Mystic Math](http://herescope.blogspot.com/2012/05/quantum-geomancy-and-cryptic-mystic.html) ((herescope.blogspot.com))  
 
-📹[Geordie Rose in his own words Tsunami of Demons is coming](https://www.youtube.com/watch?v=iJQkwnkNSPc) ((youtube.com)) <-- Summoning demonic entities via quantum tech  
+📹[Geordie Rose in his own words Tsunami of Demons is coming](https://www.youtube.com/watch?v=krn74d6cvWY) ((youtube.com)) ([mirror](https://www.youtube.com/watch?v=oAzbTJsFIbw)) <-- Summoning demonic entities via quantum tech ([original video terminated](https://www.youtube.com/watch?v=iJQkwnkNSPc))   
 📹[WOW! D-Wave Quantum CHIP design HOLY TEMPLE + Aliester CROWLEY Divination Board](https://www.youtube.com/watch?v=M_9VY0_LbFM) ((youtube.com))  <-- computer chips use black magick sigils  
 📹[Strange Ritual at CERN](https://www.youtube.com/watch?v=rxN-VjrHDfU) ((youtube.com))  
 
