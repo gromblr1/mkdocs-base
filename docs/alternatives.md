@@ -196,9 +196,30 @@ Related: [IPTV](https://github.com/iptv-org/iptv)  <-- Collection of 8000+ publi
 [Telegram](https://telegram.org/)  
 Related: [Telegram Bots: An introduction for developers](https://core.telegram.org/bots)  
 
-#ALTERNATIVE TO FILE-SHARING APPS
+#ALTERNATIVE TO FILE-SHARING APPS/SERVICES
+[Pcloud transfer](https://transfer.pcloud.com/)  <-- send up to 5GB ,no signups
+[iFile.dk](http://ifile.dk/)  <-- unlimited file transfer  
+[Sendgb.com](https://www.sendgb.com/)  <-- send up to 20GB, password and self-destruct options  
+[Swisstransfer.com](https://www.swisstransfer.com/en)  <-- send up to 50GB, password options
+[Gofile](https://gofile.io/welcome)  
+[Tresorit Send](https://send.tresorit.com/)  <-- password options  
+[WeTransfer](https://wetransfer.com/)  
+[SnapDrop.net](https://snapdrop.net/)  <-- discovers users on local network to transfer files too  
+
+[Siasky.net](https://siasky.net/)  <-- The decentralized CDN and file sharing platform for devs. Skynet is the storage foundation for a Free Internet  
+Related: [Sialoop.net](https://sialoop.net/), [SIACDN](https://siacdn.com/) ,[SkynetHub](https://skynethub.io/), [Tutemwesi](https://skynet.tutemwesi.com/)  <-- SKYNET PORTALS  
+[JustBeamIT](https://justbeamit.com/)  <-- does not upload any data until receipient start files transfer  
+[FBRG.XYZ](https://fbrg.xyz/)  
+[Instant.io](https://instant.io/)  and [webtorrent.io](https://webtorrent.io/)  <-- Streaming file transfer over WebTorrent (torrents on the web)  
+
+[Magic wormhole](https://magic-wormhole.readthedocs.io/en/latest/)  
+[Jumpshare](https://jumpshare.com/)  
+[Syncthing.net](https://syncthing.net/)  
 [Restroshare](https://retroshare.cc/)  
-[SecureDrop](https://securedrop.org/)  
+[Croc](https://github.com/schollz/croc)  <-- tool that allows any two computers to simply and securely transfer files and folders  
+[Cryonet.io](https://cryonet.io/) <-- visual file manager and encrupted tunneling file transfer  
+[Muwire.com](https://muwire.com/)  <-- Easy anonymous file sharing using I2P technology  
+Related: [SecureDrop](https://securedrop.org/)  
 
 # Misc. useful items
 [Kiwix](https://www.kiwix.org/en/)  <-- you can downloaded the ENTIRE wikipedia or certain Wikipedia topics !  
@@ -206,7 +227,9 @@ Related: [Telegram Bots: An introduction for developers](https://core.telegram.o
 [Wikipedia CDN ?](https://db0nus869y26v.cloudfront.net/en/Ghoul)  <-- replace "Ghoul" with any other wikipedia pagename
 [Tineye.com](https://tineye.com/) <-- Reverse image search  
 [Osiris: serverless portal system](http://www.osiris-sps.org/)  
-[Apache Guacamole](https://guacamole.apache.org/)  <-- clientless remote desktop gateway
+[Apache Guacamole](https://guacamole.apache.org/)  <-- clientless remote desktop gateway  
+[Scoop.sh](https://scoop.sh/)  <-- A simple command-line installer for Windows  
+
 
 #Internet censorship circumvention freeware
 [Darknet software](https://en.wikipedia.org/wiki/Darknet#Software)  
