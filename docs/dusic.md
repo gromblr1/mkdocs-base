@@ -49,7 +49,19 @@
 [MOXX - Ultrazord Rises](https://www.youtube.com/watch?v=SAon4mBkuNo)  
 [Wice - Starfighter](https://www.youtube.com/watch?v=EAYfJckSEN0)  
 
+#epic moves
+[The Highwayman - Highwayman](https://www.youtube.com/watch?v=LTg4wj0HofE)  
+[Orbital - Halcyon On and On](https://www.youtube.com/watch?v=bV-hSgL1R74)  
+
+[Dakota - Runaway](https://www.youtube.com/watch?v=PtcFslJz7p0)  
+[Dakota - Into the night](https://www.youtube.com/watch?v=cMaB5zKVW7A)  
+[Dakota = Angry Men](https://www.youtube.com/watch?v=dGXob9MHkIg)  
+
+[Foreigner - Woman in Black](https://www.youtube.com/watch?v=_98uOcxqa3o)  
+[Foreigner - Juke Box Hero](https://www.youtube.com/watch?v=W_TOsFvnmeQ)  
+
 #fun music
+[Scatman Crothers - Ah'm a Nigger Man](https://www.youtube.com/watch?v=lPIZboQw1zA)  
 [[Electro] - Nitro Fun - New Game [Monstercat Release]](https://www.youtube.com/watch?v=6y_NJg-xoeE)  
 [Elvis Crespo - Tu Sonrisa](https://www.youtube.com/watch?v=3CqNeJLqvL0)  
 [Kevin MacLeod ~ Achaidh Cheide](https://www.youtube.com/watch?v=istqadd7x8I)  
