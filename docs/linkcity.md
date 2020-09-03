@@ -44,6 +44,9 @@
 [The Outages Archives](https://puck.nether.net/pipermail/outages/)  ((puck.nether.net))  
 [deadlinkchecker.com](https://www.deadlinkchecker.com/)  <-- check dead links of websites  
 [URL Encoder/Decoder](https://www.urlencoder.org/)  <-- use to turn all those symbols in a URL (like %20 for a blank space) into readable format  
+[Kutt.it](https://kutt.it/) and [Waa.ai](https://waa.ai/)  <-- URL shorteners   
+
+[GTMetrix](https://gtmetrix.com/) and [Pingdom tools](https://tools.pingdom.com/)   <-- analyze websites   
 
 ### pastebins
 [PasteBin](https://pastebin.com/)  
