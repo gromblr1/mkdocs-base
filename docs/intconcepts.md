@@ -26,8 +26,9 @@
 <img src="https://youtube.com/favicon.ico">[The Politics of Demolition Man](https://www.youtube.com/watch?v=DrUNIX2Iv04)  ((youtube.com))  
 [Conservapedia](https://www.conservapedia.com/index.php?title=Main_Page)  
 <img src="https://youtube.com/favicon.ico">[Joseph Nye - On Soft Power](https://www.youtube.com/watch?v=_58v19OtIIg) ((youtube.com))  
-<img src="https://youtube.com/favicon.ico">[KGB defector Yuri Bezmenov's warning to America (1984)](https://www.youtube.com/watch?v=IQPsKvG6WMI)   ((youtube.com))  <-- ideological subversion, 4 stages
+<img src="https://youtube.com/favicon.ico">[KGB defector Yuri Bezmenov's warning to America (1984)](https://www.youtube.com/watch?v=IQPsKvG6WMI)   ((youtube.com))  <-- ideological subversion, 4 stages  
 [Political apathy](https://en.wikipedia.org/wiki/Political_apathy)  
+https://en.wikipedia.org/wiki/Jingoism  
 
 ## types of governments
 [Anonacracy](https://en.wikipedia.org/wiki/Anocracy)  
