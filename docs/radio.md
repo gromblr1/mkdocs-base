@@ -8,14 +8,31 @@ Related: [Midomi](https://www.midomi.com/)  <-- excellent song recognizer
 [Tunein](https://tunein.com/)  
 [Horror Theatre](http://www.horror-theatre.com/)  
 [Pumpkinfm.com](https://pumpkinfm.com/)  
+[Online Radio Box](https://onlineradiobox.com/)  
 
-### spooks I picked up from old horror radio
+### spooky radio  
 <img src="https://youtube.com/favicon.ico">["The Dark" -- Arch Oboler 1962](https://www.youtube.com/watch?v=mSmEh8TxswQ)  ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Lights Out - Bon Voyage 1942](https://www.youtube.com/watch?v=Gt7C6agcrUE)  ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Lights Out - Chicken Heart 1937](https://www.youtube.com/watch?v=G_OD_jUnYNM)  ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[CBS Radio Mystery Theater ~ Bottom of the World 647](https://www.youtube.com/watch?v=Wj6Pg_fqrbM)  ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[]()  ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[]()  ((youtube.com))  
-<img src="https://youtube.com/favicon.ico">[]()  ((youtube.com))  
+[Deadair.co](https://deadair.co/)  
+[HorrorHeads](https://horrorheads.podbean.com/)  
+[AudioNoir](https://lf.org/milosz/web/noir/index.html)  
+
+# Radio Broadcasts
+[RadioFreeASGARD](https://radiofreeasgard.podbean.com/)  
+[Global Star 3](http://67.225.254.37:2146/index.html?sid=1) ((http://67.225.254.37:214/))  
+[Global Star 3 Programming](http://www.gsradio.net/schedule/star-3.htm) ((gsradio.net))  
+[Global Star 3 Programming updated i think](http://www.gsradio.net/help/m-f-star-3.htm) ((gsradio.net))  
+
+#audio dramas
+[Monster Space River of Pain Science Fiction Horror Audiobook](https://www.youtube.com/watch?v=c2bHJj8Rg1s)  <-- best damn Alien audio drama  
+
+#podcast hosting
+[podbean](https://www.podbean.com/)  
+[Libsyn](https://libsyn.com/)  
 
 # Radio tools
 [Hlstester.com](https://www.hlstester.com/) and [Tvstreamin.com](https://tvstreamin.com/stream-tester.html)   <-- can play streaming URL mp3s   
@@ -70,12 +87,6 @@ Related: [Midomi](https://www.midomi.com/)  <-- excellent song recognizer
 [2014 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103014_hr1.mp3)  
 [2014 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103014_hr2.mp3)  
 [2014 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103014_hr3.mp3)  
-
-# Radio Broadcasts
-[Global Star 3](http://67.225.254.37:2146/index.html?sid=1) ((http://67.225.254.37:214/))  
-[Global Star 3 Programming](http://www.gsradio.net/schedule/star-3.htm) ((gsradio.net))  
-[Global Star 3 Programming updated i think](http://www.gsradio.net/help/m-f-star-3.htm) ((gsradio.net))  
-
 
 #time zone tools
 [Time Zone converter](https://24timezones.com/difference/mst/est)  
