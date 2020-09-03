@@ -138,6 +138,9 @@ notes |  |  |  |
 [Toile Libre (french image hosting)](https://pix.toile-libre.org/)  
 [Drop.infini[french file hosting]](https://drop.infini.fr/)  
 [Prnt.src: Lightshot screen capture tool](https://prnt.sc/)  
+[Filebase](https://filebase.com/)  <-- 5GB free  
+[Enevlop.app](https://envelop.app)  <--Blockstack web file-hosting dapp/decentralized app (FREE UNLIMITED FILE STORAGE)  
+[Blockstack dapps](https://browser.blockstack.org/)  <-- massive list of dapps  
 
 [Streamable](https://streamable.com/)  <-- no signup required  
 [Telegra.ph](https://telegra.ph/) <-- no signup required, anonymous blogging platform  
@@ -146,6 +149,33 @@ notes |  |  |  |
 [TOP 8 FREE SPEECH HOSTING PROVIDERS](https://hexd.com/free-speech-hosting/)  ((hexd.com))  
 [Hostry](https://hostry.com/)  
 <hr>  
+#ALTERNATIVE TO FILE-SHARING APPS/SERVICES
+[Pcloud transfer](https://transfer.pcloud.com/)  <-- send up to 5GB ,no signups  
+[iFile.dk](http://ifile.dk/)  <-- unlimited file transfer   
+[Sendgb.com](https://www.sendgb.com/)  <-- send up to 20GB, password and self-destruct options  
+[Swisstransfer.com](https://www.swisstransfer.com/en)  <-- send up to 50GB, password options  
+[Gofile](https://gofile.io/welcome)  
+[Tresorit Send](https://send.tresorit.com/)  <-- password options  
+[WeTransfer](https://wetransfer.com/)  
+[Pixeldrain.com](https://pixeldrain.com/)  
+
+[Siasky.net](https://siasky.net/)  <-- The decentralized CDN and file sharing platform for devs. Skynet is the storage foundation for a Free Internet  
+Related: [Sialoop.net](https://sialoop.net/), [SIACDN](https://siacdn.com/) ,[SkynetHub](https://skynethub.io/), [Tutemwesi](https://skynet.tutemwesi.com/)  <-- SKYNET PORTALS  
+[FBRG.XYZ](https://fbrg.xyz/)  <-- EXTREMELY FAST UPLOAD/DOWNLOAD !  
+[Instant.io](https://instant.io/)  and [webtorrent.io](https://webtorrent.io/)  <-- Streaming file transfer over WebTorrent (torrents on the web)  
+[SnapDrop.net](https://snapdrop.net/)  <-- discovers users on local network to transfer files too  
+[JustBeamIT](https://justbeamit.com/)  <-- does not upload any data until receipient start files transfer  
+
+[Magic wormhole](https://magic-wormhole.readthedocs.io/en/latest/)  
+[Jumpshare](https://jumpshare.com/)  
+[Syncthing.net](https://syncthing.net/)  
+[Restroshare](https://retroshare.cc/)  
+[Croc](https://github.com/schollz/croc)  <-- tool that allows any two computers to simply and securely transfer files and folders  
+[Cryonet.io](https://cryonet.io/) <-- visual file manager and encrupted tunneling file transfer  
+[Muwire.com](https://muwire.com/)  <-- Easy anonymous file sharing using I2P technology  
+Related: [SecureDrop](https://securedrop.org/)  
+
+
 # ALTERNATIVE to Youtube
 [Bitchute](https://www.bitchute.com)  
 [Drop.space](https://drop.space)  
@@ -196,30 +226,7 @@ Related: [IPTV](https://github.com/iptv-org/iptv)  <-- Collection of 8000+ publi
 [Telegram](https://telegram.org/)  
 Related: [Telegram Bots: An introduction for developers](https://core.telegram.org/bots)  
 
-#ALTERNATIVE TO FILE-SHARING APPS/SERVICES
-[Pcloud transfer](https://transfer.pcloud.com/)  <-- send up to 5GB ,no signups  
-[iFile.dk](http://ifile.dk/)  <-- unlimited file transfer   
-[Sendgb.com](https://www.sendgb.com/)  <-- send up to 20GB, password and self-destruct options  
-[Swisstransfer.com](https://www.swisstransfer.com/en)  <-- send up to 50GB, password options  
-[Gofile](https://gofile.io/welcome)  
-[Tresorit Send](https://send.tresorit.com/)  <-- password options  
-[WeTransfer](https://wetransfer.com/)  
 
-[Siasky.net](https://siasky.net/)  <-- The decentralized CDN and file sharing platform for devs. Skynet is the storage foundation for a Free Internet  
-Related: [Sialoop.net](https://sialoop.net/), [SIACDN](https://siacdn.com/) ,[SkynetHub](https://skynethub.io/), [Tutemwesi](https://skynet.tutemwesi.com/)  <-- SKYNET PORTALS  
-[FBRG.XYZ](https://fbrg.xyz/)  <-- EXTREMELY FAST UPLOAD/DOWNLOAD !  
-[Instant.io](https://instant.io/)  and [webtorrent.io](https://webtorrent.io/)  <-- Streaming file transfer over WebTorrent (torrents on the web)  
-[SnapDrop.net](https://snapdrop.net/)  <-- discovers users on local network to transfer files too  
-[JustBeamIT](https://justbeamit.com/)  <-- does not upload any data until receipient start files transfer  
-
-[Magic wormhole](https://magic-wormhole.readthedocs.io/en/latest/)  
-[Jumpshare](https://jumpshare.com/)  
-[Syncthing.net](https://syncthing.net/)  
-[Restroshare](https://retroshare.cc/)  
-[Croc](https://github.com/schollz/croc)  <-- tool that allows any two computers to simply and securely transfer files and folders  
-[Cryonet.io](https://cryonet.io/) <-- visual file manager and encrupted tunneling file transfer  
-[Muwire.com](https://muwire.com/)  <-- Easy anonymous file sharing using I2P technology  
-Related: [SecureDrop](https://securedrop.org/)  
 
 # Misc. useful items
 [Kiwix](https://www.kiwix.org/en/)  <-- you can downloaded the ENTIRE wikipedia or certain Wikipedia topics !  
