@@ -32,6 +32,7 @@
 [Youtube restriction checker](http://polsy.org.uk/stuff/ytrestrict.cgi)  <-- check which countries a video is restricted  
 [Concen.org](https://concen.org/torrents)  
 [CachedView.com](https://cachedview.com/)  ((cachedview.com))  <-- look up 404/non-existent CACHED pages from multiple tools  
+[Placebear](https://placebear.com/) & [Placekitten](https://placekitten.com/) <-- simple service for getting pictures of bears to use as placeholders in your design/code. Put img size (width & height) after URL  
 
 ### tech streaming tools
 [Streamable WEB Clipper URL](https://streamable.com/clipper)  <-- clips video (like Youtube ones) w/o downloading them  
@@ -52,6 +53,10 @@
 [Teknik.io paste](https://paste.teknik.io/)  
 
 ###Other 
+[Patchbay.pub](https://patchbay.pub/)  
+[Take-a-screenshot.org](http://www.take-a-screenshot.org/)  <-- many unknown ways to take screenshots on win/linux/mac/ios/android w/o programs  
+[Supportdetails.com](https://supportdetails.com/)  
+[CompressPNG.com](https://compresspng.com/)  and [TinyPNG.com](https://tinypng.com/)  
 [Top 12 Best Free Video Editing Software for Windows](https://filmora.wondershare.com/video-editor/free-video-editing-software-windows.html)  
 
 
