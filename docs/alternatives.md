@@ -184,8 +184,8 @@ notes |  |  |  |
 [Top 10 sites like 123movies](https://www.bestsevenreviews.com/top-10-sites-like-123movies/)  
 
 [Tinychan.net(streaming movies w/chat)](https://dis.tinychan.net/movies.html)  
-[HLSPlayer.net: online streaming video player](https://www.hlsplayer.net/)  < use m3u, m3u8 and mp4 playlists to watch streams !!! 
-Related: [IPTV](https://github.com/iptv-org/iptv)  <-- Collection of 8000+ publicly available IPTV channels (as .m3u) from all over the world. 
+[HLSPlayer.net: online streaming video player](https://www.hlsplayer.net/)  < use m3u, m3u8 and mp4 playlists to watch streams !!!  
+Related: [IPTV](https://github.com/iptv-org/iptv)  <-- Collection of 8000+ publicly available IPTV channels (as .m3u) from all over the world.  
 <hr>  
 # ALTERNATIVES to CHAT APPS (Snapchat, Line, WhatsApp, Discord,Skype)
 [Tox.chat](https://tox.chat/index.html)  
@@ -197,20 +197,20 @@ Related: [IPTV](https://github.com/iptv-org/iptv)  <-- Collection of 8000+ publi
 Related: [Telegram Bots: An introduction for developers](https://core.telegram.org/bots)  
 
 #ALTERNATIVE TO FILE-SHARING APPS/SERVICES
-[Pcloud transfer](https://transfer.pcloud.com/)  <-- send up to 5GB ,no signups
-[iFile.dk](http://ifile.dk/)  <-- unlimited file transfer  
+[Pcloud transfer](https://transfer.pcloud.com/)  <-- send up to 5GB ,no signups  
+[iFile.dk](http://ifile.dk/)  <-- unlimited file transfer   
 [Sendgb.com](https://www.sendgb.com/)  <-- send up to 20GB, password and self-destruct options  
-[Swisstransfer.com](https://www.swisstransfer.com/en)  <-- send up to 50GB, password options
+[Swisstransfer.com](https://www.swisstransfer.com/en)  <-- send up to 50GB, password options  
 [Gofile](https://gofile.io/welcome)  
 [Tresorit Send](https://send.tresorit.com/)  <-- password options  
 [WeTransfer](https://wetransfer.com/)  
-[SnapDrop.net](https://snapdrop.net/)  <-- discovers users on local network to transfer files too  
 
 [Siasky.net](https://siasky.net/)  <-- The decentralized CDN and file sharing platform for devs. Skynet is the storage foundation for a Free Internet  
 Related: [Sialoop.net](https://sialoop.net/), [SIACDN](https://siacdn.com/) ,[SkynetHub](https://skynethub.io/), [Tutemwesi](https://skynet.tutemwesi.com/)  <-- SKYNET PORTALS  
-[JustBeamIT](https://justbeamit.com/)  <-- does not upload any data until receipient start files transfer  
-[FBRG.XYZ](https://fbrg.xyz/)  
+[FBRG.XYZ](https://fbrg.xyz/)  <-- EXTREMELY FAST UPLOAD/DOWNLOAD !  
 [Instant.io](https://instant.io/)  and [webtorrent.io](https://webtorrent.io/)  <-- Streaming file transfer over WebTorrent (torrents on the web)  
+[SnapDrop.net](https://snapdrop.net/)  <-- discovers users on local network to transfer files too  
+[JustBeamIT](https://justbeamit.com/)  <-- does not upload any data until receipient start files transfer  
 
 [Magic wormhole](https://magic-wormhole.readthedocs.io/en/latest/)  
 [Jumpshare](https://jumpshare.com/)  
