@@ -18,6 +18,7 @@
 📖[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)  
 📖[Comparison of software and protocols for distributed social networking](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)  
 📖[Distributed social network](https://en.wikipedia.org/wiki/Distributed_social_network)  
+[MaidSafe.net](https://maidsafe.net/) and [SAFE NETWORK](https://safenetwork.tech/how-it-works/)  <-- SAFE replaces the vulnerable structure of the existing Web w/ a decentralised, autonomous network. One that's secure, & accessible to everyone.  
 
 ###Other
 [Pod Uptime](https://podupti.me/)  
@@ -140,7 +141,7 @@ notes |  |  |  |
 [Prnt.src: Lightshot screen capture tool](https://prnt.sc/)  
 [Filebase](https://filebase.com/)  <-- 5GB free  
 [Enevlop.app](https://envelop.app)  <--Blockstack web file-hosting dapp/decentralized app (FREE UNLIMITED FILE STORAGE)  
-[Blockstack dapps](https://browser.blockstack.org/)  <-- massive list of dapps  
+Related: [Blockstack dapps](https://browser.blockstack.org/)  <-- massive list of dapps  
 
 [Streamable](https://streamable.com/)  <-- no signup required  
 [Telegra.ph](https://telegra.ph/) <-- no signup required, anonymous blogging platform  
@@ -159,8 +160,6 @@ notes |  |  |  |
 [WeTransfer](https://wetransfer.com/)  
 [Pixeldrain.com](https://pixeldrain.com/)  
 
-[Siasky.net](https://siasky.net/)  <-- The decentralized CDN and file sharing platform for devs. Skynet is the storage foundation for a Free Internet  
-Related: [Sialoop.net](https://sialoop.net/), [SIACDN](https://siacdn.com/) ,[SkynetHub](https://skynethub.io/), [Tutemwesi](https://skynet.tutemwesi.com/)  <-- SKYNET PORTALS  
 [FBRG.XYZ](https://fbrg.xyz/)  <-- EXTREMELY FAST UPLOAD/DOWNLOAD !  
 [Instant.io](https://instant.io/)  and [webtorrent.io](https://webtorrent.io/)  <-- Streaming file transfer over WebTorrent (torrents on the web)  
 [SnapDrop.net](https://snapdrop.net/)  <-- discovers users on local network to transfer files too  
@@ -174,6 +173,14 @@ Related: [Sialoop.net](https://sialoop.net/), [SIACDN](https://siacdn.com/) ,[Sk
 [Cryonet.io](https://cryonet.io/) <-- visual file manager and encrupted tunneling file transfer  
 [Muwire.com](https://muwire.com/)  <-- Easy anonymous file sharing using I2P technology  
 Related: [SecureDrop](https://securedrop.org/)  
+
+### Skynet protocol
+[Siasky.net](https://siasky.net/)  <-- The decentralized CDN and file sharing platform for devs. Skynet is the storage foundation for a Free Internet  
+Related: [Sialoop.net](https://sialoop.net/), [SIACDN](https://siacdn.com/) ,[SkynetHub](https://skynethub.io/), [Tutemwesi](https://skynet.tutemwesi.com/)  <-- SKYNET PORTALS  
+Related:[SkyLive](https://skylive.coolhd.hu/)  <-- Decentralized livestreams on Sia Skynet  
+Related:[SkyBin](https://siasky.net/CAAVU14pB9GRIqCrejD7rlS27HltGGiiCLICzmrBV0wVtA)  <-- pastebin on SkyNet protcol  
+[InstaSkynet](https://github.com/kunalkamble/instaskynet-webapp)  
+[Skynethub.io - SKYNET APP STORE](https://skynethub.io/_B3VrECGOHPEAFknVQwj_vWsyaX_8iIRuB_TL09cuj9uZQ/index.html#/apps/all)  
 
 
 # ALTERNATIVE to Youtube
