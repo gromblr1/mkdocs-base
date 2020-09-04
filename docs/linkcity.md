@@ -47,6 +47,7 @@
 [Kutt.it](https://kutt.it/) and [Waa.ai](https://waa.ai/)  <-- URL shorteners   
 
 [GTMetrix](https://gtmetrix.com/) and [Pingdom tools](https://tools.pingdom.com/)   <-- analyze websites   
+[Check-your-website](https://check-your-website.server-daten.de/)  <-- comprehensive DNS tool for your website  
 
 ### pastebins
 [PasteBin](https://pastebin.com/)  
@@ -151,7 +152,7 @@ Related: [Le Cinema Fantastique Francais](http://www.cnc-aff.fr/internet_cnc/Int
 <img src="https://youtube.com/favicon.ico">[Tales from the Hood ending reenactment](https://www.youtube.com/watch?v=J5-DW4-dFvI) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[The Fesh Pince of Blair](https://www.youtube.com/watch?v=HeIkk6Yo0s8) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Thumbtanic - HQ Full](https://www.youtube.com/watch?v=-Jvk-0v1C_8) ((youtube.com))  
-[]() (())  
+<img src="https://youtube.com/favicon.ico">[Improv Dance with Sam Rockwell and Jimmy Fallon (Late Night with Jimmy Fallon)](https://www.youtube.com/watch?v=m8KPyk-8aYk) ((youtube.com))  
 []() (())  
 []() (())  
 
