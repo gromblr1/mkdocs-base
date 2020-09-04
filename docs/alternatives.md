@@ -139,11 +139,12 @@ notes |  |  |  |
 [Toile Libre (french image hosting)](https://pix.toile-libre.org/)  
 [Drop.infini[french file hosting]](https://drop.infini.fr/)  
 [Prnt.src: Lightshot screen capture tool](https://prnt.sc/)  
+[Pdrive.co](https://pdrive.co/)  <-- good but freezes on large uploads more than a couplre hundred megabytes  
 [Filebase](https://filebase.com/)  <-- 5GB free  
 [Enevlop.app](https://envelop.app)  <--Blockstack web file-hosting dapp/decentralized app (FREE UNLIMITED FILE STORAGE)  
 Related: [Blockstack dapps](https://browser.blockstack.org/)  <-- massive list of dapps  
 
-[Streamable](https://streamable.com/)  <-- no signup required  
+[Streamable](https://streamable.com/)  <-- no signup required  (videos no longer than 10 minutes)
 [Telegra.ph](https://telegra.ph/) <-- no signup required, anonymous blogging platform  
 
 ## Other
@@ -181,7 +182,9 @@ Related:[SkyLive](https://skylive.coolhd.hu/)  <-- Decentralized livestreams on 
 Related:[SkyBin](https://siasky.net/CAAVU14pB9GRIqCrejD7rlS27HltGGiiCLICzmrBV0wVtA)  <-- pastebin on SkyNet protcol  
 [InstaSkynet](https://github.com/kunalkamble/instaskynet-webapp)  
 [Skynethub.io - SKYNET APP STORE](https://skynethub.io/_B3VrECGOHPEAFknVQwj_vWsyaX_8iIRuB_TL09cuj9uZQ/index.html#/apps/all)  
-
+[Pagebin](https://siasky.net/fABqxepoA1CnWZ0Kl6NQd6FpDYiHGYinKLrZAVw923rHjg/)  
+[Skynet Gallery](https://skyportal.xyz/AAB0cZcN6HYyKYx8aqBrDG9AitgGaXq8mn0MPCI6aFlZCQ/#/)  
+[SKYNET SUPPORT PAGE](https://support.siasky.net/)  <-- Skynet101, How Skynet works, How Sia works   
 
 # ALTERNATIVE to Youtube
 [Bitchute](https://www.bitchute.com)  
