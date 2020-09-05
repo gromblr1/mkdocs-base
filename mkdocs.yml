@@ -1,15 +1,16 @@
 site_name: GOGNAUTS
 nav:
     - Home: index.md
+    - ------------: nun.md    
     - Alternatives: alternatives.md
     - RSS: rss.md
     - Link City: linkcity.md        
     - Sysadmin: sysadmin.md
     - Radio broadcasts: radio.md
     - Interesting concepts: intconcepts.md    
+    - ------------: nun.md
     - Games: games.md
     - IRC: irc.html
-    - ------------: nun.md
     - Tumblr Tools: tumblr.md    
     - ------------: nun.md
     - Book Info: bookinfo.md
@@ -17,6 +18,7 @@ nav:
     - Comics: comics.md
     - Archit. n Geology: archgeo.md
     - Linguistics: ling.md    
+    - ------------: nun.md    
     - Artistical: art.md        
     - Darkness: darkness.md
     - Gognauts: gognauts.md    
