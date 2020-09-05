@@ -1,14 +1,17 @@
 site_name: GOGNAUTS
 nav:
     - Home: index.md
-    - Games: games.md
-    - IRC: irc.html
-    - Link City: linkcity.md    
     - Alternatives: alternatives.md
     - RSS: rss.md
-    - Tumblr Tools: tumblr.md    
+    - Link City: linkcity.md        
+    - Sysadmin: sysadmin.md
     - Radio broadcasts: radio.md
     - Interesting concepts: intconcepts.md    
+    - Games: games.md
+    - IRC: irc.html
+    - ------------:
+    - Tumblr Tools: tumblr.md    
+    - ------------:
     - Book Info: bookinfo.md
     - Dance n Music: dusic.md    
     - Comics: comics.md
