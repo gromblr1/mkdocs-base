@@ -1,5 +1,6 @@
 [IS RSS DEAD ?](http://isrssdead.com/)  
 <img src="https://youtube.com/favicon.ico">[RSS made easy](https://www.youtube.com/watch?v=6HNUqDL-pI8) <-- watch how RSS works.  GUARANTEED TO CHANGE YOUR LIFE FOR GOOD.  
+[Usepanda.com](https://usepanda.com/app/#/)  
 # RSS: It will change your life
 [All about RSS (possibly the best damn RSS resource I've ever seen)](https://github.com/AboutRSS/ALL-about-RSS#reddit-rss-fix)  
 [Alternative RSS reader list](https://alternativeto.net/browse/search?q=rss)
