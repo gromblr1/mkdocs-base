@@ -7,7 +7,7 @@
 [Popping music Training Ver.2 - |Basic music to Training|](https://www.youtube.com/watch?v=U148JATauGA)  
 [The Reddings - The Awakening Part 1](https://www.youtube.com/watch?v=eGGFbRqsDrQ)  
 
-[Greenteck & NELSON vs TAKUMI & らんきち BEST8 POP WDC 2018 FINAL World Dance Colosseum](https://www.youtube.com/watch?v=Z3Kq4tAQrkc)  
+[Greenteck & NELSON vs TAKUMI & らんきち BEST8 POP WDC 2018 FINAL World Dance Colosseum](https://www.youtube.com/watch?v=Z3Kq4tAQrkc)  [BLOCKED WORLDWIDE](http://polsy.org.uk/stuff/ytrestrict.cgi?ytid=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZ3Kq4tAQrkc&auth=54f837b391333c5752562a04dc6de7e2)  
 [GREENTECK VS 鸡婆 POPPING final 舞甲天下捌 2017](https://www.youtube.com/watch?v=qWf5V7glhCA)  
 [Slick Dogg| breakin it down | dance by | SISSTA | Tutti Fruttiz | Popping | Freestyle| Asian | Girl](https://www.youtube.com/watch?v=pAONq5yZng4)  
 [ANGYIL vs FIREBAC Best08_01 | SAMURAI FINAL 2019.06.30 | SHIROFES.2019](https://www.youtube.com/watch?v=N8irUaOuMZw)  
@@ -51,6 +51,7 @@
 
 #epic moves
 [The Highwayman - Highwayman](https://www.youtube.com/watch?v=LTg4wj0HofE)  
+[Marty Robbins - Big iron](https://www.youtube.com/watch?v=zzICMIu5zFY)   
 [Orbital - Halcyon On and On](https://www.youtube.com/watch?v=bV-hSgL1R74)  
 
 [Dakota - Runaway](https://www.youtube.com/watch?v=PtcFslJz7p0)  
@@ -64,6 +65,7 @@
 [Scatman Crothers - Ah'm a Nigger Man](https://www.youtube.com/watch?v=lPIZboQw1zA)  
 [[Electro] - Nitro Fun - New Game [Monstercat Release]](https://www.youtube.com/watch?v=6y_NJg-xoeE)  
 [Elvis Crespo - Tu Sonrisa](https://www.youtube.com/watch?v=3CqNeJLqvL0)  
+[Los Ángeles Azules - Toma Que Toma (Video Oficial)](https://www.youtube.com/watch?v=C6c8Kvn3nKM)  
 [Kevin MacLeod ~ Achaidh Cheide](https://www.youtube.com/watch?v=istqadd7x8I)  
 [Big Red Panda - Still Moment](https://www.youtube.com/watch?v=F4_BLkh-TXU)  
 [Candy Dulfer / Dave Stewart - Lily Was Here 1989 Video HD](https://www.youtube.com/watch?v=_5kKo2_2MzI)  
