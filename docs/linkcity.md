@@ -18,6 +18,9 @@
 [Political power grows out of the barrel of a gun](https://en.wikipedia.org/wiki/Political_power_grows_out_of_the_barrel_of_a_gun)  
 <img src="https://youtube.com/favicon.ico">[2014 Arizona Governor Candidate Barry Hess](https://www.youtube.com/watch?v=LSuOAC7jqhk)  ((youtube.com))   
 
+#useful links
+[Dellacorte.me](https://dellacorte.me/)    
+
 #tech
 [Locoloader](https://www.locoloader.com/)   <-- tool used for downloading bandcamp mp3's
 [Youtube playlist backup to excel spreadsheets](http://www.williamsportwebdeveloper.com/FavBackUp.aspx)  
@@ -61,8 +64,10 @@
 [Take-a-screenshot.org](http://www.take-a-screenshot.org/)  <-- many unknown ways to take screenshots on win/linux/mac/ios/android w/o programs  
 [Supportdetails.com](https://supportdetails.com/)  
 [CompressPNG.com](https://compresspng.com/)  and [TinyPNG.com](https://tinypng.com/)  
-[Top 12 Best Free Video Editing Software for Windows](https://filmora.wondershare.com/video-editor/free-video-editing-software-windows.html)  
 
+### other interesting tech tidbits
+[Top 12 Best Free Video Editing Software for Windows](https://filmora.wondershare.com/video-editor/free-video-editing-software-windows.html)  
+[Producthunt.com](https://www.producthunt.com/)  
 
 #Platforms
 [StaticGen](https://www.staticgen.com/)  
