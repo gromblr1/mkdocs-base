@@ -57,12 +57,14 @@
 [Voat.co](https://voat.co/)  
 [Lemmy](https://dev.lemmy.ml/)  
 [Ruqqus](https://www.ruqqus.com/)  
+[Slug.com](https://slug.com/)  
 
 ##Retarded versions of Reddit
 [Thedonald.win](https://thedonald.win)  
 [MetaFilter](https://www.metafilter.com/)  
 [Stammtisch](https://stammtisch.tupambae.org/community)  
 [Tiblar](https://tiblar.com/)  
+[Hubski.com](https://hubski.com/)   
 
 ###Other
 [Tech News Feed](https://news.mpxc.net/)  <-- Slashdot, LinuxSec, LinuxToday, Gitorious, Phoronix, XKCD, TheRegister & ArsTechnica  
