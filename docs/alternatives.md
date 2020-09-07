@@ -8,6 +8,7 @@
 
 ### Other surveillance info/
 [List of government mass surveillance projects](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects)  
+[GDPR Enforcement Tracker](https://www.enforcementtracker.com/)  <-- Tracker for EU data protection authorities of fines and penalites  
 
 <hr>
 # Fediverse & decentralilzation information
@@ -47,6 +48,7 @@
 
 ##Liberal version of Reddit:
 [Chapo.chat](https://www.chapo.chat/)  
+[Lemmy](https://dev.lemmy.ml/)  
 [Raddle.me](https://raddle.me/)  
 [Tildes.net](https://tildes.net/)  
 [Ycombinator](https://news.ycombinator.com/)  
@@ -55,8 +57,8 @@
 ##Conservative version of Reddit 
 [Saidit.net](https://saidit.net/)  
 [Voat.co](https://voat.co/)  
-[Lemmy](https://dev.lemmy.ml/)  
 [Ruqqus](https://www.ruqqus.com/)  
+Related:[Ruqqus-metrics](https://ruqqus-metrics.com/)  
 [Slug.com](https://slug.com/)  
 
 ##Retarded versions of Reddit
@@ -132,7 +134,7 @@ File exp. | never | 8+ months after last login | 180 days after last login | nev
 notes |  |  |  | 
 
 [Teknik upload](https://upload.teknik.io/)  
-[Cozy.io](https://cozy.io/en/)  <-- has 5GB of free space
+[Cozy.io](https://cozy.io/en/)  <-- has 5GB of free space  
 [Free file hosting services list](https://www.hostingadvice.com/how-to/free-file-hosting-services/)  
 [catbox.moe](https://catbox.moe/)  
 [Nyah.moe](https://nyah.moe/)  
@@ -143,10 +145,14 @@ notes |  |  |  |
 [Prnt.src: Lightshot screen capture tool](https://prnt.sc/)  
 [Pdrive.co](https://pdrive.co/)  <-- good but freezes on large uploads more than a couplre hundred megabytes  
 [Filebase](https://filebase.com/)  <-- 5GB free  
-[Enevlop.app](https://envelop.app)  <--Blockstack web file-hosting dapp/decentralized app (FREE UNLIMITED FILE STORAGE)  
+[Envelop.app](https://envelop.app)  <--Blockstack web file-hosting dapp/decentralized app (FREE UNLIMITED FILE STORAGE)  
 Related: [Blockstack dapps](https://browser.blockstack.org/)  <-- massive list of dapps  
 
-[Streamable](https://streamable.com/)  <-- no signup required  (videos no longer than 10 minutes)
+[Scaleway.com](https://www.scaleway.com/en/)  <-- free speech cloud-hosting  
+[Jose Data Center](https://joesdatacenter.com/)  <-- free speech hosting  
+[OVHCloud](https://www.ovh.com/world/)  <-- (possible)free speech hosting   
+
+[Streamable](https://streamable.com/)  <-- no signup required  (videos no longer than 10 minutes)  
 [Telegra.ph](https://telegra.ph/) <-- no signup required, anonymous blogging platform  
 
 ## Other
@@ -163,7 +169,7 @@ Related: [Blockstack dapps](https://browser.blockstack.org/)  <-- massive list o
 [WeTransfer](https://wetransfer.com/)  
 [Pixeldrain.com](https://pixeldrain.com/)  
 
-[FBRG.XYZ](https://fbrg.xyz/)  <-- EXTREMELY FAST UPLOAD/DOWNLOAD !  
+[FBRG.XYZ](https://fbrg.xyz/)  <-- EXTREMELY FAST UPLOAD/DOWNLOAD !  (files up to 1GB probably wont play)  
 [Instant.io](https://instant.io/)  and [webtorrent.io](https://webtorrent.io/)  <-- Streaming file transfer over WebTorrent (torrents on the web)  
 [SnapDrop.net](https://snapdrop.net/)  <-- discovers users on local network to transfer files too  
 [JustBeamIT](https://justbeamit.com/)  <-- does not upload any data until receipient start files transfer  
@@ -178,7 +184,7 @@ Related: [Blockstack dapps](https://browser.blockstack.org/)  <-- massive list o
 Related: [SecureDrop](https://securedrop.org/)  
 
 ### Skynet protocol
-[Siasky.net](https://siasky.net/)  <-- The decentralized CDN and file sharing platform for devs. Skynet is the storage foundation for a Free Internet  
+[Siasky.net](https://siasky.net/)  <-- The decentralized CDN and file sharing platform for devs. Skynet is the storage foundation for a Free Internet  (files no bigger than 1GB allowed)
 [SKYNET SUPPORT PAGE](https://support.siasky.net/)  <-- Skynet101, How Skynet works, How Sia works   
 [Sia Wiki](https://siawiki.tech/)  <-- skynet wiki  
 
@@ -190,6 +196,7 @@ Related: [SecureDrop](https://securedrop.org/)
 [Skynethub.io - SKYNET APP STORE](https://skynethub.io/_B3VrECGOHPEAFknVQwj_vWsyaX_8iIRuB_TL09cuj9uZQ/index.html#/apps/all)  
 [Pagebin](https://siasky.net/fABqxepoA1CnWZ0Kl6NQd6FpDYiHGYinKLrZAVw923rHjg/)  
 [Skynet Gallery](https://skyportal.xyz/AAB0cZcN6HYyKYx8aqBrDG9AitgGaXq8mn0MPCI6aFlZCQ/#/)  
+[Script for uploading to skynet](https://github.com/t-900-a/jellyfin-skynet-uploader)  
 
 # ALTERNATIVE to Youtube
 [Bitchute](https://www.bitchute.com)  
@@ -234,6 +241,7 @@ Related: [IPTV](https://github.com/iptv-org/iptv)  <-- Collection of 8000+ publi
 <hr>  
 # ALTERNATIVES to CHAT APPS (Snapchat, Line, WhatsApp, Discord,Skype)
 [Tox.chat](https://tox.chat/index.html)  
+[qTox](https://qtox.github.io/)  
 [Mattermost.org](https://mattermost.org/)  
 [Jami.net](https://jami.net/)  
 [Linphone](https://www.linphone.org/)  
@@ -246,12 +254,16 @@ Related: [Telegram Bots: An introduction for developers](https://core.telegram.o
 # Misc. useful items
 [Kiwix](https://www.kiwix.org/en/)  <-- you can downloaded the ENTIRE wikipedia or certain Wikipedia topics !  
 [Kiwix content](https://wiki.kiwix.org/wiki/Content)  
-[Wikipedia CDN ?](https://db0nus869y26v.cloudfront.net/en/Ghoul)  <-- replace "Ghoul" with any other wikipedia pagename
+[Wikipedia CDN ?](https://db0nus869y26v.cloudfront.net/en/Ghoul)  <-- replace "Ghoul" with any other wikipedia pagename  
 [Tineye.com](https://tineye.com/) <-- Reverse image search  
 [Osiris: serverless portal system](http://www.osiris-sps.org/)  
 [Apache Guacamole](https://guacamole.apache.org/)  <-- clientless remote desktop gateway  
 [Scoop.sh](https://scoop.sh/)  <-- A simple command-line installer for Windows  
 
+### How to remove yourself from BIG DATA directories
+[Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)  
+[Personal Data Removal Workbook & Credit Freeze Guide](https://inteltechniques.com/data/workbook.pdf)  <-- huge list of detailed removal processes  
+[Data Dividend Project](https://datadividendproject.com/)  <-- if companies sell ur data, you should get paid for it  
 
 #Internet censorship circumvention freeware
 [Darknet software](https://en.wikipedia.org/wiki/Darknet#Software)  
