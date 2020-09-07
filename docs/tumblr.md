@@ -19,13 +19,21 @@ go to tumblr.com/liked/by/USERNAME and replace USERNAME with a username to see a
 [Tumblthree: Tumblr Backup Application](https://www.jzab.de/content/tumblthree-a-tumblr-backup-application/)  
 
 # Tumblr archives
-[Ytelovski](https://ytelovski.tumblr.com/archive)  
-[Future-trunks-66x](https://future-trunks-666.tumblr.com/archive)  
-[Virtualboizero](https://virtualboizero.tumblr.com/archive)  
-[Barrerajh](https://barrerajh.tumblr.com/archive)  
-[Dr-igo](https://dr-igo.tumblr.com/archive)  
-[Talesfromweirdland](https://talesfromweirdland.tumblr.com/archive)  
-[Sonic4501](https://sonic4501.tumblr.com/archive/)  
+[ytelovski](https://ytelovski.tumblr.com/archive)  
+[future-trunks-66x](https://future-trunks-666.tumblr.com/archive)  
+[virtualboizero](https://virtualboizero.tumblr.com/archive)  
+[barrerajh](https://barrerajh.tumblr.com/archive)  
+[dr-igo](https://dr-igo.tumblr.com/archive)  
+[talesfromweirdland](https://talesfromweirdland.tumblr.com/archive)  
+[sonic4501](https://sonic4501.tumblr.com/archive/)  
+[hypnothalamus](https://hypnothalamus.tumblr.com/)  <-- THE ART OF LUCIAN STANCULESCU  
+[shiruki](https://shiruki.tumblr.com/archive)  <-- last updated 2018  
+[anthony10000000](https://anthony10000000.tumblr.com/archive)  <--similar to posthumanwanderings    
+[gameraboy1](https://gameraboy1.tumblr.com/archive)  
+[tvneon](https://tvneon.tumblr.com/archive)  
+[fuzzyghost](https://fuzzyghost.tumblr.com/archive)  <--DATALOG  
+[pixalry.io](https://pixalry.io/archive)  
+[welovewaves](https://welovewaves.tumblr.com/archive)  
 
 ## super lefist Tumblrs
 [Dynamohedron](https://dynamohedron.tumblr.com/archive)  
