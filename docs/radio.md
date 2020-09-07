@@ -10,16 +10,21 @@ Related: [Midomi](https://www.midomi.com/)  <-- excellent song recognizer
 [Pumpkinfm.com](https://pumpkinfm.com/)  
 [Online Radio Box](https://onlineradiobox.com/)  
 
-### spooky radio  
+### spooky OTR  
 <img src="https://youtube.com/favicon.ico">["The Dark" -- Arch Oboler 1962](https://www.youtube.com/watch?v=mSmEh8TxswQ)  ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Lights Out - Bon Voyage 1942](https://www.youtube.com/watch?v=Gt7C6agcrUE)  ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Lights Out - Chicken Heart 1937](https://www.youtube.com/watch?v=G_OD_jUnYNM)  ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[CBS Radio Mystery Theater - Bottom of the World 647](https://www.youtube.com/watch?v=Wj6Pg_fqrbM)  ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[CBS Radio Mystery Theater - A Point in Time 536](https://www.youtube.com/watch?v=6pPnh0AqNLg)  ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Monster Space River of Pain Science Fiction Horror Audiobook](https://www.youtube.com/watch?v=c2bHJj8Rg1s)  ((youtube.com))  
+<img src="https://youtube.com/favicon.ico">[Night of the Living Dead Dramatized Audio Book](https://www.youtube.com/watch?v=ok8IchryDh0)   
 [Deadair.co](https://deadair.co/)  
 [HorrorHeads](https://horrorheads.podbean.com/)  
 [AudioNoir](https://lf.org/milosz/web/noir/index.html)  
+
+
+### suspense OTR
+<img src="https://youtube.com/favicon.ico">[Suspense | Ep338 | "The Lie"](https://www.youtube.com/watch?v=-cuc8poWz40)   
 
 # Radio Broadcasts
 [RadioFreeASGARD](https://radiofreeasgard.podbean.com/)  
@@ -27,6 +32,8 @@ Related: [Midomi](https://www.midomi.com/)  <-- excellent song recognizer
 [Global Star 3 Programming](http://www.gsradio.net/schedule/star-3.htm) ((gsradio.net))  
 [Global Star 3 Programming updated i think](http://www.gsradio.net/help/m-f-star-3.htm) ((gsradio.net))  
 
+[Arizona DPS,Fire Dept & Police radio transmissions](https://m.broadcastify.com/listen/stid/4)  
+  
 #audio dramas
 [Monster Space River of Pain Science Fiction Horror Audiobook](https://www.youtube.com/watch?v=c2bHJj8Rg1s)  <-- best damn Alien audio drama  
 
