@@ -20,6 +20,8 @@
 
 #useful links
 [Dellacorte.me](https://dellacorte.me/)    
+[Getting Better at Understanding Academic Papers: A Brief Guide for Beginners](https://news.ycombinator.com/item?id=24383232)   
+
 
 #tech
 [Locoloader](https://www.locoloader.com/)   <-- tool used for downloading bandcamp mp3's
@@ -68,6 +70,8 @@
 ### other interesting tech tidbits
 [Top 12 Best Free Video Editing Software for Windows](https://filmora.wondershare.com/video-editor/free-video-editing-software-windows.html)  
 [Producthunt.com](https://www.producthunt.com/)  
+[tcpdump is amazing](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/)  <--learn how to use TCPdump  
+[The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/)  
 
 #Platforms
 [StaticGen](https://www.staticgen.com/)  
@@ -86,6 +90,7 @@
 
 ### Other
 [Red Haired Giants of Arizona](https://www.burlingtonnews.net/giants_arizona.html) ((burlingtonnews.net))  <-- Mary J Sutherland   
+[Native American Legends](https://www.genesis6giants.com/index.php?s=602)  ((genesis6giants.com))  
 
 #Spooks
 [Top Paranormal Sites](https://www.topparanormalsites.com/) ((topparanormalsites.com))  
@@ -131,6 +136,10 @@
 <img src="https://youtube.com/favicon.ico">[Le Petit Poucet 1972](https://www.youtube.com/watch?v=DJ6IY_gQqPE)  
 Related: [Le Cinema Fantastique Francais](http://www.cnc-aff.fr/internet_cnc/Internet/ARemplir/Fiches/fantastique/contes.html)  ((cnc-aff.fr))   
 
+#Hardware (+ gaming hardware), digital and/or analog
+[Tapeheads.net](http://www.tapeheads.net/) ((tapeheads.net))  <-- topics about analog/digital audio, including general use, tips and techniques, equipment and music reviews, how and where to purchase, market pricing and more.
+[Museum of Obsolete Media](https://obsoletemedia.org/) ((obsoletemedia.org))  
+
 #Funny
 [Fat dude thumbs down at ball game](https://cdn.minds.com/fs/v1/thumbnail/1133448711852875776/xlarge//?unlock_paywall=0)  
 <img src="https://youtube.com/favicon.ico">[Appalachian English](https://www.youtube.com/watch?v=03iwAY4KlIU)  
@@ -158,8 +167,6 @@ Related: [Le Cinema Fantastique Francais](http://www.cnc-aff.fr/internet_cnc/Int
 <img src="https://youtube.com/favicon.ico">[The Fesh Pince of Blair](https://www.youtube.com/watch?v=HeIkk6Yo0s8) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Thumbtanic - HQ Full](https://www.youtube.com/watch?v=-Jvk-0v1C_8) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Improv Dance with Sam Rockwell and Jimmy Fallon (Late Night with Jimmy Fallon)](https://www.youtube.com/watch?v=m8KPyk-8aYk) ((youtube.com))  
-[]() (())  
-[]() (())  
 
 # Lefist bullshit
 [http://nativesinamerica.com/2016/07/dear-jk-rowling-were-still-here/](http://nativesinamerica.com/2016/07/dear-jk-rowling-were-still-here/)   ((http://nativesinamerica.com/))  
