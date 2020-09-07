@@ -16,8 +16,12 @@ Notes:
 -*RNAME.json works well for reddits not coming in through the Reddit official feed.*  
 
 #RSS feeds for Youtube videos and playlists
-https://www.youtube.com/feeds/videos.xml?channel_id=CHANNELID
-https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLISTID
+https://www.youtube.com/feeds/videos.xml?channel_id=CHANNELID  
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLISTID  
+
+### rss feeds and blogrolls
+[jlelse's Blog: Blogroll](https://jlelse.blog/blogroll/)  
+[Henrique Dias: Blogroll](https://hacdias.com/blogroll/)  
 
 #OPML Generator
 [OPMLGEN](https://opml-gen.ovh/)  
