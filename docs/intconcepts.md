@@ -77,12 +77,37 @@ Related: [The Politico-Media Complex: The alliances forged between politics and 
 # Historical 
 [Inquisition](https://outline.com/eSKyMc)  ((outline.com [Britannica.com]))  
 [Black Codes (United States)](https://en.wikipedia.org/wiki/Black_Codes_(United_States))  <-- laws governing the conduct of African Americans (free blacks)  
-
+[Diogenes and Alexander](https://en.wikipedia.org/wiki/Diogenes_and_Alexander)  
 
 #Conspiratorial related
 <img src="https://youtube.com/favicon.ico">[Jim Willie - Why He Left the USA (July 2020)](https://www.youtube.com/watch?v=eW9MeGl5xOs)  
 <img src="https://youtube.com/favicon.ico">[ALEX JONES: INFOWARS - HOW TO SURVIVE BEING BANNED ON SOCIAL MEDIA & OUR NEW COVID-19 WORLD REALITY](https://www.youtube.com/watch?v=vOIVslJHIZA)  
 [The Secret Space Program and Breakaway Civilization (Richard Dolan Lecture Series) (Volume 1) First Edition](https://www.amazon.com/Program-Breakaway-Civilization-Richard-Lecture/dp/1537132555)  
+
+# supernatural/religious
+[Ley line](https://en.wikipedia.org/wiki/Ley_line#See_also)  
+[Apophatic theology](https://en.wikipedia.org/wiki/Apophatic_theology)  
+[Henotheism](https://en.wikipedia.org/wiki/Henotheism)  
+[Adagia](https://en.wikipedia.org/wiki/Adagia)  
+[Conceptions of God](https://en.wikipedia.org/wiki/Conceptions_of_God)  
+[Unknown God](https://en.wikipedia.org/wiki/Unknown_God)  
+[Trappists](https://en.wikipedia.org/wiki/Trappists)  
+[Postulant](https://en.wikipedia.org/wiki/Postulant)  
+[Novitiate](https://en.wikipedia.org/wiki/Novitiate)  
+[Enclosed religious orders](https://en.wikipedia.org/wiki/Enclosed_religious_orders)  
+[Great chain of being](https://en.wikipedia.org/wiki/Great_chain_of_being)  
+[Scholasticism](https://en.wikipedia.org/wiki/Scholasticism)  
+[Praxis (process)](https://en.wikipedia.org/wiki/Praxis_(process))  
+[Monastic Sign Language](https://www.fisheaters.com/monastichandsigns.html)  
+[Homo unius libri](https://en.wikipedia.org/wiki/Homo_unius_libri)  
+[Problem of religious language](https://en.wikipedia.org/wiki/Problem_of_religious_language)  
+[Perennial philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy)
+[Pascal’s Wager](https://web.archive.org/web/20190603175601/http://www.philosophyofreligion.info/theistic-proofs/pascals-wager/) <-- archive.org back because original = 404   
+[Rosicrucianism](https://en.wikipedia.org/wiki/Rosicrucianism)  
+[Dionysius the Areopagite](https://en.wikipedia.org/wiki/Dionysius_the_Areopagite)  
+[Crucifixion of Jesus: reported extraordinary occurences](https://en.wikipedia.org/wiki/Crucifixion_of_Jesus#Reported_extraordinary_occurrences)  
+[Crucifixion darkness](https://en.wikipedia.org/wiki/Crucifixion_darkness)  
+[Longinus](https://en.wikipedia.org/wiki/Longinus)  
 
 #death concepts
 [Category:Archaeology of death](https://en.wikipedia.org/wiki/Category:Archaeology_of_death)  
