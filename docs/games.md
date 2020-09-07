@@ -6,6 +6,17 @@
 [Top Rated Games on Steam](https://steamdb.info/stats/gameratings/) ((steamdb.com))  
 [Top games tagged Horror](https://itch.io/games/tag-horror)  ((itch.io))  
 
+### Arcade and retro gaming
+[Arcade Locations](http://www.arcadelocations.net/)  ((arcadelocations.net))  
+[Defunct Games](http://www.defunctgames.com/)  ((defunctgames.com))  
+[Museum of the Game](https://www.arcade-museum.com/)  ((arcade-museum.com))  
+[System11](http://system11.org/) ((system11.org))  
+[RetroGame Hunter](http://www.retrogamehunter.com/)  ((retrogamehunter.com))   
+[RetroCDN](https://retrocdn.net/Main_Page)  ((retrocdn.net))  <--  repository for all files used across all of Retro's projects, including sprites, screenshots, scans, videos and photography.  
+[SegaRetro](https://segaretro.org/Main_Page)  ((segaretro.org)) 
+[Retro Mags](https://www.retromags.com/)  ((retromags.com))  
+Related: [Comic CBR, CBZ Viewer](https://speedtesting.herokuapp.com/comicviewer/)  ((speedtesting.herokuapp.com))  
+
 # Single games and Youtube gameplays
 [Baby Snatcher](https://gamejolt.com/games/BabySnatcher/500051)  
 [No Players Online](https://papercookies.itch.io/no-players-online)  
