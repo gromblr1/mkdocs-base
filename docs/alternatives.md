@@ -37,6 +37,7 @@
 [Switching.software(swiso)](https://swiso.org/)  
 [Tutanota's reccomendations](https://tutanota.com/blog/posts/how-to-leave-google-gmail/)  
 [Opensource.builders](https://opensource.builders/)  
+[https://degoogle.jmoore.dev/](https://degoogle.jmoore.dev/)  <-- insanely massive list of degoogling  
 <hr>  
 # ALTERNATIVE TO AMAZON
 [Ebay](https://ebay.com)  
@@ -191,6 +192,7 @@ Related: [SecureDrop](https://securedrop.org/)
 [Sialoop.net](https://sialoop.net/), [SIACDN](https://siacdn.com/) ,[SkynetHub](https://skynethub.io/), [Tutemwesi](https://skynet.tutemwesi.com/), [Skydrain.net/FORNAXIAN](https://skydrain.net/)  <-- SKYNET PORTALS  
 [SkyLive](https://skylive.coolhd.hu/)  <-- Decentralized livestreams on Sia Skynet  
 [SkyBin](https://siasky.net/CAAVU14pB9GRIqCrejD7rlS27HltGGiiCLICzmrBV0wVtA)  <-- pastebin on SkyNet protcol  
+[SkyPages](https://siasky.net/CABMLShr4jkikvB15sd9cIP8LrfrmVePO24NzZE7lM5VTQ)  <-- upload zip files of websites to host on Skynet  
 
 [InstaSkynet](https://github.com/kunalkamble/instaskynet-webapp)  
 [Skynethub.io - SKYNET APP STORE](https://skynethub.io/_B3VrECGOHPEAFknVQwj_vWsyaX_8iIRuB_TL09cuj9uZQ/index.html#/apps/all)  
