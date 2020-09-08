@@ -53,6 +53,25 @@
 
 [GTMetrix](https://gtmetrix.com/) and [Pingdom tools](https://tools.pingdom.com/)   <-- analyze websites   
 [Check-your-website](https://check-your-website.server-daten.de/)  <-- comprehensive DNS tool for your website  
+[Lumpysoft](https://lumpysoft.com/) and [Filechef](https://www.filechef.com/) <-- google index hack search  
+[MP3Clan](https://mp3clan.com/)  <-- easily hack search to find and download mp3s  
+
+#tech communities
+[Nixers.net](https://nixers.net/)  
+[Blackflag.acid.org](http://blackflag.acid.org/)  
+[Reddit:Open Directories](https://www.reddit.com/r/opendirectories/)  
+
+### Virus scanning tools online
+[Jotti's malware scan](https://virusscan.jotti.org/en-US/scan-file)  
+[Virus total](https://www.virustotal.com/gui/)  <--Analyze suspicious files and URLs to detect types of malware, auto-share them w/the security community  
+
+### webdev
+<img src="https://youtube.com/favicon.ico">[Use wget to download / scrape a full website](https://www.youtube.com/watch?v=GJum2O2JM6M&t=418s)  ((youtube.com))   
+[Wget](https://en.wikipedia.org/wiki/Wget#Using_Wget)  
+[wget Help – commands, usage, flags, examples](https://rehmann.co/blog/wget-help-commands-usage-flags-examples/)  
+
+[DuckDuckGo Instant answers cheat sheet](https://duck.co/ia?repo=goodies&topic=programming)  
+[Mirror The Video](https://www.mirrorthevideo.com/)  <-- Flip YouTube videos horizontally. Replace "youtube.com" with "mirrorthevideo.com" in the URL.  
 
 ### pastebins
 [PasteBin](https://pastebin.com/)  
@@ -72,6 +91,7 @@
 [Producthunt.com](https://www.producthunt.com/)  
 [tcpdump is amazing](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/)  <--learn how to use TCPdump  
 [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/)  
+[MediaQueri.es](https://mediaqueri.es/)  
 
 #Platforms
 [StaticGen](https://www.staticgen.com/)  
@@ -177,5 +197,6 @@ Related: [The Verge PC Build: The Aftermath of a Harassment Campaign](https://me
 
 <img src="https://youtube.com/favicon.ico">[Thoughts Which Lead To Existential Crisis (r/AskReddit)](https://www.youtube.com/watch?v=TjfVeYO7rUM)   
 # Oldschool shiz
-[M_VEGETA_86](http://www.oocities.org/m_vegeta_86/)  
+[M_VEGETA_86](http://www.oocities.org/m_vegeta_86/)  ([MIRROR](https://geocities.ws/m_vegeta_86/))  
+Related:[Geocities.ws search](http://geocities.ws/search/)  <-- search for old geocities websites  
 
