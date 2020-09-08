@@ -85,7 +85,7 @@ Related: [Midomi](https://www.midomi.com/)  <-- excellent song recognizer
 
 [2012 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103112_hr1.mp3)  <-- 14:25 very deep thoughts on the universe, consciousness,dimensions, spirits, aliens, 
 [2012 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103112_hr2.mp3)  
-[2012 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103112_hr3.mp3)  
+[2012 Hr3](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103112_hr3.mp3)  <-- very creepy ambient intro,  27:00 brad steiger " amen" lol,  
 
 [2013 Hr1](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103113_hr1.mp3)  
 [2013 Hr2](http://mediaarchives.gsradio.net/rense/special/rense_Steiger_103113_hr2.mp3)  
