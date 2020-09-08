@@ -3,7 +3,7 @@
 Transhumanism: To live forever without God.
 
 [What is the Illuminati?](https://www.henrymakow.com/001260.html) ((henrymakow.com))  
-[Albert Pike: “We Control Islam and We’ll Use It to Destroy the West”](https://voiceofpeopletoday.com/albert-pike-we-control-islam-and-well-use-it-to-destroy-the-west-2/) ((voiceofpeopletoday.com))   
+[Albert Pike: “We Control Islam and We’ll Use It to Destroy the West”](https://voiceofpeopletoday.com/albert-pike-we-control-islam-and-well-use-it-to-destroy-the-west-2/) ((voiceofpeopletoday.com))   [MIRROR](https://www.bitchute.com/video/22e9wi6XIkni/)  
 [ROCKEFELLER FRIEND AARON RUSSO LAYS OUT THE PLAN OF NWO IN 10 MINUTES](https://www.bitchute.com/video/vPfbyJwzjiJW/)   ((bitchute.com)) ([full vid](https://www.bitchute.com/video/yoJSKNDIb91f/))   
 [Donald Drumpf – Illuminati Jew](https://weliveinamadworld.com/donald-drumpf-illuminati-jew/)  ((weliveinamadworld.com))    
 [A SACRED ASSEMBLY OF MEN  ](https://watch.pairsite.com/asa2.html)  ((watch.pairsite.com))  <-- Luceriferian initiation, Hitler, philosophy of Death
@@ -30,7 +30,7 @@ Transhumanism: To live forever without God.
 ###Other
 [Full Bizarre, Demonic Gotthard Tunnel Opening Ceremony, Satanic, New World Order, Illuminati Ritual](https://www.youtube.com/watch?v=zW5gklIKcDg) ((youtube.com))  <-- satanic ritual at CERn (extended)  
 [Spektakuläre Performace zur ersten Gotthard-Durchfahrt - Gotthard - Eröffnung - Tunnel - 2016](https://www.youtube.com/watch?v=RnhOO4-KqWY) ((youtube.com)) <-- satanic ritual at CERN    
-<img src="https://youtube.com/favicon.ico">[Butoh - After the Horror I Tokyo Paranormal (10/10) I ARTE Documentary](https://www.youtube.com/watch?v=f8nFCRJ25HU) ((youtube.com))  <--"2:28 The idea is to create a new space-time as the basis for our dances. Ghosts and other creatures are then welcome to enter this new space-time."  
+<img src="https://youtube.com/favicon.ico">[Butoh - After the Horror I Tokyo Paranormal (10/10) I ARTE Documentary](https://www.youtube.com/watch?v=f8nFCRJ25HU) ((youtube.com))  <--"2:28 The idea is to create a new space-time as the basis for our dances. Ghosts and other creatures are then welcome to enter this new space-time."  [mirror](https://siasky.net/AACwmrmdbA-_Jli0jefU9TAhHVAkyonX5IaYxAuvtdCKgg)  
 
 ## Black Cube(Black Sun), Saturn, Moloch
 [Saturn, Satan, and 666](http://www.atlanteanconspiracy.com/2008/07/saturn-satan-and-666.html) ((atlanteanconspiracy.com))  
