@@ -22,6 +22,7 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLISTID
 ### rss feeds and blogrolls
 [jlelse's Blog: Blogroll](https://jlelse.blog/blogroll/)  
 [Henrique Dias: Blogroll](https://hacdias.com/blogroll/)  
+[distinctly.ping blogroll](https://www.distinctly.pink/blogroll.html)  
 
 #OPML Generator
 [OPMLGEN](https://opml-gen.ovh/)  
