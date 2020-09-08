@@ -17,6 +17,8 @@ go to tumblr.com/liked/by/USERNAME and replace USERNAME with a username to see a
 [Tumblr](https://www.archiveteam.org/index.php?title=Tumblr)  ((archiveteam.org))  
 [Tumblr Picture Download](https://sourceforge.net/projects/gettumblrpics/)  
 [Tumblthree: Tumblr Backup Application](https://www.jzab.de/content/tumblthree-a-tumblr-backup-application/)  
+[Tumblr Archive Tools](https://www.archiveteam.org/index.php?title=Tumblr#See_also)   
+[Tumblr user BACKUPS](https://archive.org/search.php?query=WildArchives-Tumblr&page=5)  
 
 # Tumblr archives
 [ytelovski](https://ytelovski.tumblr.com/archive)  
