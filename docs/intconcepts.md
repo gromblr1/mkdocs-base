@@ -117,6 +117,7 @@ Related: [The Politico-Media Complex: The alliances forged between politics and 
 [Lorne Lanning on mymntr.com/Gaming Guru - Oddworld Creator](https://www.youtube.com/watch?v=00q71VOOu2s) ((youtube.com))   <-- extremely profound interview w/ creator of Oddworld  
 [Ecopsychology](https://en.wikipedia.org/wiki/Ecopsychology)  
 [Sorites paradox](https://en.wikipedia.org/wiki/Sorites_paradox)  
+[Episteme](https://en.wikipedia.org/wiki/Episteme)  <-- refers to the ideas, values and assumptions of a particular historical era or epoch.
 
 #humorous
 [Ribaldry](https://en.wikipedia.org/wiki/Ribaldry)  
