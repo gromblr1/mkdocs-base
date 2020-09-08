@@ -20,7 +20,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=CHANNELID
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLISTID  
 
 ### rss feeds and blogrolls
-[jlelse's Blog: Blogroll](https://jlelse.blog/blogroll/)  
+[jlelse's Blog: Blogroll](https://jlelse.blog/blogroll/)  [mirror](https://siasky.net/KAA19Rcpwfta9fLZV2GsFaYWTDluGFSHKLw4jsVTugvSEg/?)  
 [Henrique Dias: Blogroll](https://hacdias.com/blogroll/)  
 [distinctly.ping blogroll](https://www.distinctly.pink/blogroll.html)  
 
