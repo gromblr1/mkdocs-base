@@ -3,7 +3,7 @@
 [Glossary of literary terms](https://literaryterms.net/glossary-of-literary-terms/)  
 [List of portmanteaus](https://en.wikipedia.org/wiki/List_of_portmanteaus)  
 [Glossary of blogging](https://en.wikipedia.org/wiki/Glossary_of_blogging)  
-[Phrontistery](https://phrontistery.info)  
+[Phrontistery](https://phrontistery.info)  [Skynet mirror](https://siasky.net/KAA6FS_-gbuWt1weey780KO72XPtKEMH69B40AtFhnxX4w/)  
 [Misinfo vs Disinfo](https://www.dictionary.com/e/misinformation-vs-disinformation-get-informed-on-the-difference/)   
 [Twilight of the Idols](https://en.wikipedia.org/wiki/Twilight_of_the_Idols)  
 [Space Terms](http://planetfacts.org/space-terms/)  
@@ -98,7 +98,7 @@ Related: [The Politico-Media Complex: The alliances forged between politics and 
 [Great chain of being](https://en.wikipedia.org/wiki/Great_chain_of_being)  
 [Scholasticism](https://en.wikipedia.org/wiki/Scholasticism)  
 [Praxis (process)](https://en.wikipedia.org/wiki/Praxis_(process))  
-[Monastic Sign Language](https://www.fisheaters.com/monastichandsigns.html)  
+[Monastic Sign Language](https://www.fisheaters.com/monastichandsigns.html)  ([skynet mirror](https://siasky.net/OAB1euyd2sLYLOUmAW4hzysuzkij8P4E9K3ZyXtblmJr1w))  
 [Homo unius libri](https://en.wikipedia.org/wiki/Homo_unius_libri)  
 [Problem of religious language](https://en.wikipedia.org/wiki/Problem_of_religious_language)  
 [Perennial philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy)
@@ -118,6 +118,7 @@ Related: [The Politico-Media Complex: The alliances forged between politics and 
 [Ecopsychology](https://en.wikipedia.org/wiki/Ecopsychology)  
 [Sorites paradox](https://en.wikipedia.org/wiki/Sorites_paradox)  
 [Episteme](https://en.wikipedia.org/wiki/Episteme)  <-- refers to the ideas, values and assumptions of a particular historical era or epoch.
+[Extended mind thesis](https://en.wikipedia.org/wiki/Extended_mind_thesis)  <-- "exomind"  
 
 #humorous
 [Ribaldry](https://en.wikipedia.org/wiki/Ribaldry)  
