@@ -73,6 +73,10 @@
 [DuckDuckGo Instant answers cheat sheet](https://duck.co/ia?repo=goodies&topic=programming)  
 [Mirror The Video](https://www.mirrorthevideo.com/)  <-- Flip YouTube videos horizontally. Replace "youtube.com" with "mirrorthevideo.com" in the URL.  
 
+[Archivebox](https://archivebox.io/)  <-- takes a list of website URLs you want to archive, and creates a local, static, browsable HTML clone of the content from those websites (it saves HTML, JS, media files, PDFs, images and more).  
+[Archiving URLs](https://www.gwern.net/Archiving-URLs)  <-- Archiving the Web, because nothing lasts forever: statistics, online archive services, extracting URLs automatically from browsers, and creating a daemon to regularly back up URLs to multiple sources.  
+Related: [LinkChecker](https://wummel.github.io/linkchecker/)  <-- checks links in web documents or full websites.   
+
 ### pastebins
 [PasteBin](https://pastebin.com/)  
 [Bpaste](https://bpa.st/)  
