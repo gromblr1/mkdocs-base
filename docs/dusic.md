@@ -73,6 +73,8 @@
 
 ##Other
 [pae & sarah](https://www.youtube.com/watch?v=QDsDOlfz-QU)  
+[Do you know anything about techno?](https://www.youtube.com/watch?v=kt3Oj-Dq-MM)  
 
 #### Concepts relating to dance
 [What is Flavor?](https://www.youtube.com/watch?v=6hU5auBfN6I)  
+[Reddit: What can music teach us about the transcendent?](https://www.reddit.com/r/ConfrontingChaos/comments/9njpgp/what_can_music_teach_us_about_the_transcendent/) [Skynet mirror](https://siasky.net/IAD6qLl8IH9mULGlr-kahdRvTx0ctXI1TrrKajOm7FAeYw/) 
