@@ -1,6 +1,14 @@
 [Online Regex tester & debugger](https://regex101.com/)  
 [DuckDuckGo regex cheat sheet](https://duckduckgo.com/?q=regex+cheat+sheet&ia=cheatsheet&iax=1)  
 [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)  
+[REGEXTester](https://www.regextester.com/)  <-- allows saving of REGEX scripts  
+[REGEXr.com](https://regexr.com/)  <-- RegExr is an online tool to learn, build, & test Regular Expressions 
+[Rubular.com](https://rubular.com/)  
+
+[SQLFiddle.com](http://sqlfiddle.com/)  
+[Refiddle.com](http://refiddle.com/)  <-- color-coded regex editor !  ([Skynet mirror](https://siasky.net/fAZQF5cTbNr_JZD2vClz3IowODGRclYt2L3z2qieLB1NzA/?))  
+[REGEXOne.com](https://regexone.com/)  <-- Learn Regular Expressions with simple, interactive exercises.
+[SQLBolt.com](https://sqlbolt.com)  
 
 # 1. REGEX how to find specific URLS
 After copying webpage code (html etc) to the first box with [Regex Tester and generator](https://www.beautifyconverter.com/regex-tester.php) ,  use REGEX expression below to find "https://i.4pcdn.org/pol/" URL's.  
@@ -22,13 +30,31 @@ After this, copy/paste and save into a text document called url_list.txt.
 [Linux wget command](https://www.computerhope.com/unix/wget.htm)  
 [How to make an offline mirror copy of a website with wget](https://alvinalexander.com/linux-unix/how-to-make-offline-mirror-copy-website-with-wget/)  
 
-#Other
+# URL TOOLS
 [URL Extractor For Web Pages and Text](http://www.convertcsv.com/url-extractor.htm)  
 [FREE URL EXTRACTOR](https://bulkdachecker.com/url-extractor/)  
+[Online Text to Link Converter](https://www.htmlstrip.com/text-to-link-converter)  <-- convert list of URLS into clickable links  
 
 [4url.cc: URL shortener](https://4url.cc/)  
 [URLTeam: URL_shorteners](https://archiveteam.org/?title=URLTeam#URL_shorteners)  
 
+# Website extensional tools
+[Search HackerNews](https://hn.algolia.com/)  <-- extremely handly search engine to look through HackerNews  
+
+#WEB SCRAPING
+[SimpleScraper.io](https://simplescraper.io/)  <-- Extract data from any website in seconds  
+[Webscraper.io](https://webscraper.io/)  <-- Making web data extraction easy and accessible for everyone  
+
+## Other web tools/tips
+[Tinyapps.org](https://tinyapps.org/network.html) <-- an aging catalog of tiny, well-made software primarily for Windows.      
+
+[.htaccess Snippets](https://github.com/phanan/htaccess)  
+[.htaccess Generator](https://www.htaccessredirect.net/)  
+# No-code platforms
+[Appgyver](https://www.appgyver.com/)  <--The world's first professional no-code platform, enabling you to build apps for all form factors, including mobile, desktop, browser, TV and others.  
+[Bubble.io](https://bubble.io/)  <-- enables anyone to design, develop, and launch powerful web apps without writing code.  
+
+## Other
 [Vocaroo](https://vocaroo.com/)  
 [What happens when you load a URL?](https://danluu.com/navigate-url/)  ((danluu.com))  
 [Aesthetic text generator](https://exoticfonts.com/aesthetic-text/)  
@@ -74,10 +100,12 @@ After this, copy/paste and save into a text document called url_list.txt.
 [URL Encoder/Decoder](https://www.urlencoder.org/)  <-- use to turn all those symbols in a URL (like %20 for a blank space) into readable format  
 [Kutt.it](https://kutt.it/) and [Waa.ai](https://waa.ai/)  <-- URL shorteners   
 
+[Webpage Test](https://www.webpagetest.org/)  <-- Test a website's performance  
 [GTMetrix](https://gtmetrix.com/) and [Pingdom tools](https://tools.pingdom.com/)   <-- analyze websites   
 [Check-your-website](https://check-your-website.server-daten.de/)  <-- comprehensive DNS tool for your website  
 [Lumpysoft](https://lumpysoft.com/) and [Filechef](https://www.filechef.com/) <-- google index hack search  
 [MP3Clan](https://mp3clan.com/)  <-- easily hack search to find and download mp3s  
+[HTML Beautifier](https://www.10bestdesign.com/dirtymarkup/)  <-- clean up HTML, CSS, JS & API  
 
 #tech communities
 [Nixers.net](https://nixers.net/)  
@@ -106,6 +134,7 @@ Related: [Link rot](https://en.wikipedia.org/wiki/Link_rot)
 Related: [Multi-service image search](https://iqdb.org/)  
 [Extract Lines x to y From a Text File](https://www.browserling.com/tools/extract-lines)  
 
+[Codecanyon.net](https://codecanyon.net/)  <--  Discover 34,468 code scripts and plugins  
 ### pastebins
 [PasteBin](https://pastebin.com/)  
 [Bpaste](https://bpa.st/)  
