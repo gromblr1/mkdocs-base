@@ -18,10 +18,13 @@ Related: [Midomi](https://www.midomi.com/)  <-- excellent song recognizer
 <img src="https://youtube.com/favicon.ico">[CBS Radio Mystery Theater - A Point in Time 536](https://www.youtube.com/watch?v=6pPnh0AqNLg)  ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Monster Space River of Pain Science Fiction Horror Audiobook](https://www.youtube.com/watch?v=c2bHJj8Rg1s)  ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Night of the Living Dead Dramatized Audio Book](https://www.youtube.com/watch?v=ok8IchryDh0)   
+<img src="https://youtube.com/favicon.ico">[Nightfall CBC 81 01 09 28 A Shortwave Goodbye](https://www.youtube.com/watch?v=WX7oxV6SILQ)  
+<img src="https://youtube.com/favicon.ico">[The Twilight Zone Vol 5 ep 4 The Last night of a Jockey](https://www.youtube.com/watch?v=oD_MRJOQ_OE)  
+<img src="https://youtube.com/favicon.ico">[Nightfall CBC 82 07 23 04 The Book of Hell](https://www.youtube.com/watch?v=hZKF0rfgHKQ)  <-- "Hell is not a place but a system for disrupting the plans of God."
 [Deadair.co](https://deadair.co/)  
 [HorrorHeads](https://horrorheads.podbean.com/)  
 [AudioNoir](https://lf.org/milosz/web/noir/index.html)  
-
+[Entertainment Radio](https://www.spreaker.com/user/racrowder)  ((spreaker.com))  
 
 ### suspense OTR
 <img src="https://youtube.com/favicon.ico">[Suspense | Ep338 | "The Lie"](https://www.youtube.com/watch?v=-cuc8poWz40)   
@@ -36,6 +39,10 @@ Related: [Midomi](https://www.midomi.com/)  <-- excellent song recognizer
   
 #audio dramas
 [Monster Space River of Pain Science Fiction Horror Audiobook](https://www.youtube.com/watch?v=c2bHJj8Rg1s)  <-- best damn Alien audio drama  
+
+### other (audio drama)
+[The Types of Audio Dramas](https://www.wayland.ws/types-audio-dramas/)  
+[The Major Difference Between Audiobooks And Audio Dramas](https://www.livetheadventureletter.com/audio-learning/difference-audiobooks-audio-dramas/)  
 
 #podcast hosting
 [podbean](https://www.podbean.com/)  
@@ -97,3 +104,4 @@ Related: [Midomi](https://www.midomi.com/)  <-- excellent song recognizer
 
 #time zone tools
 [Time Zone converter](https://24timezones.com/difference/mst/est)  
+[EveryTimeZone.com](https://everytimezone.com/)  <-- A beautiful visualization of the current times around the world.  
