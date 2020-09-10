@@ -1,6 +1,7 @@
 [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)  
 [Horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory)  
 [Glossary of literary terms](https://literaryterms.net/glossary-of-literary-terms/)  
+[Literary Devices](https://literary-devices.com/)  
 [List of portmanteaus](https://en.wikipedia.org/wiki/List_of_portmanteaus)  
 [Glossary of blogging](https://en.wikipedia.org/wiki/Glossary_of_blogging)  
 [Phrontistery](https://phrontistery.info)  [Skynet mirror](https://siasky.net/KAA6FS_-gbuWt1weey780KO72XPtKEMH69B40AtFhnxX4w/)  
@@ -11,6 +12,13 @@
 [Your logical fallacy is](https://yourlogicalfallacyis.com/)  
 [Your bias is](https://yourbias.is/)  
 [Biophilia hypothesis](https://en.wikipedia.org/wiki/Biophilia_hypothesis)    
+[Eisenhower decision matrix](https://duckduckgo.com/?q=eisenhower+matrix&iax=images&ia=images)  
+[Lumpers and splitters](https://en.wikipedia.org/wiki/Lumpers_and_splitters)  
+[Texas sharpshooter fallacy](https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy)  
+[Category:Dichotomies](https://en.wikipedia.org/wiki/Category:Dichotomies)  
+[Wikipedia:Contents/Glossaries](https://en.wikipedia.org/wiki/Wikipedia:Contents/Glossaries)  
+[Wikipedia:Contents/Outlines](https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines)  <-- Useful format !!  
+[Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d) < -- extremely useful mental models   
 
 #Linguistical relations
 [Shibboleth](https://en.wikipedia.org/wiki/Shibboleth)  
@@ -48,6 +56,8 @@ https://en.wikipedia.org/wiki/Jingoism
 
 #psychological
 [Shifting baseline](https://en.wikipedia.org/wiki/Shifting_baseline)  
+[Category:Cognitive tests](https://en.wikipedia.org/wiki/Category:Cognitive_tests)  
+[Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect)  
 
 #Social concepts
 [Overton window](https://en.wikipedia.org/wiki/Overton_window)  
@@ -69,6 +79,9 @@ Related: [Blue wall of silence](https://en.wikipedia.org/wiki/Blue_wall_of_silen
 Related: [The Politico-Media Complex: The alliances forged between politics and media](http://www.atarion.com/uploads/the_politico_media_complex.pdf)  ((atarion.com))  
 [Post-truth politics](https://en.wikipedia.org/wiki/Post-truth_politics)  
 
+#Censorship
+[Expurgation](https://en.wikipedia.org/wiki/Expurgation)  
+
 #Tech concepts
 [Category:Internet censorship](https://en.wikipedia.org/wiki/Category:Internet_censorship)  
 [Splinternet](https://en.wikipedia.org/wiki/Splinternet)  
@@ -78,6 +91,7 @@ Related: [The Politico-Media Complex: The alliances forged between politics and 
 [Inquisition](https://outline.com/eSKyMc)  ((outline.com [Britannica.com]))  
 [Black Codes (United States)](https://en.wikipedia.org/wiki/Black_Codes_(United_States))  <-- laws governing the conduct of African Americans (free blacks)  
 [Diogenes and Alexander](https://en.wikipedia.org/wiki/Diogenes_and_Alexander)  
+[Nika Riots](https://en.wikipedia.org/wiki/Nika_riots)  
 
 #Conspiratorial related
 <img src="https://youtube.com/favicon.ico">[Jim Willie - Why He Left the USA (July 2020)](https://www.youtube.com/watch?v=eW9MeGl5xOs)  
@@ -119,6 +133,11 @@ Related: [The Politico-Media Complex: The alliances forged between politics and 
 [Sorites paradox](https://en.wikipedia.org/wiki/Sorites_paradox)  
 [Episteme](https://en.wikipedia.org/wiki/Episteme)  <-- refers to the ideas, values and assumptions of a particular historical era or epoch.
 [Extended mind thesis](https://en.wikipedia.org/wiki/Extended_mind_thesis)  <-- "exomind"  
+[Ontology components](https://en.wikipedia.org/wiki/Ontology_components)  
+[Method of Loci](https://en.m.wikipedia.org/wiki/Method_of_loci)  
+
+# writing
+[Rule of three (writing)](https://en.wikipedia.org/wiki/Rule_of_three_(writing))  
 
 #humorous
 [Ribaldry](https://en.wikipedia.org/wiki/Ribaldry)  
