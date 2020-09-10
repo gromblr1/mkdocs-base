@@ -171,6 +171,7 @@ Related: [Blockstack dapps](https://browser.blockstack.org/)  <-- massive list o
 [Pixeldrain.com](https://pixeldrain.com/)  
 
 [FBRG.XYZ](https://fbrg.xyz/)  <-- EXTREMELY FAST UPLOAD/DOWNLOAD !  (files up to 1GB probably wont play)  
+[FilePizza](https://file.pizza/)  
 [Instant.io](https://instant.io/)  and [webtorrent.io](https://webtorrent.io/)  <-- Streaming file transfer over WebTorrent (torrents on the web)  
 [SnapDrop.net](https://snapdrop.net/)  <-- discovers users on local network to transfer files too  
 [JustBeamIT](https://justbeamit.com/)  <-- does not upload any data until receipient start files transfer  
