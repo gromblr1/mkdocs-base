@@ -112,7 +112,7 @@ Related: [Dead Microbiologists](https://rense.com/general96/deadmicro.html)  ((r
 [Macaulay Culkin: Satanic Hollywood ElitesMurder Children During Rituals](https://johnbwellsnews.com/macaulay-culkin-satanic-hollywood-elites-murder-children-during-rituals/)  ((johnbwellsnews.com))  
 <img src="https://youtube.com/favicon.ico">[Hollywood P3d0phile Ring Is Going Down](https://www.youtube.com/watch?v=M3rAzIAw5KE&feature=youtu.be) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[ISAAC KAPPY - TITANIC MARDAN PALACE (TOM HANKS & GEORGE CLOONEY)](https://www.bitchute.com/video/fv8bXNM13kH9/) ((bitchute.com))  
-[ANOTHER P3D0GATE RESEARCHER DEAD](https://archive.4plebs.org/pol/thread/219192491/) ((archive.4plebs.org))  <-- long Tracy Tyman discussion  
+[ANOTHER P3D0GATE RESEARCHER DEAD](https://archive.4plebs.org/pol/thread/219192491/) ((archive.4plebs.org))  <-- long Tracy Tyman discussion  [Skynet mirror](https://siasky.net/GAAfwAhfArhl5qyWlGury3mOIbDHMkMwlomsvTD-mXdDgQ/)  
 <img src="https://youtube.com/favicon.ico">[Tracy Twyman, Isaac Kappy and the Creepy Campground](https://www.youtube.com/watch?v=EMS0uuQVbBs) ((youtube.com)) < Twymans last video 
 📷[Twymans FB msgs to the FBI](https://wikispooks.com/w/images/0/05/Tracy_Twyman%27s_chat_which_mentions_her_dead_man%27s_switch_video_and_the_creepy_campground.png) ((wikispooks.com))  
 Related: [Another #P3doGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/)  
@@ -174,6 +174,7 @@ Related:[Reddit: I find it very strange that Greece has had this law since 2012.
 [Reddit: this belongs here. I am not a pizza gate fan, but thissss is fuel](https://www.reddit.com/r/conspiracy/comments/hd3ylc/this_belongs_here_i_am_not_a_pizza_gate_fan_but/) ((reddit.com))  <-- officers getting for holding other officers accountable  
 
 ### Other OTHER
+[List of biblical figures identified in extra-biblical sources](https://en.wikipedia.org/wiki/List_of_biblical_figures_identified_in_extra-biblical_sources)  
 [Hermes Trismegistus](https://en.wikipedia.org/wiki/Hermes_Trismegistus)  
 [Gensix.com](https://www.gensix.com/store/)  
 <img src="https://youtube.com/favicon.ico">[My Last Day (crucifixion of Jesus anime)](https://www.youtube.com/watch?v=QDRCwJHBCXc)  
