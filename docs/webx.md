@@ -30,6 +30,13 @@ After this, copy/paste and save into a text document called url_list.txt.
 [Linux wget command](https://www.computerhope.com/unix/wget.htm)  
 [How to make an offline mirror copy of a website with wget](https://alvinalexander.com/linux-unix/how-to-make-offline-mirror-copy-website-with-wget/)  
 
+# Localhost tunneling
+[Staqlab-tunnel](https://tunnel.staqlab.com/)  <-- offers free permanent subdomain  (w/ugly splash page)  
+[NGROK](https://ngrok.com/)  <-- awesome but subdomains expire and are randomly generated  
+
+# DNS Tools
+[DNS-O-Matic](https://www.dnsomatic.com/)  <-- free/easy way to announce your dynamic IP changes to MANY services w/ a single update.  
+
 # URL TOOLS
 [URL Extractor For Web Pages and Text](http://www.convertcsv.com/url-extractor.htm)  
 [FREE URL EXTRACTOR](https://bulkdachecker.com/url-extractor/)  
@@ -47,6 +54,12 @@ After this, copy/paste and save into a text document called url_list.txt.
 
 ## Other web tools/tips
 [Tinyapps.org](https://tinyapps.org/network.html) <-- an aging catalog of tiny, well-made software primarily for Windows.      
+[Parsero](https://tools.kali.org/information-gathering/parsero)  <-- free script written in Python which reads the Robots.txt file of a web server and looks at the Disallow entries.  
+[CutyCapt](http://cutycapt.sourceforge.net/)  <-- CutyCapt is a small cross-platform command-line utility to capture WebKit's rendering of a web page into a variety of vector and bitmap formats  
+[WhatWeb](https://tools.kali.org/web-applications/whatweb)  <-- When you visit a website in your browser, the transaction includes many hints of what web technologies are powering that website  
+
+[Penetration Testing Tools](https://en.kali.tools/)  ((en.kali.tools))  
+[Kali Linux Tools Listing](https://tools.kali.org/tools-listing)  ((tools.kali.org))  
 
 [.htaccess Snippets](https://github.com/phanan/htaccess)  
 [.htaccess Generator](https://www.htaccessredirect.net/)  
@@ -134,6 +147,8 @@ Related: [Link rot](https://en.wikipedia.org/wiki/Link_rot)
 Related: [Multi-service image search](https://iqdb.org/)  
 [Extract Lines x to y From a Text File](https://www.browserling.com/tools/extract-lines)  
 
+
+
 [Codecanyon.net](https://codecanyon.net/)  <--  Discover 34,468 code scripts and plugins  
 ### pastebins
 [PasteBin](https://pastebin.com/)  
@@ -154,3 +169,66 @@ Related: [Multi-service image search](https://iqdb.org/)
 [tcpdump is amazing](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/)  <--learn how to use TCPdump  
 [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/)  
 [MediaQueri.es](https://mediaqueri.es/)  
+
+# Google tricks
+filetype:FILEFORMAT KEYWORD  
+intitle:SINGLEKEYWORD <-- will search for a single keyword in title     
+allintitle:KEYWORDS  <-- will search multiple keywords in the title    
+inurl:SINGLEKEYWORD <-- will search for a single keyword in URL  
+allinurl:KEYWORDS  <-- will search multiple keywords in the URL  
+link:URL.com <-- will pull up every individual page from that site  
+
+#REGEX 
+Match	<font color=green>cat.</font>	
+Match	<font color=green>896.</font>	
+Match	<font color=green>?=+.</font>	
+Skip	abc1  
+
+ANSWER: ...\.  
+<hr>
+Match	<font color=green>can</font>	 
+Match	<font color=green>man</font>	 
+Match	<font color=green>fan</font>	 
+Skip	dan	 
+Skip	ran	 
+Skip	pan  
+
+ANSWER: [cmf]an  
+ANSWER2: [^drp] <-- an to match any three letter word ending with 'an' that does not start with 'd', 'r' or 'p'.   
+<hr>
+Match	<font color=green>hog</font>		 
+Match	<font color=green>dog</font>		 
+Skip	<font color=green>bog</font>	  
+
+ANSWER: [hd]og   
+ANSWER2: [^b]og   
+<hr>
+Match	<font color=green>Ana	</font>	 
+Match	<font color=green>Bob	</font>	 
+Match	<font color=green>Cpc	</font>	 
+Skip	aax	 
+Skip	bby	 
+Skip	ccz  
+
+ANSWER: [A-C][n-p][a-c]  
+<hr>
+Match	<font color=green>wazzzzzup	</font>  
+Match	<font color=green>wazzzup</font>	 
+Skip	wazup  
+
+ANSWER: waz{3,5}up  <-- the numbers in curly braces allow a range of the same character  
+<hr>
+Match	<font color=green>aaaabcc</font>	 
+Match	<font color=green>aabbbbc</font>	 
+Match	<font color=green>aacc</font>	
+Skip	a  
+
+ANSWER: aa+b*c+  <-- the * allows the previous character to be 0 or more  
+ANSWER2: a{2,4}b{0,4}c{1,2}   
+<hr>
+Match	<font color=green>1 file found?</font>	  
+Match	<font color=green>2 files found?</font>	  
+Match	<font color=green>24 files found?</font>	  
+Skip	No files found.  
+
+ANSWER: \d+ files? found\?  <-- the ? allows the previous character to be optional  
