@@ -59,6 +59,14 @@ https://en.wikipedia.org/wiki/Jingoism
 [Category:Cognitive tests](https://en.wikipedia.org/wiki/Category:Cognitive_tests)  
 [Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect)  
 
+# philosophical
+[Casuistry](https://en.wikipedia.org/wiki/Casuistry)  <-- dealing with the plurality of theoretical positions  
+
+### philsophical (other tidbits)
+-Nietzsche hoped that the foundations of a new moral code could be built amid the rubble of Christianity.  
+-Nietzsche felt religious belief was a bulwark against nihilism, since nihilism easily leads to despair.(then it goes from ethical to existenial)    
+-Be wary of "ethics boards/committees" as they have moral and cultural relativism as a guiding principle for their decisions.  
+
 #Social concepts
 [Overton window](https://en.wikipedia.org/wiki/Overton_window)  
 Related: [Hallin's spheres](https://en.wikipedia.org/wiki/Hallin%27s_spheres)  
