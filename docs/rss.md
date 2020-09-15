@@ -34,7 +34,8 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLISTID
 [Feedfry](https://www.feedfry.com)  <-- finds similar blocks in an HTML page and turns them into an RSS feed.  
 [RSS Box](https://rssbox.herokuapp.com/)  <--lets you subscribe to RSS feeds for websites that do not support RSS themselves  
 [FetchRSS](https://fetchrss.com/)  
-
+[Siftrss](https://siftrss.com/)  <-- Enter URL of RSS feed, select filters/rules & get new RSS feed link !  [reddit post 1](https://www.reddit.com/r/rss/comments/gymduu/filtering_an_rss_feed/ftbdxd8/)  & [Reddit post 2](https://www.reddit.com/r/rss/comments/gymduu/filtering_an_rss_feed/g2axsk1/)  
+[FeedRinse](http://feedrinse.com/index-old.php)  <--  lets you auto-filter out syndicated content that you aren't interested in. (spam filter)  
 # RSS other
 [MASSIVE LIST OF RSS FEEDS](https://gist.github.com/myano/b4c1e06ed36fd64547a3)  
 [Alternative RSS reader list](https://alternativeto.net/browse/search?q=rss)  
