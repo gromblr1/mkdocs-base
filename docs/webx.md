@@ -33,6 +33,8 @@ After this, copy/paste and save into a text document called url_list.txt.
 # Localhost tunneling
 [Staqlab-tunnel](https://tunnel.staqlab.com/)  <-- offers free permanent subdomain  (w/ugly splash page)  
 [NGROK](https://ngrok.com/)  <-- awesome but subdomains expire and are randomly generated  
+Related: [Caddy 2](https://caddyserver.com/)  <-- open source web server with automatic HTTPS  
+[Raspberry Pi as a local server for self hosting applications](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/)  
 
 # DNS Tools
 [DNS-O-Matic](https://www.dnsomatic.com/)  <-- free/easy way to announce your dynamic IP changes to MANY services w/ a single update.  
@@ -63,6 +65,19 @@ After this, copy/paste and save into a text document called url_list.txt.
 
 [.htaccess Snippets](https://github.com/phanan/htaccess)  
 [.htaccess Generator](https://www.htaccessredirect.net/)  
+
+Notes:  
+-*Use a beautifier to clean up HTML or XML code.*  
+-*Use a an Xpath parser to extract specific XML data.*  
+
+### XML, XSLT, XPATH, Xquery
+[Xpather](http://xpather.com/)  <-- interactively query XML documents  
+<img src="https://youtube.com/favicon.ico">[XPath / XQuery Tutorial for SQL Pros](https://www.youtube.com/watch?v=NUTvFwXGN-M)    
+<img src="https://youtube.com/favicon.ico">[Extracting useful data from HTML pages with XQuery
+](https://www.youtube.com/watch?v=y0moOP971S0)
+
+[Tizag.com: xml tutorial](http://www.tizag.com/xmlTutorial/)  
+  
 # No-code platforms
 [Appgyver](https://www.appgyver.com/)  <--The world's first professional no-code platform, enabling you to build apps for all form factors, including mobile, desktop, browser, TV and others.  
 [Bubble.io](https://bubble.io/)  <-- enables anyone to design, develop, and launch powerful web apps without writing code.  
@@ -184,7 +199,7 @@ Match	<font color=green>896.</font>
 Match	<font color=green>?=+.</font>	
 Skip	abc1  
 
-ANSWER: ...\.  
+ANSWER: ...\\.  
 <hr>
 Match	<font color=green>can</font>	 
 Match	<font color=green>man</font>	 
