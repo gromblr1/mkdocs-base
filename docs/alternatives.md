@@ -74,6 +74,7 @@ Related:[Ruqqus-metrics](https://ruqqus-metrics.com/)
 [Postmill.xyz](https://postmill.xyz/)  
 [Reddit list](https://www.reddit.com/r/RedditAlternatives/comments/fas4on/list_of_active_reddit_alternatives_50/)    
 [Are you Reddit shadowbanned ? (TOOL)](https://nullprogram.com/am-i-shadowbanned/)  
+[Reveddit.com](https://www.reveddit.com/about/)  <-- check to see which posts were deleted by username  
 [SNOOPSNOO](https://www.snoopsnoo.com/about/)  <-- reddit user and subreddits analytics.
 
 4chan & 8kun are too extreme and full of debauchery.  
