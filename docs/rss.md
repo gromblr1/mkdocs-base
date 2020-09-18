@@ -36,6 +36,8 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLISTID
 [FetchRSS](https://fetchrss.com/)  
 [Siftrss](https://siftrss.com/)  <-- Enter URL of RSS feed, select filters/rules & get new RSS feed link !  [reddit post 1](https://www.reddit.com/r/rss/comments/gymduu/filtering_an_rss_feed/ftbdxd8/)  & [Reddit post 2](https://www.reddit.com/r/rss/comments/gymduu/filtering_an_rss_feed/g2axsk1/)  
 [FeedRinse](http://feedrinse.com/index-old.php)  <--  lets you auto-filter out syndicated content that you aren't interested in. (spam filter)  
+[RSS Mix](http://www.rssmix.com)  <-- Mix any number of RSS feeds into one unique new feed!  
+[Feed.informer](http://feed.informer.com/)  
 # RSS other
 [MASSIVE LIST OF RSS FEEDS](https://gist.github.com/myano/b4c1e06ed36fd64547a3)  
 [Alternative RSS reader list](https://alternativeto.net/browse/search?q=rss)  
