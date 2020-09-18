@@ -1,3 +1,8 @@
+<![CDATA[
+test tags <b>weee</b> <a href="https://www.stupid.com"> STUPID ACE</a>
+]]>
+
+
 [Popping side Judge (Poppin J, Kei, JR Boogaloo) | 20140302 OBS Vol.8](https://www.youtube.com/watch?v=uPH8v8uMG-I)  
 
 [World Destruction (Meltdown Remix) Afrika Bambaataa](https://www.youtube.com/watch?v=aAvlWIyHxJ4)  
@@ -65,11 +70,17 @@
 [Scatman Crothers - Ah'm a Nigger Man](https://www.youtube.com/watch?v=lPIZboQw1zA)  
 [[Electro] - Nitro Fun - New Game [Monstercat Release]](https://www.youtube.com/watch?v=6y_NJg-xoeE)  
 [Elvis Crespo - Tu Sonrisa](https://www.youtube.com/watch?v=3CqNeJLqvL0)  
+[Los Cuates de Sinaloa - El Manicero](https://www.youtube.com/watch?v=VMWNcHuTDVY)  
 [Los Ángeles Azules - Toma Que Toma (Video Oficial)](https://www.youtube.com/watch?v=C6c8Kvn3nKM)  
 [Kevin MacLeod ~ Achaidh Cheide](https://www.youtube.com/watch?v=istqadd7x8I)  
 [Big Red Panda - Still Moment](https://www.youtube.com/watch?v=F4_BLkh-TXU)  
 [Candy Dulfer / Dave Stewart - Lily Was Here 1989 Video HD](https://www.youtube.com/watch?v=_5kKo2_2MzI)  
 [ＶＡＰＩＮＧ　ＩＮ　ＴＨＥ　Ｈ００Ｄ - リサフランク420 / 現代のコンピュー](https://www.youtube.com/watch?v=_HJ9LdmppYU)  
+[Osamu Kitajima - Wild Monk (JPN 1980)](https://www.youtube.com/watch?v=JVpN8Jxi_Xs)  
+
+# THE FUNK
+[Naxatras - Space Tunnel](https://www.youtube.com/watch?v=nKmd-9p66ZE)  
+[Donald Byrd - The Emperor](https://www.youtube.com/watch?v=Qn3xqRuj2uA)  
 
 ##Other
 [pae & sarah](https://www.youtube.com/watch?v=QDsDOlfz-QU)  
