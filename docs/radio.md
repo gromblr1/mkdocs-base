@@ -9,6 +9,7 @@ Related: [Midomi](https://www.midomi.com/)  <-- excellent song recognizer
 [Horror Theatre](http://www.horror-theatre.com/)  
 [Pumpkinfm.com](https://pumpkinfm.com/)  
 [Online Radio Box](https://onlineradiobox.com/)  
+[Retrostrange.com: Lofi Scifi 24/7 Sci-fi Radio](http://retrostrange.com/)  
 
 ### spooky OTR  
 <img src="https://youtube.com/favicon.ico">["The Dark" -- Arch Oboler 1962](https://www.youtube.com/watch?v=mSmEh8TxswQ)  ((youtube.com))  
