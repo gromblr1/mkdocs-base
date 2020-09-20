@@ -66,10 +66,6 @@ Related: [Caddy 2](https://caddyserver.com/)  <-- open source web server with au
 [.htaccess Snippets](https://github.com/phanan/htaccess)  
 [.htaccess Generator](https://www.htaccessredirect.net/)  
 
-Notes:  
--*Use a beautifier to clean up HTML or XML code.*  
--*Use a an Xpath parser to extract specific XML data.*  
-
 ### XML, XSLT, XPATH, Xquery
 [Xpather](http://xpather.com/)  <-- interactively query XML documents  
 <img src="https://youtube.com/favicon.ico">[XPath / XQuery Tutorial for SQL Pros](https://www.youtube.com/watch?v=NUTvFwXGN-M)    
@@ -77,7 +73,10 @@ Notes:
 ](https://www.youtube.com/watch?v=y0moOP971S0)
 
 [Tizag.com: xml tutorial](http://www.tizag.com/xmlTutorial/)  
-  
+ 
+Notes:  
+-*Use a beautifier to clean up HTML or XML code.*  
+-*Use a an Xpath parser to extract specific XML data.*  
 # No-code platforms
 [Appgyver](https://www.appgyver.com/)  <--The world's first professional no-code platform, enabling you to build apps for all form factors, including mobile, desktop, browser, TV and others.  
 [Bubble.io](https://bubble.io/)  <-- enables anyone to design, develop, and launch powerful web apps without writing code.  
