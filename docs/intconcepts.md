@@ -19,6 +19,8 @@
 [Wikipedia:Contents/Glossaries](https://en.wikipedia.org/wiki/Wikipedia:Contents/Glossaries)  
 [Wikipedia:Contents/Outlines](https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines)  <-- Useful format !!  
 [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d) < -- extremely useful mental models   
+[Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)(https://fs.blog/mental-models/?)  
+[Wisecharlie.com](https://www.wisecharlie.com/blog)  <-- A mental model is a representation of an external reality inside your head—a kind of cognitive map. The purpose of mental models is to gain and understand knowledge about the world through key multidisciplinary concepts. The closer you get your cognitive process (the way your brain approaches a problem) to reality, the better the decisions you’ll make in life.  
 
 #Linguistical relations
 [Shibboleth](https://en.wikipedia.org/wiki/Shibboleth)  
