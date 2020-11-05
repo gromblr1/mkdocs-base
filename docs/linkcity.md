@@ -105,6 +105,7 @@ Related: [Le Cinema Fantastique Francais](http://www.cnc-aff.fr/internet_cnc/Int
 <img src="https://youtube.com/favicon.ico">[Improv Dance with Sam Rockwell and Jimmy Fallon (Late Night with Jimmy Fallon)](https://www.youtube.com/watch?v=m8KPyk-8aYk)  
 ) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[Sloth V's Young Harpy Eagle - Sloth Fights Back !](https://www.youtube.com/watch?v=bTwqVn_HjXA&)  
+<img src="https://youtube.com/favicon.ico">[Worst Line Reading Ever](https://www.youtube.com/watch?v=Y9KyBdPeKHg)  
 
 # Lefist bullshit
 [http://nativesinamerica.com/2016/07/dear-jk-rowling-were-still-here/](http://nativesinamerica.com/2016/07/dear-jk-rowling-were-still-here/)   ((http://nativesinamerica.com/))  
