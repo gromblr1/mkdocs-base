@@ -66,6 +66,7 @@ Related: [Caddy 2](https://caddyserver.com/)  <-- open source web server with au
 [.htaccess Snippets](https://github.com/phanan/htaccess)  
 [.htaccess Generator](https://www.htaccessredirect.net/)  
 
+[Blacklight](https://themarkup.org/blacklight/)  <-- A Real-Time Website Privacy Inspector  
 ### XML, XSLT, XPATH, Xquery
 [Xpather](http://xpather.com/)  <-- interactively query XML documents  
 <img src="https://youtube.com/favicon.ico">[XPath / XQuery Tutorial for SQL Pros](https://www.youtube.com/watch?v=NUTvFwXGN-M)    
