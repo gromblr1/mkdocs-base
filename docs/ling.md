@@ -8,4 +8,6 @@
 [False friends](https://en.wikipedia.org/wiki/False_friend)  
 [Skunked term](https://en.wikipedia.org/wiki/Skunked_term)  
 
+[Equivocation](https://en.wikipedia.org/wiki/Equivocation) - use of ambiguous language to avoid telling the truth or forming commitments  
+
 [Ostensive definition](https://en.wikipedia.org/wiki/Ostensive_definition#Further_reading)  
