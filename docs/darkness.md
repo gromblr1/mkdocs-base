@@ -47,7 +47,7 @@ Transhumanism: To live forever without God.
 [A Nightmare on Elm Street: The Occult and Illuminati Analysis](https://illuminatiwatcher.com/nightmare-on-elm-street-the-occult-and-illuminati-analysis/) ((illuminatiwatcher.com))  
 
 [The Truth About Satanic Cults](https://www.goodfight.org/articles/cults-occult/truth-satanic-cults/) ((goodfight.org))  
-[Michael Aquino’s Last Desperate Attempt to Silence his Victims](https://fionabarnett.org/2018/09/04/michael-aquinos-last-desperate-attempt-to-silence-his-victims/) ((fionabarnett.org))  < -- high-level CIA satanist  
+[Michael Aquino’s Last Desperate Attempt to Silence his Victims](https://fionabarnett.org/2018/09/04/michael-aquinos-last-desperate-attempt-to-silence-his-victims/) ((fionabarnett.org))  < -- high-level CIA satanist  [temp. mirror](https://siasky.net/HAGa3ATSPTfVfSsVe4I4Bp1OqAqnxclWCSaRUyDiPq0tog/)  
 Related:[Satanists vs Setians At The Presidio #p3d0gate](https://steemit.com/pizzagate/@kingzos/satanists-vs-setians-at-the-presidio-pedogate)  
 
 [14 Celebrities “Suicided” by Doorknob Hanging, Including a Rothschild and the Ex-Wife of a Rothschild](https://www.sgtreport.com/2019/08/14-celebrities-suicided-by-doorknob-hanging-including-a-rothschild-and-the-ex-wife-of-a-rothschild/)  ((sgtreport.com))  
