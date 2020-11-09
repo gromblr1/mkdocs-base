@@ -83,6 +83,7 @@ Related:[Ruqqus-metrics](https://ruqqus-metrics.com/)
 [Gab.com](https://gab.com/) - a Mastadon instance  
 [Codias](https://www.codias.com/)  -  THE CONSERVATIVE SOCIAL NETWORK   
 [Minds](https://www.minds.com)  - freespech platform    
+[Flote](https://www.flote.app)  - freespech platform    
 <hr>  
 # ALTERNATIVE TO GMAIL
 .. | [GMX](https://gmx.com) | [Mailfence](https://mailfence.com) | [Mailbox.org](https://mailbox.org) | [Protonmail](https://protonmail.com),[Tutanota](https://tutanota.com),[Msgsafe.io](https://msgsafe.io) | [Disroot](https://disroot.org)
