@@ -79,6 +79,10 @@ Related:[Ruqqus-metrics](https://ruqqus-metrics.com/)
 
 4chan & 8kun are too extreme and full of debauchery.  
 <hr>  
+# ALTERNATIVE TO FACEBOOK
+[Gab.com](https://gab.com/) - a Mastadon instance  
+[Codias](https://www.codias.com/)  -  THE CONSERVATIVE SOCIAL NETWORK   
+<hr>  
 # ALTERNATIVE TO GMAIL
 .. | [GMX](https://gmx.com) | [Mailfence](https://mailfence.com) | [Mailbox.org](https://mailbox.org) | [Protonmail](https://protonmail.com),[Tutanota](https://tutanota.com),[Msgsafe.io](https://msgsafe.io) | [Disroot](https://disroot.org)
 --- | --- | --- | --- | --- | ---
@@ -122,9 +126,6 @@ Disroot.org allegedly has up to 4GB instead of 1GB.
 
 [No more google](https://nomoregoogle.com/)  
 [Alternatives to Google Products](https://restoreprivacy.com/google-alternatives/)    
-<hr>  
-# ALTERNATIVE TO FACEBOOK
-[Gab.com](https://gab.com/) - a Mastadon instance
 <hr>  
 # ALTERNATIVE HOSTING
 
