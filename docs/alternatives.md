@@ -218,6 +218,11 @@ Related: [SecureDrop](https://securedrop.org/)
 [Freetubespot](https://www.freetubespot.com/)  <-- Watch millions of high-quality movies free ! NO BS.  
 
 <hr>  
+# ALTERNATIVE to Twitch
+[Dlive](https://Dlive.tv)  
+[Trovo](https://trovo.live)  
+[Theta](https://theta.tv)  
+<hr>  
 # ALTERNATIVE to Amazon
 [Ethical Alternatives to Amazon](https://threshold.us/c/cancelprime/amazon-alternatives)  
 [Cancel Prime](https://threshold.us/c/cancelprime)  
