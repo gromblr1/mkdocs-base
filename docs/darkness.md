@@ -11,6 +11,8 @@ Transhumanism: To live forever without God.
 [The African Dogon Tribe and the Sirius B Prophecy](http://www.nativeamericanprophecy.com/prophecy-dogon-sirius-b.htm) ((nativeamericanprophecy.com))  
 [The Mysterious Connection Between Sirius and Human History](https://vigilantcitizen.com/hidden-knowledge/connection-between-sirius-and-human-history/)  
 
+<img src="https://youtube.com/favicon.ico">[Freemasonry & The Secret Destiny of America](https://www.youtube.com/watch?v=_LDVeQ0AenY)  <-- America = crypto-masonic nation disguised under Christianity ??     
+
 ###Other 
 [Reddit: Why is Hillary Clinton getting emails about sacrificing chickens to Moloch?](https://www.reddit.com/r/conspiracy/comments/g8w0by/why_is_hillary_clinton_getting_emails_about/) ((reddit.com))  
 
