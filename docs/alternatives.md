@@ -83,7 +83,8 @@ Related:[Ruqqus-metrics](https://ruqqus-metrics.com/)
 [Gab.com](https://gab.com/) - a Mastadon instance  
 [Codias](https://www.codias.com/)  -  THE CONSERVATIVE SOCIAL NETWORK   
 [Minds](https://www.minds.com)  - freespech platform    
-[Flote](https://www.flote.app)  - freespech platform    
+[Flote](https://www.flote.app)  - freespech platform  
+Related: [Flote.app - transfer FB data to Flote](https://steemit.com/socialmedia/@floteapp/save-yourself-from-devastation-download-your-facebook-data)    
 <hr>  
 # ALTERNATIVE TO GMAIL
 .. | [GMX](https://gmx.com) | [Mailfence](https://mailfence.com) | [Mailbox.org](https://mailbox.org) | [Protonmail](https://protonmail.com),[Tutanota](https://tutanota.com),[Msgsafe.io](https://msgsafe.io) | [Disroot](https://disroot.org)
@@ -206,6 +207,8 @@ Related: [SecureDrop](https://securedrop.org/)
 [Script for uploading to skynet](https://github.com/t-900-a/jellyfin-skynet-uploader)  
 
 # ALTERNATIVE to Youtube
+[RUMBLE](https://www.rumble.com)  
+[LBRY](https://www.lbry.tv)  
 [Bitchute](https://www.bitchute.com)  
 [Drop.space](https://drop.space)  
 [Bittube](https://bittube.tv)  
