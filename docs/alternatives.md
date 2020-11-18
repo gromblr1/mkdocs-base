@@ -208,7 +208,8 @@ Related: [SecureDrop](https://securedrop.org/)
 
 # ALTERNATIVE to Youtube
 [RUMBLE](https://www.rumble.com)  
-[LBRY](https://www.lbry.tv)  
+[LBRY](https://www.lbry.tv) 
+[Odysee.com](https://odysee.com/) <-- child platform of LBRY specifically for videos   
 [Bitchute](https://www.bitchute.com)  
 [Drop.space](https://drop.space)  
 [Bittube](https://bittube.tv)  
