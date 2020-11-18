@@ -11,6 +11,13 @@
 [GDPR Enforcement Tracker](https://www.enforcementtracker.com/)  <-- Tracker for EU data protection authorities of fines and penalites  
 
 <hr>
+### GROMBLR'S PICKS
+Looking for a Youtube alternative ? Try [Odysee.com](https://odysee.com/).  
+Looking for a Twitch alternative ? Try [Dlive](https://dlive.tv/)  ([Although they did ban Alex Jones.... hmmmm....](https://www.reddit.com/r/OfficialDLive/comments/bd5u1t/dlive_censoring_alex_jones_infowars_experiment/))  
+Looking for a Facebook alternative ? Try [Flote.app](https://flote.app/messages/king)  <-- [Flote.app lets you import ALL of your Facebook data](https://flote.app/settings/import_data) ([tutorial here](https://steemit.com/socialmedia/@floteapp/save-yourself-from-devastation-download-your-facebook-data))  
+
+
+<hr>
 # Fediverse & decentralilzation information
 [Fediverse Network List (MASSIVE)](https://fediverse.network/mastodon)  
 [Fediverse.party](https://fediverse.party/)  
