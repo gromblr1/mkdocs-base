@@ -208,13 +208,13 @@ Related: [SecureDrop](https://securedrop.org/)
 
 # ALTERNATIVE to Youtube
 [RUMBLE](https://www.rumble.com)  
-[LBRY](https://www.lbry.tv) 
+[LBRY](https://www.lbry.tv)  
 [Odysee.com](https://odysee.com/) <-- child platform of LBRY specifically for videos   
 [Bitchute](https://www.bitchute.com)  
 [Drop.space](https://drop.space)  
 [Bittube](https://bittube.tv)  
 [HookTube](https://hooktube.com)  
-[invidious](https://invidio.us)  
+[invidious](https://invidio.us)  <-- closed down Sept 2020  
 [Veto.social](https://www.veto.social/)  
  
 [JoshWHO.net](https://search.joshwho.net/)  <-- Best way to search Bitchute !  
