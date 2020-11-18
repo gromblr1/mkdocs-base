@@ -210,11 +210,12 @@ Related: [SecureDrop](https://securedrop.org/)
 [RUMBLE](https://www.rumble.com)  
 [LBRY](https://www.lbry.tv)  
 [Odysee.com](https://odysee.com/) <-- child platform of LBRY specifically for videos   
+Related: [LBRY.tv rewards](https://lbry.tv/$/rewards)  <-- if you're new, you're gonna need these to do anything(e.g upload videos) AFAIK    
 [Bitchute](https://www.bitchute.com)  
-[Drop.space](https://drop.space)  
 [Bittube](https://bittube.tv)  
 [HookTube](https://hooktube.com)  
 [invidious](https://invidio.us)  <-- closed down Sept 2020  
+[Drop.space](https://drop.space)  
 [Veto.social](https://www.veto.social/)  
  
 [JoshWHO.net](https://search.joshwho.net/)  <-- Best way to search Bitchute !  
