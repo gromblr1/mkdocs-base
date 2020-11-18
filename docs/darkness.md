@@ -93,7 +93,7 @@ Related: [Wandering Jew](https://en.wikipedia.org/wiki/Wandering_Jew)  <-- "conc
 
 ## Vaccines
 <img src="https://youtube.com/favicon.ico">[LISTEN TO WHAT THIS MAN WAS SAYING IN 2014!](https://www.youtube.com/watch?v=nk33GlYxY14) ((youtube.com))  <-- Anthony Patch on the coronavirus and nanotech inside vaccines  
-<img src="https://youtube.com/favicon.ico">[Former FEMA Officer Explains Wave II Hard Lockdown](https://www.youtube.com/watch?v=jt9ExjwOeik) ((youtube.com))  (([mirror](https://www.bitchute.com/video/fEiWelwwxkoQ/)))  
+<img src="https://youtube.com/favicon.ico">[Former FEMA Officer Explains Wave II Hard Lockdown](https://www.youtube.com/watch?v=jt9ExjwOeik) ((youtube.com))  (([mirror](https://www.bitchute.com/video/fEiWelwwxkoQ/)))  ([mirror 2](https://www.bitchute.com/video/pc5Jkgz0h9Of/))   
 <img src="https://youtube.com/favicon.ico">[Urgent information on Covid Vacc!ne](https://www.youtube.com/watch?v=PbJq2KfgOEs) ((youtube.com))  ([mirror](https://www.bitchute.com/video/2oSIEkuV1DGe/))  
 [LUCIFERASE - BILL GATES QUANTUM DOT MICRONEEDLE VACCINE TO ALTER YOUR DNA](https://www.bitchute.com/video/XSvEKJKAUiBD/) ((bitchute.com))   
 Related: [Bill Gates’ Quantum Dot Digital Tattoo Implant to Track COVID-19 Vaccine Compliance](https://savedmag.com/bill-gates-quantum-dot-digital-tattoo-implant-to-track-covid-19-vaccine-compliance/)  ((savedmag.com))  
