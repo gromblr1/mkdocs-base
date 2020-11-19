@@ -13,10 +13,11 @@
 <hr>
 ### GROMBLR'S PICKS
 Looking for a Youtube alternative ? Try [Odysee.com](https://odysee.com/).  
+Related: [LBRY.tv rewards (also used for Odysee.com)](#alternative-to-youtube)</a>  
 Looking for a Twitch alternative ? Try [Dlive](https://dlive.tv/)  ([Although they did ban Alex Jones.... hmmmm....](https://www.reddit.com/r/OfficialDLive/comments/bd5u1t/dlive_censoring_alex_jones_infowars_experiment/))  
 Looking for a Facebook alternative ? Try [Flote.app](https://flote.app/messages/king)  <-- [Flote.app lets you import ALL of your Facebook data](https://flote.app/settings/import_data) ([tutorial here](https://steemit.com/socialmedia/@floteapp/save-yourself-from-devastation-download-your-facebook-data))  
-Related: <a target="_blank" href="#alternative-to-youtube">LBRY.tv rewards (also used for Odysee.com)</a>  
-
+Looking for a Google alternative ? Try [Duckduckgo](https://duckduckgo.com/)  
+Looking for a privacy-focused encrypted chat app ? Try [Telegram](https://telegram.org/)  
 
 <hr>
 # Fediverse & decentralilzation information
