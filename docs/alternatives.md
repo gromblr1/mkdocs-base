@@ -139,6 +139,9 @@ Disroot.org allegedly has up to 4GB instead of 1GB.
 [No more google](https://nomoregoogle.com/)  
 [Alternatives to Google Products](https://restoreprivacy.com/google-alternatives/)    
 <hr>  
+# ALTERNATIVE to Google Play Store
+[F-Droid](https://f-droid.org/en/)  
+<hr>
 # ALTERNATIVE HOSTING
 
 .. | [Mega.nz](https://mega.nz/) | [Mediafire](https://www.mediafire.com/) | [4shared](https://4shared.com/) | [Sabercat](https://sabercathost.com/) 
