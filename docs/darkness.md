@@ -12,6 +12,7 @@ Transhumanism: To live forever without God.
 [The Mysterious Connection Between Sirius and Human History](https://vigilantcitizen.com/hidden-knowledge/connection-between-sirius-and-human-history/)  
 
 <img src="https://youtube.com/favicon.ico">[Freemasonry & The Secret Destiny of America](https://www.youtube.com/watch?v=_LDVeQ0AenY)  <-- America = crypto-masonic nation disguised under Christianity ??     
+[Do You Believe in Magick? Part I](https://www.youtube.com/watch?v=vkwBjLG1ULA)  Presidents,"As Above,So Below", relfections, freemasonry  
 
 ###Other 
 [Reddit: Why is Hillary Clinton getting emails about sacrificing chickens to Moloch?](https://www.reddit.com/r/conspiracy/comments/g8w0by/why_is_hillary_clinton_getting_emails_about/) ((reddit.com))  
@@ -115,7 +116,7 @@ Related: [Dead Microbiologists](https://rense.com/general96/deadmicro.html)  ((r
 <img src="https://youtube.com/favicon.ico">[Hollywood P3d0phile Ring Is Going Down](https://www.youtube.com/watch?v=M3rAzIAw5KE&feature=youtu.be) ((youtube.com))  
 <img src="https://youtube.com/favicon.ico">[ISAAC KAPPY - TITANIC MARDAN PALACE (TOM HANKS & GEORGE CLOONEY)](https://www.bitchute.com/video/fv8bXNM13kH9/) ((bitchute.com))  
 [ANOTHER P3D0GATE RESEARCHER DEAD](https://archive.4plebs.org/pol/thread/219192491/) ((archive.4plebs.org))  <-- long Tracy Tyman discussion  [Skynet mirror](https://siasky.net/GAAfwAhfArhl5qyWlGury3mOIbDHMkMwlomsvTD-mXdDgQ/)  
-<img src="https://youtube.com/favicon.ico">[Tracy Twyman, Isaac Kappy and the Creepy Campground](https://www.youtube.com/watch?v=EMS0uuQVbBs) ((youtube.com)) < Twymans last video 
+<img src="https://youtube.com/favicon.ico">[Tracy Twyman, Isaac Kappy and the Creepy Campground](https://www.youtube.com/watch?v=EMS0uuQVbBs) ((youtube.com)) < Twymans last video ([mirror](https://odysee.com/@QuantumRhino:9/tracy-twyman-isaac-kappy-and-the-creepy:b))  
 📷[Twymans FB msgs to the FBI](https://wikispooks.com/w/images/0/05/Tracy_Twyman%27s_chat_which_mentions_her_dead_man%27s_switch_video_and_the_creepy_campground.png) ((wikispooks.com))  
 Related: [Another #P3doGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/)  
 Related: [King Dagobert II Mascot of the OLE](https://www.bibliotecapleyades.net/merovingians/merovingios_09a.htm) ((bibliotecapleyades.net))  
@@ -128,7 +129,7 @@ Related: [The Franks](http://redqueenwhitequeen.com/articles/franks.shtml) ((red
 📷[Celebrity p3dos](https://uploads.disquscdn.com/images/579be7e251f8644843bd5819462bf6403fe73888a7ed4f095961608f5be22f80.jpg) ((disqus cdn))  
 <img src="https://youtube.com/favicon.ico">[Exposing P3d0 Content on Instagram - Conspiracy Castle LIVE](https://www.youtube.com/watch?v=cWcXqhdvdF8)  ((youtube.com))  
 Related:[Reddit: I find it very strange that Greece has had this law since 2012. Now Tom Hanks is a citizen of Greece. It’s a little strange that in the midst of all of this that he now decided to up and move his whole life to a country that can protect him. #pizzagate is LIVE.](https://www.reddit.com/r/conspiracy/comments/hz6jom/i_find_it_very_strange_that_greece_has_had_this/)  
-
+Related: [Hankerchief code](https://en.wikipedia.org/wiki/Handkerchief_code)  
 [4CHAN STORY - X - WORKING FOR EPSTEIN (removed from Youtube)](https://www.bitchute.com/video/mMrRggTAGG10/)  
 
 ###Other
