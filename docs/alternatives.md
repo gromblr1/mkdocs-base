@@ -9,6 +9,15 @@
 ### Other surveillance info/
 [List of government mass surveillance projects](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects)  
 [GDPR Enforcement Tracker](https://www.enforcementtracker.com/)  <-- Tracker for EU data protection authorities of fines and penalites  
+<hr>
+### Con-Spire- Cccccc
+[Emily Moyer](https://www.youtube.com/user/technobrat1/videos)  
+[DITRH](https://www.youtube.com/c/DITRH/videos)  
+[Flat Earth Sun, Moon & Zodiac Clock app](https://www.youtube.com/channel/UClWTBNGnjXEZOtEwEp9BGTg/videos)  
+[Skullcap Savant](https://www.youtube.com/c/SkullcapSaVant/videos)  
+[Chass](https://www.youtube.com/c/Chasseur/videos)  (Lots of eerie 4chan greentext/reddit stories)  
+[JayDreamerZ](https://www.youtube.com/c/JayDreamerZ/videos)  (Plasma apocalypse, titans)  
+[Esoteric Atlanta](https://www.youtube.com/c/EsotericAtlanta/videos)  
 
 <hr>
 ### GROMBLR'S PICKS
