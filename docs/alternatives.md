@@ -12,12 +12,18 @@
 <hr>
 ### Con-Spire- Cccccc
 [Emily Moyer](https://www.youtube.com/user/technobrat1/videos)  
+
 [DITRH](https://www.youtube.com/c/DITRH/videos)  
 [Flat Earth Sun, Moon & Zodiac Clock app](https://www.youtube.com/channel/UClWTBNGnjXEZOtEwEp9BGTg/videos)  
+[DITRH INTERVIEWS](https://www.youtube.com/playlist?list=PLEzivhxtxgbvSQjsk4yoBOcWDxMUUkGLx)  
+
 [Skullcap Savant](https://www.youtube.com/c/SkullcapSaVant/videos)  
 [Chass](https://www.youtube.com/c/Chasseur/videos)  (Lots of eerie 4chan greentext/reddit stories)  
 [JayDreamerZ](https://www.youtube.com/c/JayDreamerZ/videos)  (Plasma apocalypse, titans)  
 [Esoteric Atlanta](https://www.youtube.com/c/EsotericAtlanta/videos)  
+[my perspective](https://www.youtube.com/channel/UCIurtSuhBTv0wzlZaKVbMyw/videos)  
+
+[thirdphaseofmoon](https://www.youtube.com/c/thirdphaseofmoon/videos)  
 
 <hr>
 ### GROMBLR'S PICKS
