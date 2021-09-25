@@ -1,4 +1,5 @@
 # Illuminati, Global Elite, NWO, Luciferianism, Freemasons
+[Tracy Twyman on Infinity Factory FULL VIDEO](https://gateway.pinata.cloud/ipfs/QmPhAmWpYLzjHfvMzNtYA6BpQePVmMgR4r7e7zd4UJCcVV)  ((IPFS Pinata)) < -- This video is getting removed from LBRY, Bitchute and all "freespeech" video platforms. Tracy Twyman talks about the Knights Templar, Priory of Sion and their bloodline relation to Jesus Christ.  
 
 Transhumanism: To live forever without God.
 
