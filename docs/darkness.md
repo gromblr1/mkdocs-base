@@ -34,7 +34,8 @@ Transhumanism: To live forever without God.
 ###Other
 [Full Bizarre, Demonic Gotthard Tunnel Opening Ceremony, Satanic, New World Order, Illuminati Ritual](https://www.youtube.com/watch?v=zW5gklIKcDg) ((youtube.com))  <-- satanic ritual at CERn (extended)  
 [Spektakuläre Performace zur ersten Gotthard-Durchfahrt - Gotthard - Eröffnung - Tunnel - 2016](https://www.youtube.com/watch?v=RnhOO4-KqWY) ((youtube.com)) <-- satanic ritual at CERN    
-<img src="https://youtube.com/favicon.ico">[Butoh - After the Horror I Tokyo Paranormal (10/10) I ARTE Documentary](https://www.youtube.com/watch?v=f8nFCRJ25HU) ((youtube.com))  <--"2:28 The idea is to create a new space-time as the basis for our dances. Ghosts and other creatures are then welcome to enter this new space-time."  [mirror](https://siasky.net/AACwmrmdbA-_Jli0jefU9TAhHVAkyonX5IaYxAuvtdCKgg)  
+<img src="https://youtube.com/favicon.ico">[Butoh - After the Horror I Tokyo Paranormal (10/10) I ARTE Documentary](https://www.youtube.com/watch?v=f8nFCRJ25HU) ((youtube.com))  <--"2:28 The idea is to create a new space-time as the basis for our dances. Ghosts and other creatures are then welcome to enter this new space-time."  
+[mirror](https://siasky.net/AACwmrmdbA-_Jli0jefU9TAhHVAkyonX5IaYxAuvtdCKgg)  [mirror 2](https://odysee.com/@CAP_DA_FLAG:8/butoh_arte_tokyoparanormal:a)  
 
 ## Black Cube(Black Sun), Saturn, Moloch
 [Saturn, Satan, and 666](http://www.atlanteanconspiracy.com/2008/07/saturn-satan-and-666.html) ((atlanteanconspiracy.com))  
