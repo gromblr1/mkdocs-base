@@ -49,7 +49,7 @@ Transhumanism: To live forever without God.
 [Saturn And The Occult](http://yahuahreigns.com/saturn%20and%20the%20occult.html) ((yahuahreigns.com))  
 [Saturn Worship – The Black Cube of Cronus](https://zeteticzen.wordpress.com/2016/12/10/saturn-worship-the-black-cube-of-cronus/) ((zeteticzen.wordpress.com))  
 
-[A Nightmare on Elm Street: The Occult and Illuminati Analysis](https://illuminatiwatcher.com/nightmare-on-elm-street-the-occult-and-illuminati-analysis/) ((illuminatiwatcher.com))  
+[A Nightmare on Elm Street: The Occult and Illuminati Analysis](https://illuminatiwatcher.com/nightmare-on-elm-street-the-occult-and-illuminati-analysis/) ((illuminatiwatcher.com))  [mirror](https://web.archive.org/web/20210127133233/https://illuminatiwatcher.com/nightmare-on-elm-street-the-occult-and-illuminati-analysis/)  
 
 [The Truth About Satanic Cults](https://www.goodfight.org/articles/cults-occult/truth-satanic-cults/) ((goodfight.org))  
 [Michael Aquino’s Last Desperate Attempt to Silence his Victims](https://fionabarnett.org/2018/09/04/michael-aquinos-last-desperate-attempt-to-silence-his-victims/) ((fionabarnett.org))  < -- high-level CIA satanist  [temp. mirror](https://siasky.net/HAGa3ATSPTfVfSsVe4I4Bp1OqAqnxclWCSaRUyDiPq0tog/)  ([archive.com mirror](https://web.archive.org/web/20191017154515/https://fionabarnett.org/2018/09/04/michael-aquinos-last-desperate-attempt-to-silence-his-victims/))
