@@ -57,7 +57,7 @@ Related:[Satanists vs Setians At The Presidio #p3d0gate](https://steemit.com/piz
 
 [14 Celebrities “Suicided” by Doorknob Hanging, Including a Rothschild and the Ex-Wife of a Rothschild](https://www.sgtreport.com/2019/08/14-celebrities-suicided-by-doorknob-hanging-including-a-rothschild-and-the-ex-wife-of-a-rothschild/)  ((sgtreport.com))  
 [Black Sun celeb doorknob rituals](https://prepareforchange.net/2020/07/22/the-doorknob-sacrifices-a-black-sun-ritual-12-celebrity-suicides-related-to-pedophilia-cover-up/) ((prepareforchange.net))  
- Related: [The Epstein-Funded CP Hub MIT Media Lab That Mxrdered Aaron Swartz](https://rense.com/general96/the-epstein-funded-child-porn-hub-mit-media-lab-that-murdered-aaron-swartz.php) ((rense.com))  (([older article](https://rense.com/general95/swartz.html)))  (([mirror](http://themillenniumreport.com/2019/08/jeffrey-epstein-mit-media-lab-and-the-bizarre-suiciding-of-aaron-swartz/)))  
+ Related: [The Epstein-Funded CP Hub MIT Media Lab That Mxrdered Aaron Swartz](https://rense.com/general96/the-epstein-funded-child-porn-hub-mit-media-lab-that-murdered-aaron-swartz.php) [MIRROR](https://web.archive.org/web/20210902022746/https://rense.com/general96/the-epstein-funded-child-porn-hub-mit-media-lab-that-murdered-aaron-swartz.php)  ((rense.com))  (([older article](https://rense.com/general95/swartz.html)))  (([mirror](http://themillenniumreport.com/2019/08/jeffrey-epstein-mit-media-lab-and-the-bizarre-suiciding-of-aaron-swartz/)))  
  
 ### Other
 [NIMROD, MARS AND THE MARDUK CONNECTION](http://www.ldolphin.org/Nimrod.html)  ((ldolphin.org))   
