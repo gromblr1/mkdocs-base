@@ -106,9 +106,12 @@ Related:[Ruqqus-metrics](https://ruqqus-metrics.com/)
 # ALTERNATIVE TO FACEBOOK
 [Gab.com](https://gab.com/) - a Mastadon instance  
 [Codias](https://www.codias.com/)  -  THE CONSERVATIVE SOCIAL NETWORK   
-[Minds](https://www.minds.com)  - freespech platform    
-[Flote](https://www.flote.app)  - freespech platform  
+[Minds](https://www.minds.com)  - freespeech platform    
+[Flote](https://www.flote.app)  - freespeech platform  
 Related: [Flote.app - transfer FB data to Flote](https://steemit.com/socialmedia/@floteapp/save-yourself-from-devastation-download-your-facebook-data)    
+  
+[SpaceHey](https://www.spacehey.com) <-- MYSPACE IS BACK !!!!!!!!!!!!!!!!!!    
+  
 <hr>  
 # ALTERNATIVE TO GMAIL
 .. | [GMX](https://gmx.com) | [Mailfence](https://mailfence.com) | [Mailbox.org](https://mailbox.org) | [Protonmail](https://protonmail.com),[Tutanota](https://tutanota.com),[Msgsafe.io](https://msgsafe.io) | [Disroot](https://disroot.org)
@@ -186,6 +189,10 @@ Related: [Blockstack dapps](https://browser.blockstack.org/)  <-- massive list o
 [OVHCloud](https://www.ovh.com/world/)  <-- (possible)free speech hosting   
 
 [Streamable](https://streamable.com/)  <-- no signup required  (videos no longer than 10 minutes)  
+
+## Pastebins
+[Txtu.es](http://txti.es/) <-- super quick public webpages
+[SkyBin](https://siasky.net/CAAVU14pB9GRIqCrejD7rlS27HltGGiiCLICzmrBV0wVtA)  <-- pastebin on SkyNet protcol  
 [Telegra.ph](https://telegra.ph/) <-- no signup required, anonymous blogging platform  
 
 ## Other
@@ -232,6 +239,10 @@ Related: [SecureDrop](https://securedrop.org/)
 [Pagebin](https://siasky.net/fABqxepoA1CnWZ0Kl6NQd6FpDYiHGYinKLrZAVw923rHjg/)  
 [Skynet Gallery](https://skyportal.xyz/AAB0cZcN6HYyKYx8aqBrDG9AitgGaXq8mn0MPCI6aFlZCQ/#/)  
 [Script for uploading to skynet](https://github.com/t-900-a/jellyfin-skynet-uploader)  
+
+## Pastebins
+[Txtu.es](http://txti.es/) <-- super quick public webpages
+[SkyBin](https://siasky.net/CAAVU14pB9GRIqCrejD7rlS27HltGGiiCLICzmrBV0wVtA)  <-- pastebin on SkyNet protcol  
 
 # ALTERNATIVE to Youtube
 [RUMBLE](https://www.rumble.com)  
